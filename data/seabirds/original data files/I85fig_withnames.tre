@@ -1,0 +1,9 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Apr 23 00:59:50 2009]
+[!
+>Data file = /v/filer4b/v19q001/mswenson/SCM_PROJECT/REAL_DATA/KENNEDY_2002/I85fig.tre
+>Tree(s) input to PAUP* as user-defined tree(s)
+]
+tree PAUP_1 = [&R] ((((((((Pterodroma_baraui,Pterodroma_arminjoniana),(Pterodroma_externa,Pterodroma_neglecta)),((Pterodroma_phaeopygia,Pterodroma_sandwichensis),Pterodroma_heraldica)),Pterodroma_alba),((((((((Pterodroma_feae,Pterodroma_madeira),Pterodroma_mollis),(((Pterodroma_cahow,Pterodroma_hasitata),Pterodroma_incerta),Pterodroma_lessonii)),Pterodroma_magentae),Pterodroma_macroptera),Pterodroma_solandri),Pterodroma_ultima),Pterodroma_inexpectata)),((Pterodroma_pycrofti,Pterodroma_longirostris),(Pterodroma_brevipes,(Pterodroma_leucoptera,(Pterodroma_cookii,Pterodroma_defilippiana))))),Pterodroma_hypoleuca),((Pterodroma_cervicalis,Pterodroma_nigripennis),Pterodroma_axillaris));
+End;

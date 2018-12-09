@@ -1,0 +1,9 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Apr 23 01:02:04 2009]
+[!
+>Data file = /v/filer4b/v19q001/mswenson/SCM_PROJECT/REAL_DATA/KENNEDY_2002/S90fig.tre
+>Tree(s) input to PAUP* as user-defined tree(s)
+]
+tree PAUP_1 = [&R] (((Fregata_ariel,Fregata_magnificens),Fregata_minor),(((((Eudyptula_minor,Spheniscus_demersus),Megadyptes_antipodes),Pygoscelis_papua),Aptenodytes_patagonicus),((Gavia_immer,Gavia_stellata),((Oceanites_oceanicus,(Oceanodroma_furcata,Oceanodroma_hornbyi,Oceanodroma_leucorhoa)),(((Pelecanoides_urinatrix,Pelecanoides_georgicus),(Macronectes_giganteus,((Lugensa_brevirostris,(Pterodroma_cookii,Pterodroma_hypoleuca,Pterodroma_arminjoniana,Pterodroma_hasitata)),(Pachyptila_vittata,Thalassoica_antarctica,(Puffinus_griseus,Calonectris_diomedea))))),(Thalassarche_bulleri,Thalassarche_cauta,Thalassarche_chrysostoma,(Phoebastria_nigripes,(Phoebastria_irrorata,(Diomedea_epomophora,Phoebastria_immutabilis)))))))));
+End;

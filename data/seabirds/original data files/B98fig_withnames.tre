@@ -1,0 +1,9 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Apr 23 00:58:51 2009]
+[!
+>Data file = /v/filer4b/v19q001/mswenson/SCM_PROJECT/REAL_DATA/KENNEDY_2002/B98fig.tre
+>Tree(s) input to PAUP* as user-defined tree(s)
+]
+tree PAUP_1 = [&R] ((Diomedea_exulans,Oceanodroma_leucorhoa),(Pelecanoides_urinatrix,((((Bulweria_bulwerii,Procellaria_cinerea),((Calonectris_diomedea,Puffinus_pacificus),(Pseudobulweria_aterrima,Pseudobulweria_rostrata))),((Fulmarus_glacialis,Macronectes_giganteus),Pagodroma_nivea)),(Pterodroma_nigripennis,Pterodroma_baraui))),Pelecanus_erythrorhynchos);
+End;

@@ -1,0 +1,23 @@
+======================================================================
+
+This file contains Newick format source trees for the placental mammals 
+dataset; it is suitably formatted to be used as input to SuperFine:
+
+placental mammals/source trees/beck.source_trees
+
+======================================================================
+
+This is the data file for the placental mammals dataset acquired from the 
+original study's authors:
+
+placental mammals/original data file/Beck_et_al._complete_analysis_source_trees.nex
+
+======================================================================
+
+This file is a Python script which was used to transform the original data 
+file into the single source tree file.  The "cleanBeck.py" script combines 
+Newick trees from the original data file into a single file.
+
+placental mammals/cleaning script/cleanBeck.py
+
+======================================================================

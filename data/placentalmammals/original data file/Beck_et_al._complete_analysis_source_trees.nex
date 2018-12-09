@@ -1,0 +1,1218 @@
+#NEXUS
+begin trees;
+
+[weight = 1]	tree RobB_pr_211_1_YWHAB_semiMRP_cons.tre = (Real_OG,(Muridae,Hominidae,Bovidae));
+
+[weight = 1]	tree RobB_pr_211_1_YWHAH_semiMRP_cons.tre = (Real_OG,(Hominidae,(Muridae,Bovidae)));
+
+[weight = 1]	tree RobB_pr_211_1_YWHAZ_semiMRP_cons.tre = (Real_OG,(Muridae,Bovidae,Hominidae));
+
+[weight = 1]	tree RobB_pr_256_1d.tre = (Real_OG,(Suidae,Hominidae,Muridae));
+
+[weight = 1]	tree RobB_pr_256_1f.tre = (Real_OG,(Muridae,(Suidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_256_1e.tre = (Real_OG,(Hominidae,(Suidae,Muridae)));
+
+[weight = 1]	tree robb_pr_88_1f.tre = (Real_OG,(Muridae,(Hominidae,Leporidae)));
+
+[weight = 1]	tree robb_pr_349_35.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_349_36.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree RobB_pr_344_6_ADORA3_semiMRP_cons.tre = ((((((Balaenopteridae,Delphinidae,Hippopotamidae),Bovidae,((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),(Camelidae,(Leporidae,Ochotonidae)),(((Canidae,Felidae),Manidae),((Nycteridae,Phyllostomidae),Pteropodidae)),(Chrysochloridae,(Elephantidae,Trichechidae),Macroscelididae,Orycteropodidae,Procaviidae,Tenrecidae),(Dasypodidae,Myrmecophagidae),((Equidae,Rhinocerotidae),Tapiridae),((Erinaceidae,Soricidae),Talpidae),(Lemuridae,Tupaiidae),Suidae),Tarsiidae),Cynocephalidae),((((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae),Muridae)),Real_OG);
+
+[weight = 1]	tree robb_pr_256_1a.tre = (Real_OG,(Bovidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_256_1b.tre = (Real_OG,(Muridae,(Suidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_9_1.tre = (Real_OG,(Tenrecidae,(Chrysochloridae,(Macroscelididae,(Orycteropodidae,(((Dasypodidae,(Myrmecophagidae,(Bradypodidae,Megalonychidae))),(((Tupaiidae,(Leporidae,((Hystricidae,Muridae),(Sciuridae,Aplodontidae)))),(Cynocephalidae,Hominidae)),((((Erinaceidae,Talpidae),(Camelidae,(Suidae,(Hippopotamidae,(Bovidae,Physeteridae))))),(Equidae,Rhinocerotidae)),(Felidae,(Manidae,(Vespertilionidae,(Pteropodidae,(Phyllostomidae,(Molossidae,(Megadermatidae,Rhinolophidae)))))))))),(Elephantidae,(Procaviidae,Dugongidae))))))));
+[weight = 1]	tree robb_pr_93_1.tre = (Orycteropodidae,((((Tupaiidae,(((((Anomaluridae,(Dipodidae,Muridae)),(Castoridae,(Heteromyidae,Geomyidae))),(Ctenodactylidae,(Hystricidae,((Bathyergidae,Caviidae,(Thryonomyidae,Petromuridae)),(Echimyidae,(Chinchillidae,Erethizontidae)))))),(Myoxidae,(Sciuridae,Aplodontidae))),(Ochotonidae,Leporidae))),(Hominidae,Cynocephalidae)),(Erinaceidae,(Equidae,(Bradypodidae,(Camelidae,(Bovidae,(Suidae,Physeteridae)))),(Felidae,(Manidae,Pteropodidae))))),(Dugongidae,Procaviidae)),Real_OG);
+[weight = 1]	tree robb_pr_96_1.tre = ((Bradypodidae,(((Orycteropodidae,(Macroscelididae,(Chrysochloridae,Tenrecidae))),(Procaviidae,(Elephantidae,(Dugongidae,Trichechidae)))),(((((Camelidae,(Suidae,(Bovidae,(Hippopotamidae,(Balaenopteridae,(Delphinidae,Physeteridae)))))),(Talpidae,Erinaceidae)),((Pteropodidae,Phyllostomidae),(Felidae,Phocidae),Manidae)),(Rhinocerotidae,(Equidae,Tapiridae))),((Sciuridae,(Caviidae,Muridae)),((Cynocephalidae,(Hominidae,Loridae)),(Leporidae,Tupaiidae)))))),Real_OG);
+[weight = 1]	tree RobB_pr_344_7_ADRA2B_semiMRP_cons.tre = ((((((Camelidae,Hippopotamidae),Suidae),(Elephantidae,(((Equidae,Tapiridae),Talpidae),(((Erinaceidae,(Nycteridae,Pteropodidae)),Felidae),Manidae)))),(((Caviidae,Erethizontidae),Muridae),(((Chrysochloridae,Macroscelididae,Orycteropodidae,(Procaviidae,Trichechidae),Tenrecidae),Dasypodidae),Cynocephalidae,Tupaiidae),(Hominidae,Ochotonidae))),Soricidae),Real_OG);
+
+[weight = 1]	tree robb_pr_323_7b.tre = (Real_OG,(Caviidae,((Bovidae,Suidae),Muridae)));
+[weight = 1]	tree robb_pr_348_16.tre = (Muridae,(Bovidae,Suidae,Balaenopteridae));
+[weight = 1]	tree robb_pr_349_19.tre = (Real_OG,(Hominidae,(Muridae,Caviidae)));
+
+[weight = 1]	tree robb_pr_189_1a.tre = (Real_OG,((Hominidae,Suidae),(Leporidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_189_1b.tre = (Real_OG,(Hominidae,(Bovidae,Muridae)));
+
+[weight = 1]	tree robb_pr_322_1.tre = (Real_OG,(Bovidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_236_1b.tre = (Real_OG,(Geomyidae,Muridae,(Leporidae,(Equidae,(Hominidae,Cercopithecidae)))));
+
+[weight = 1]	tree robb_pr_236_1a.tre = (Real_OG,((Equidae,Hominidae),Muridae));
+
+[weight = 1]	tree robb_pr_304_1b.tre = (Real_OG,(Muridae,(Macroscelididae,((Equidae,Hominidae),Bovidae))));
+
+[weight = 1]	tree robb_pr_304_1a.tre = (Real_OG,(Hominidae,Bovidae,(Equidae,Muridae)));
+
+[weight = 1]	tree robb_pr_251_1a.tre = (Real_OG,(Suidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_251_1b.tre = (Real_OG,(Muridae,(Hominidae,(Suidae,Bovidae))));
+
+[weight = 1]	tree robb_pr_69_1.tre = (Real_OG,(Hominidae,Muridae,(Suidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_349_56.tre = (Leporidae,(Suidae,Hominidae));
+
+[weight = 1]	tree robb_pr_144_1_ALAS2_semiMRP_cons.tre = (Real_OG,((Hominidae,Monodontidae),Muridae));
+
+[weight = 1]	tree robb_pr_284_1.tre = (Real_OG,((Hominidae,Monodontidae),Muridae));
+
+[weight = 1]	tree robb_pr_209_1.tre = (Real_OG,(Muridae,(Suidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_127_1.tre = (Real_OG,((Hominidae,Leporidae),(Muridae,(Bovidae,Suidae))));
+
+[weight = 1]	tree robb_pr_203_1a.tre = (Real_OG,((Leporidae,Hominidae),Muridae));
+
+[weight = 1]	tree robb_pr_203_1b.tre = (Real_OG,(Hominidae,(Leporidae,Muridae)));
+
+[weight = 1]	tree robb_pr_349_30.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_198_1.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_231_1a.tre = (Real_OG,(Suidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree marcelc_rl_30_1.tre = (Real_OG,(Muridae,(((Hominidae,Cercopithecidae),Bovidae),(Leporidae,Caviidae))));
+
+[weight = 1]	tree robb_pr_86_1.tre = (Real_OG,Muridae,(Hominidae,Leporidae));
+
+[weight = 1]	tree robb_pr_202_1.tre = (Real_OG,(Erinaceidae,(Muridae,((Suidae,Bovidae),(Canidae,(Leporidae,(Hominidae,Cercopithecidae)))))));
+
+[weight = 1]	tree RobB_pr_133_1_APOB_semiMRP_cons.tre = (((((((((((((Agoutidae,Hydrochaeridae),Dinomyidae),Erethizontidae),Hystricidae),Muridae,Sciuridae),(Leporidae,Ochotonidae)),Tupaiidae),Cynocephalidae),(((Cebidae,(Cercopithecidae,Hominidae)),Tarsiidae),Lemuridae)),(((((((((Balaenidae,Phocoenidae),Hippopotamidae),Cervidae),Suidae),Camelidae),((Erinaceidae,Soricidae),Talpidae)),(((Megadermatidae,Rhinolophidae),Pteropodidae),(Molossidae,Vespertilionidae))),(Equidae,(Rhinocerotidae,Tapiridae))),(((Canidae,(Mustelidae,Otariidae)),((Felidae,Hyaenidae),Viverridae)),Manidae))),((Bradypodidae,Myrmecophagidae),Dasypodidae)),(((Chrysochloridae,Macroscelididae),Tenrecidae),((Dugongidae,(Elephantidae,Procaviidae)),Orycteropodidae))),Real_OG);
+
+[weight = 1]	tree robb_pr_88_1a.tre = (Real_OG,(Hominidae,(Muridae,(Caviidae,Leporidae))));
+
+[weight = 1]	tree robb_pr_349_59.tre = (Hominidae,(Leporidae,Bovidae));
+
+[weight = 1]	tree RobB_pr_344_8_APP_semiMRP_cons.tre = ((((((((((((Balaenopteridae,Delphinidae),Bovidae),Hippopotamidae),Suidae),Camelidae),(Soricidae,Talpidae)),(((Canidae,Felidae),Pteropodidae),(Manidae,(Nycteridae,Phyllostomidae)))),((((((((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),Lemuridae,Tarsiidae),(Leporidae,Ochotonidae)),Tupaiidae),Cynocephalidae),((((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae),Muridae)),((Equidae,Rhinocerotidae),Tapiridae))),(((Chrysochloridae,Tenrecidae),Macroscelididae,Orycteropodidae),((Elephantidae,Procaviidae),Trichechidae))),(Dasypodidae,Myrmecophagidae)),Erinaceidae),Real_OG);
+[weight = 1]	tree robb_pr_302_1.tre = ((Suidae,(Caviidae,(Leporidae,((Hominidae,Bovidae),(Canidae,Ursidae))))),Muridae);
+
+[weight = 1]	tree MarcelC_RL_7_1_AQP2_semiMRP_cons.tre = (((Bovidae,Equidae),Canidae,((Elephantidae,Procaviidae),Macroscelididae,Orycteropodidae),Hominidae,Leporidae,Manidae,Muridae),Dasypodidae);
+
+[weight = 1]	tree robb_pr_349_17.tre = (Real_OG,(Hominidae,(Muridae,Caviidae)));
+
+[weight = 1]	tree RobB_pr_346_2_MTATP6_semiMRP_cons.tre = ((((Balaenopteridae,Bovidae,Equidae,Felidae,Phocidae,Rhinocerotidae),Muridae),(Hominidae,Hylobatidae)),Real_OG);
+[weight = 1]	tree robb_pr_348_2_MTATP6_semiMRP_cons.tre = (Muridae,(Suidae,(Bovidae,Balaenopteridae)));
+
+[weight = 1]	tree RobB_pr_344_9_ATP7A_semiMRP_cons.tre = ((((((((((((Balaenopteridae,Delphinidae),Bovidae),Hippopotamidae),Suidae),Camelidae),(((Equidae,Rhinocerotidae),Tapiridae),(Nycteridae,Phyllostomidae))),(Canidae,Felidae),(Manidae,Pteropodidae)),((Erinaceidae,Soricidae),Talpidae)),(((Chrysochloridae,Tenrecidae),(((Elephantidae,Procaviidae),Trichechidae),Macroscelididae,Orycteropodidae)),(Dasypodidae,Myrmecophagidae))),(((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),Cynocephalidae,Lemuridae,Tarsiidae),(((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae),(Leporidae,Ochotonidae),Muridae),Tupaiidae),Real_OG);
+
+[weight = 1]	tree robb_pr_346_3_MTATP8_semiMRP_cons.tre = (Real_OG,((Hominidae,Hylobatidae),(Muridae,(Phocidae,Felidae,Equidae,Rhinocerotidae,Bovidae,Balaenopteridae))));
+
+[weight = 1]	tree robb_pr_247_1a.tre = (Real_OG,(Bovidae,(Hominidae,Muridae)));
+[weight = 1]	tree robb_pr_247_1c.tre = (Real_OG,(Suidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_247_1_GOT2_semiMRP_cons.tre = (Real_OG,(Suidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_213_1.tre = (Real_OG,(Sciuridae,(Caviidae,Muridae)));
+
+[weight = 1]	tree robb_pr_282_1.tre = (Real_OG,(Bovidae,(Hominidae,Soricidae,Leporidae,(Caviidae,Muridae))));
+
+[weight = 1]	tree robb_pr_40_1a.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_40_1b.tre = (Real_OG,((Caviidae,Muridae),(Leporidae,Hominidae)));
+
+[weight = 1]	tree RobB_pr_344_10_BDNF_semiMRP_cons.tre = ((((((((((((((Balaenopteridae,Delphinidae),Hippopotamidae),Suidae),(Bovidae,(Camelidae,(((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae)))),Talpidae),Canidae),(Erinaceidae,Soricidae)),Felidae),((Equidae,(Rhinocerotidae,Tapiridae)),((Nycteridae,Phyllostomidae),Pteropodidae))),((((Cynocephalidae,(Leporidae,Ochotonidae)),Muridae),(Manidae,Tupaiidae)),(Lemuridae,Macroscelididae))),(((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),(Chrysochloridae,Tenrecidae)),(Elephantidae,(Orycteropodidae,Procaviidae)),Trichechidae),Dasypodidae),Myrmecophagidae),Real_OG);
+
+[weight = 1]	tree RobB_pr_344_11_BMI1_semiMRP_cons.tre = ((Balaenopteridae,Bovidae,(Callitrichidae,Cebidae,(Cercopithecidae,Hominidae)),Camelidae,Canidae,(Caviidae,Hydrochaeridae),Cynocephalidae,(Delphinidae,Hippopotamidae),Elephantidae,Equidae,Erinaceidae,Felidae,Hystricidae,Lemuridae,Leporidae,(Macroscelididae,Tenrecidae),Muridae,Nycteridae,Ochotonidae,Orycteropodidae,(Phyllostomidae,Pteropodidae),Procaviidae,Rhinocerotidae,Soricidae,Suidae,Talpidae,Tapiridae,Tarsiidae,Trichechidae,Tupaiidae),Real_OG);
+
+[weight = 1]	tree robb_pr_9_2.tre = (Real_OG,(((Dasypodidae,(Myrmecophagidae,(Bradypodidae,Megalonychidae))),((Orycteropodidae,(Macroscelididae,(Chrysochloridae,Tenrecidae))),(Dugongidae,(Procaviidae,Elephantidae)))),((Tupaiidae,(Hominidae,(Cynocephalidae,(Leporidae,((Hystricidae,Muridae),(Sciuridae,Aplodontidae)))))),((Erinaceidae,Talpidae),((((Pteropodidae,(Megadermatidae,Rhinolophidae)),(Phyllostomidae,(Vespertilionidae,Molossidae))),(Camelidae,(Suidae,(Bovidae,(Hippopotamidae,Physeteridae)))),(Equidae,Rhinocerotidae)),(Manidae,Felidae))))));
+[weight = 1]	tree robb_pr_14_1.tre = (Real_OG,(((((Manidae,(Canidae,Felidae)),((Equidae,Rhinocerotidae),(Suidae,(Hippopotamidae,Bovidae)))),((Erinaceidae,Soricidae),Talpidae)),(Tupaiidae,((Cynocephalidae,(Leporidae,(Caviidae,Muridae))),(Galagonidae,Hominidae)))),((Orycteropodidae,(Macroscelididae,(Chrysochloridae,Tenrecidae))),(Dugongidae,(Procaviidae,Elephantidae)))));
+[weight = 1]	tree RobB_pr_78_2_BRCA1_semiMRP_cons.tre = (((((Aplodontidae,Sciuridae),Myoxidae),(((((Bathyergidae,Petromuridae),Erethizontidae),Hystricidae),Ctenodactylidae),((Castoridae,(Geomyidae,Heteromyidae)),(Dipodidae,Muridae),Pedetidae))),Cynocephalidae,(Leporidae,Ochotonidae),Tupaiidae),((Cebidae,(Cercopithecidae,Hominidae)),Galagonidae));
+[weight = 1]	tree robb_pr_85_1.tre = (Real_OG,((((Tupaiidae,(Cynocephalidae,((Galagonidae,(Cebidae,(Cercopithecidae,Hominidae))),(Leporidae,((Hystricidae,(Pedetidae,Muridae)),(Myoxidae,(Aplodontidae,Sciuridae))))))),((Talpidae,Erinaceidae),(((((Vespertilionidae,Molossidae),(Emballonuridae,Phyllostomidae)),Pteropodidae),(Megadermatidae,Rhinolophidae)),((Equidae,Rhinocerotidae),(Camelidae,(Suidae,(Bovidae,(Hippopotamidae,(Balaenopteridae,Physeteridae)))))),(Manidae,(Canidae,Felidae))))),((Myrmecophagidae,Bradypodidae),Dasypodidae)),(((Elephantidae,Procaviidae),(Dugongidae,Trichechidae)),(Orycteropodidae,((Chrysochloridae,Tenrecidae),Macroscelididae)))));
+[weight = 1]	tree RobB_pr_344_12_BRCA1_semiMRP_cons.tre = (((((((((((((Balaenopteridae,Hippopotamidae),Suidae),Camelidae),(Equidae,Tapiridae),(Nycteridae,Pteropodidae)),((Canidae,Felidae),Manidae)),(Erinaceidae,Soricidae)),(((((Chrysochloridae,Tenrecidae),Orycteropodidae),((Elephantidae,Procaviidae),Trichechidae)),(Macroscelididae,Tupaiidae)),(Dasypodidae,Myrmecophagidae))),Cynocephalidae),(Cercopithecidae,Hominidae)),Ochotonidae),Muridae),Hystricidae),Real_OG);
+
+[weight = 1]	tree robb_pr_180_1.tre = (((Hominidae,Cercopithecidae),(Canidae,(Suidae,Bovidae))),(Leporidae,Muridae));
+
+[weight = 1]	tree robb_pr_264_1.tre = (Real_OG,(Hominidae,(Muridae,Bovidae)));
+
+[weight = 1]	tree robb_pr_253_1d.tre = (Real_OG,(Leporidae,(Hominidae,(Suidae,Bovidae))));
+
+[weight = 1]	tree robb_pr_349_48.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+[weight = 1]	tree robb_pr_349_58.tre = (Leporidae,(Bovidae,Hominidae));
+
+[weight = 1]	tree robb_pr_266_1a.tre = (Real_OG,(Equidae,(Bovidae,(Leporidae,(Cercopithecidae,Hominidae)))));
+
+[weight = 1]	tree robb_pr_266_1b.tre = (Real_OG,(Muridae,((Leporidae,(Cebidae,(Hominidae,Cercopithecidae))),(Equidae,Bovidae))));
+
+[weight = 1]	tree robb_pr_266_1c.tre = (Real_OG,(Hominidae,(Bovidae,Equidae)));
+
+[weight = 1]	tree robb_pr_195_1.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree marcelc_rl_33_1c.tre = (Real_OG,((Leporidae,(Caviidae,Bovidae)),Muridae));
+
+[weight = 0.5]	tree marcelc_rl_33_1b_1.tre = (Real_OG,(Muridae,((Leporidae,Bovidae),Caviidae)));
+[weight = 0.5]	tree marcelc_rl_33_1b_2.tre = (Real_OG,((Leporidae,Bovidae),(Muridae,Caviidae)));
+[weight = 1]	tree robb_pr_77_1a.tre = (Real_OG,((Hominidae,(Leporidae,(Suidae,(Bovidae,Camelidae)))),Muridae));
+
+[weight = 1]	tree robb_pr_77_1b.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_42_1.tre = (Myrmecophagidae,(((Camelidae,((((Bovidae,(Cervidae,(Antilocapridae,Giraffidae))),Tragulidae),(Hippopotamidae,(Balaenopteridae,(Physeteridae,(Delphinidae,Monodontidae),Ziphiidae)))),(Tayassuidae,Suidae))),((Manidae,(Felidae,(Phocidae,(Procyonidae,Ursidae)))),(Equidae,(Tapiridae,Rhinocerotidae)))),(Orycteropodidae,(Hominidae,(Leporidae,Muridae)))));
+
+[weight = 1]	tree robb_pr_149_1.tre = ((Hominidae,(Felidae,(((Camelidae,((Tragulidae,(Antilocapridae,(Giraffidae,(Cervidae,Bovidae)))),(Hippopotamidae,(Delphinidae,Balaenopteridae)))),(Suidae,Tayassuidae)),(Tapiridae,Equidae)))),(Leporidae,(Caviidae,Muridae)));
+[weight = 1]	tree robb_pr_23_9.tre = (Rhinocerotidae,(Camelidae,((Tragulidae,(Giraffidae,(Bovidae,Cervidae))),(Hippopotamidae,(Delphinidae,Physeteridae,Ziphiidae,Balaenopteridae))),(Suidae,Tayassuidae)));
+[weight = 1]	tree robb_pr_130_9.tre = (Equidae,((((Hippopotamidae,(Physeteridae,Balaenidae)),(Tragulidae,((Antilocapridae,(Cervidae,Giraffidae)),Bovidae))),Camelidae),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_248_1_CAT_semiMRP_cons.tre = (Real_OG,(Hominidae,Bovidae,Muridae));
+
+[weight = 1]	tree robb_pr_182_1a.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_182_1c.tre = (Real_OG,(Muridae,(Felidae,Hominidae)));
+[weight = 1]	tree robb_pr_44_2.tre = (Real_OG,(((Hominidae,Cercopithecidae),(Suidae,Bovidae)),Muridae));
+
+[weight = 1]	tree robb_pr_182_1b.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_152_2.tre = (Real_OG,(Hominidae,(Leporidae,Muridae)));
+[weight = 1]	tree robb_pr_152_1a.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_11_1.tre = (Real_OG,(Bovidae,((Hominidae,Leporidae),(Muridae,Canidae))));
+
+[weight = 1]	tree robb_pr_150_1.tre = (Real_OG,(Muridae,(Canidae,(Cercopithecidae,Hominidae))));
+
+[weight = 1]	tree robb_pr_174_6.tre = (Elephantidae,(((Suidae,Bovidae),(Talpidae,((Felidae,Canidae),(Pteropodidae,(Molossidae,Vespertilionidae))))),(Dasypodidae,((Leporidae,((Callitrichidae,(Hylobatidae,Hominidae)),(Cynocephalidae,Tupaiidae))),(Sciuridae,Muridae)))));
+
+[weight = 1]	tree RobB_pr_344_13_CNR1_semiMRP_cons.tre = (((((((((((((Balaenopteridae,Delphinidae),Hippopotamidae),Bovidae),Suidae),Camelidae),((Dasypodidae,Tarsiidae),Myrmecophagidae)),Manidae),(((Canidae,Felidae),((Equidae,Tapiridae),Rhinocerotidae)),((Nycteridae,Phyllostomidae),Pteropodidae),Talpidae)),((Chrysochloridae,(Elephantidae,((Orycteropodidae,Procaviidae),Trichechidae))),Macroscelididae)),((((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),Tenrecidae),(Lemuridae,Tupaiidae)),(Cynocephalidae,(Leporidae,Ochotonidae))),((((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae),Soricidae)),Muridae),Real_OG);
+[weight = 1]	tree robb_pr_381_2.tre = (Hominidae,Ochotonidae,Leporidae,(Castoridae,Myoxidae,Pedetidae,(Aplodontidae,Sciuridae),(Chinchillidae,Erethizontidae),(Dipodidae,Muridae),(Geomyidae,Heteromyidae)));
+
+[weight = 1]	tree robb_pr_352_1_Common_Cetacean_Satellite_srMRP_cons.tre = (Balaenopteridae,(Physeteridae,(Ziphiidae,(Phocoenidae,Delphinidae))));
+[weight = 1]	tree robb_pr_358_1.tre = (Balaenidae,(Neobalaenidae,(Eschrichtiidae,Balaenopteridae)));
+
+[weight = 1]	tree robb_pr_349_7.tre = (Real_OG,(Hominidae,(Muridae,Caviidae)));
+[weight = 1]	tree robb_pr_349_45.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_143_1.tre = (Equidae,Rhinocerotidae,(Suidae,((Balaenidae,Delphinidae),(Cervidae,Bovidae))));
+[weight = 1]	tree robb_pr_377_1.tre = (Delphinidae,(Phocoenidae,(Physeteridae,((Balaenopteridae,Eschrichtiidae),(Balaenidae,Neobalaenidae)))));
+
+[weight = 1]	tree robb_pr_331_1a.tre = (Real_OG,(Hominidae,(Leporidae,(Caviidae,Muridae))));
+
+[weight = 1]	tree robb_pr_349_34.tre = (Real_OG,(Hominidae,(Leporidae,Muridae)));
+
+[weight = 1]	tree RobB_pr_344_14_CREM_semiMRP_cons.tre = ((((((((Balaenopteridae,Delphinidae),Hippopotamidae),(Bovidae,(Camelidae,Suidae))),(Canidae,Felidae),((Chrysochloridae,Macroscelididae),Manidae),(Dasypodidae,Myrmecophagidae),((Equidae,Rhinocerotidae),Tapiridae),((Nycteridae,Pteropodidae),Phyllostomidae),Soricidae,Talpidae),(Cynocephalidae,Muridae)),((((((Caviidae,Hydrochaeridae),Erethizontidae),(Hystricidae,Ochotonidae)),Tarsiidae),(((Elephantidae,Trichechidae),Procaviidae),(Orycteropodidae,Tenrecidae))),((Erinaceidae,Tupaiidae),Lemuridae))),((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae))),Real_OG);
+
+[weight = 1]	tree RobB_pr_104_1_CRX_semiMRP_cons.tre = ((((((Bovidae,Muridae),Manidae),Felidae),(Hominidae,Sciuridae)),Bradypodidae),Real_OG);
+
+[weight = 1]	tree robb_pr_23_16.tre = (Rhinocerotidae,(Bovidae,Giraffidae,Phocoenidae,Balaenopteridae,Hippopotamidae,Suidae,Camelidae));
+[weight = 1]	tree robb_pr_323_2b.tre = (Real_OG,((Caviidae,Muridae),(Bovidae,Camelidae,Suidae)));
+[weight = 1]	tree robb_pr_348_6.tre = (Muridae,(Bovidae,Suidae,Balaenopteridae,Phocoenidae));
+[weight = 1]	tree robb_pr_348_17.tre = (Muridae,(Camelidae,(Suidae,(Balaenopteridae,Phocoenidae))));
+[weight = 1]	tree robb_pr_348_22.tre = (Muridae,(Camelidae,Bovidae,(Balaenopteridae,Phocoenidae)));
+[weight = 1]	tree MarcelC_RL_44_1.tre = (Real_OG,(Muridae,(Caviidae,(Hominidae,Cercopithecidae,Galagonidae))));
+[weight = 1]	tree robb_pr_19_1.tre = (Real_OG,(Tarsiidae,Galagonidae,Phyllostomidae,Tupaiidae,Bovidae,Leporidae,Elephantidae,Hominidae,Cercopithecidae,(Cebidae,Callitrichidae),(Indridae,Pteropodidae),(Dasypodidae,((Megalonychidae,Bradypodidae),Myrmecophagidae)),Muridae));
+
+[weight = 1]	tree robb_pr_294_1b.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_165_1_CRYBB2_semiMRP_cons.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_165_1_CRYGB_semiMRP_cons.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_224_1_PPIE_semiMRP_cons.tre = (Real_OG,(Bovidae,Hominidae,Muridae));
+
+[weight = 1]	tree robb_pr_224_1c.tre = (Real_OG,((Hominidae,Bovidae,Suidae),Muridae));
+
+[weight = 1]	tree marcelc_rl_8_1.tre = (Real_OG,(((Leporidae,(Hominidae,Cercopithecidae)),Bovidae),Muridae));
+
+[weight = 1]	tree RobB_pr_158_1_MTCYB_semiMRP_cons.tre = (((((Geomyidae,Pedetidae),(Hystricidae,Thryonomyidae),Muridae),Sciuridae),Heteromyidae),Leporidae);
+[weight = 1]	tree robb_pr_346_15.tre = (Real_OG,((((Cebidae,(Hominidae,Hylobatidae)),((Loridae,Galagonidae),(Lemuridae,Cheirogaleidae))),(((Phocidae,Felidae),(Equidae,Rhinocerotidae)),(Bovidae,Balaenopteridae))),(Muridae,Sciuridae)));
+[weight = 1]	tree marcelc_rl_15_1.tre = ((Hystricidae,(Erethizontidae,((Ctenomyidae,Echimyidae),(Dasyproctidae,Caviidae)))),Muridae);
+[weight = 0.5]	tree marcelc_rl_11_1_1.tre = (Real_OG,(Geomyidae,((Hominidae,Muridae),(((Hystricidae,Caviidae),(Suidae,(((Cervidae,Bovidae),Antilocapridae),(Balaenopteridae,Phocidae)))),(Galagonidae,(Sciuridae,Leporidae))))));
+[weight = 0.5]	tree marcelc_rl_11_1_2.tre = (Real_OG,(Geomyidae,((Hominidae,Muridae),(((Hystricidae,Caviidae),(Suidae,((Bovidae,(Cervidae,Antilocapridae)),(Balaenopteridae,Phocidae)))),(Galagonidae,(Sciuridae,Leporidae))))));
+[weight = 1]	tree RobB_pr_4_1_MTCYB_semiMRP_cons.tre = (Balaenopteridae,(Bovidae,(Equidae,Rhinocerotidae,Tapiridae)));
+[weight = 0.0625]	tree robb_pr_42_2_1.tre = (Real_OG,(Erinaceidae,((((((((((Bovidae,(Cervidae,(Giraffidae,Antilocapridae))),Tragulidae),(((((Phocoenidae,(Delphinidae,Monodontidae)),Platanistidae),((Ziphiidae,((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Muridae)));
+[weight = 0.0625]	tree robb_pr_42_2_2.tre = (Erinaceidae,(((((((((((Bovidae,(Cervidae,(Giraffidae,Antilocapridae))),Tragulidae),(((((Phocoenidae,(Delphinidae,Monodontidae)),Platanistidae),((Ziphiidae,((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Real_OG),Muridae));
+[weight = 0.0625]	tree robb_pr_42_2_3.tre = (Real_OG,(Erinaceidae,((((((((((Bovidae,(Cervidae,(Giraffidae,Antilocapridae))),Tragulidae),((((Phocoenidae,(Delphinidae,Monodontidae)),(((Platanistidae,Ziphiidae),((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Muridae)));
+[weight = 0.0625]	tree robb_pr_42_2_4.tre = (Erinaceidae,(((((((((((Bovidae,(Cervidae,(Giraffidae,Antilocapridae))),Tragulidae),((((Phocoenidae,(Delphinidae,Monodontidae)),(((Platanistidae,Ziphiidae),((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Real_OG),Muridae));
+[weight = 0.0625]	tree robb_pr_42_2_5.tre = (Real_OG,(Erinaceidae,(((((((((((Cervidae,(Giraffidae,Antilocapridae)),Bovidae),Tragulidae),(((((Phocoenidae,(Delphinidae,Monodontidae)),Platanistidae),((Ziphiidae,((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Muridae)));
+[weight = 0.0625]	tree robb_pr_42_2_6.tre = (Erinaceidae,((((((((((((Cervidae,(Giraffidae,Antilocapridae)),Bovidae),Tragulidae),(((((Phocoenidae,(Delphinidae,Monodontidae)),Platanistidae),((Ziphiidae,((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Real_OG),Muridae));
+[weight = 0.0625]	tree robb_pr_42_2_7.tre = (Real_OG,(Erinaceidae,(((((((((((Cervidae,(Giraffidae,Antilocapridae)),Bovidae),Tragulidae),((((Phocoenidae,(Delphinidae,Monodontidae)),(((Platanistidae,Ziphiidae),((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Muridae)));
+[weight = 0.0625]	tree robb_pr_42_2_8.tre = (Erinaceidae,((((((((((((Cervidae,(Giraffidae,Antilocapridae)),Bovidae),Tragulidae),((((Phocoenidae,(Delphinidae,Monodontidae)),(((Platanistidae,Ziphiidae),((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Real_OG),Muridae));
+[weight = 0.0625]	tree robb_pr_42_2_9.tre = (Real_OG,(Erinaceidae,((((((((((Bovidae,(Giraffidae,(Cervidae,Antilocapridae))),Tragulidae),(((((Phocoenidae,(Delphinidae,Monodontidae)),Platanistidae),((Ziphiidae,((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Muridae)));
+[weight = 0.0625]	tree robb_pr_42_2_10.tre = (Erinaceidae,(((((((((((Bovidae,(Giraffidae,(Cervidae,Antilocapridae))),Tragulidae),(((((Phocoenidae,(Delphinidae,Monodontidae)),Platanistidae),((Ziphiidae,((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Real_OG),Muridae));
+[weight = 0.0625]	tree robb_pr_42_2_11.tre = (Real_OG,(Erinaceidae,((((((((((Bovidae,(Giraffidae,(Cervidae,Antilocapridae))),Tragulidae),((((Phocoenidae,(Delphinidae,Monodontidae)),(((Platanistidae,Ziphiidae),((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Muridae)));
+[weight = 0.0625]	tree robb_pr_42_2_12.tre = (Erinaceidae,(((((((((((Bovidae,(Giraffidae,(Cervidae,Antilocapridae))),Tragulidae),((((Phocoenidae,(Delphinidae,Monodontidae)),(((Platanistidae,Ziphiidae),((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Real_OG),Muridae));
+[weight = 0.0625]	tree robb_pr_42_2_13.tre = (Real_OG,(Erinaceidae,(((((((((((Giraffidae,(Cervidae,Antilocapridae)),Bovidae),Tragulidae),(((((Phocoenidae,(Delphinidae,Monodontidae)),Platanistidae),((Ziphiidae,((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Muridae)));
+[weight = 0.0625]	tree robb_pr_42_2_14.tre = (Erinaceidae,((((((((((((Giraffidae,(Cervidae,Antilocapridae)),Bovidae),Tragulidae),(((((Phocoenidae,(Delphinidae,Monodontidae)),Platanistidae),((Ziphiidae,((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Real_OG),Muridae));
+[weight = 0.0625]	tree robb_pr_42_2_15.tre = (Real_OG,(Erinaceidae,(((((((((((Giraffidae,(Cervidae,Antilocapridae)),Bovidae),Tragulidae),((((Phocoenidae,(Delphinidae,Monodontidae)),(((Platanistidae,Ziphiidae),((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Muridae)));
+[weight = 0.0625]	tree robb_pr_42_2_16.tre = (Erinaceidae,((((((((((((Giraffidae,(Cervidae,Antilocapridae)),Bovidae),Tragulidae),((((Phocoenidae,(Delphinidae,Monodontidae)),(((Platanistidae,Ziphiidae),((Balaenopteridae,Eschrichtiidae),(Neobalaenidae,Balaenidae))),Physeteridae)),Hippopotamidae),(Suidae,Tayassuidae))),Camelidae),(Rhinocerotidae,Equidae)),((Phocidae,Ursidae),((Procyonidae,Mustelidae),Canidae))),(Herpestidae,Felidae)),((Dugongidae,Elephantidae),(Leporidae,(Hylobatidae,Hominidae)))),(Caviidae,Hystricidae)),Real_OG),Muridae));
+[weight = 1]	tree robb_pr_62_1_MTCYB_semiMRP_cons.tre = ((Sciuridae,(Dipodidae,Muridae)),Echimyidae);
+[weight = 1]	tree robb_pr_260_4.tre = (Real_OG,((((Hominidae,Hylobatidae,Lemuridae,Cheirogaleidae,Galagonidae,Loridae,Cebidae),(Phocidae,Felidae,Equidae,Rhinocerotidae,Bovidae,Physeteridae,Balaenopteridae)),(Phyllostomidae,(Soricidae,Talpidae))),Muridae));
+[weight = 0.5]	tree robb_pr_285_2_1.tre = (Real_OG,(Geomyidae,(Hominidae,((Hystricidae,Muridae),(Elephantidae,(Phocidae,((Camelidae,(Equidae,Rhinocerotidae)),((Balaenopteridae,Delphinidae),((Tayassuidae,Suidae),(Tragulidae,(Bovidae,(Cervidae,(Giraffidae,Antilocapridae)))))))))))));
+[weight = 0.5]	tree robb_pr_285_2_2.tre = (Real_OG,(Geomyidae,(Hominidae,((Hystricidae,Muridae),(Elephantidae,(Phocidae,((Camelidae,(Equidae,Rhinocerotidae)),((Balaenopteridae,Delphinidae),((Tayassuidae,Suidae),(Tragulidae,(Bovidae,(Giraffidae,(Cervidae,Antilocapridae)))))))))))));
+
+[weight = 1]	tree robb_pr_23_17.tre = (Rhinocerotidae,(Bovidae,Suidae,(Hippopotamidae,(Balaenopteridae,Camelidae))));
+[weight = 1]	tree robb_pr_351_2.tre = (Real_OG,(((Leporidae,(Loridae,(Cebidae,(Hominidae,Cercopithecidae)))),(Muridae,Caviidae)),((Canidae,Phocidae),(Equidae,(Eschrichtiidae,(Hippopotamidae,Suidae,(Bovidae,Camelidae)))))));
+
+[weight = 1]	tree RobB_pr_346_4_MTCO1_semiMRP_cons.tre = (((Balaenopteridae,Bovidae,Equidae,Felidae,Phocidae,Rhinocerotidae),((Hominidae,Hylobatidae),Muridae)),Real_OG);
+[weight = 1]	tree RobB_pr_126_1_MTCO1_semiMRP_cons.tre = (((Bovidae,(Indridae,Loridae)),(Cebidae,(Cercopithecidae,(Hominidae,Hylobatidae))),Tarsiidae,Tupaiidae),Muridae);
+
+[weight = 1]	tree robb_pr_271_1.tre = (Dasypodidae,(((Hominidae,Galagonidae),(Cynocephalidae,(Tupaiidae,Macroscelididae))),((Bovidae,(Pteropodidae,(Rhinolophidae,Phyllostomidae))),(Muridae,Bathyergidae))));
+[weight = 1]	tree robb_pr_346_16.tre = (Real_OG,((((Cebidae,(Cercopithecidae,(Hominidae,Hylobatidae))),((Loridae,Galagonidae),(Lemuridae,Cheirogaleidae))),(((Phocidae,Felidae),(Equidae,Rhinocerotidae)),(Bovidae,Balaenopteridae))),(Muridae,Bathyergidae)));
+[weight = 1]	tree marcelc_rl_11_2.tre = (Real_OG,((Sciuridae,Geomyidae),((Hominidae,Galagonidae),(Caviidae,((Leporidae,(Bathyergidae,Muridae)),(Suidae,((Balaenopteridae,(Bovidae,Cervidae)),(Antilocapridae,Phocidae))))))));
+[weight = 1]	tree robb_pr_260_1.tre = (Real_OG,(((((Hominidae,Cercopithecidae),Cebidae),((Lemuridae,Cheirogaleidae),(Loridae,Galagonidae))),(((Phocidae,Felidae),(Equidae,Rhinocerotidae),(Bovidae,Balaenopteridae)),((Phyllostomidae,Vespertilionidae,(Pteropodidae,Rhinolophidae)),(Soricidae,Talpidae)))),Muridae));
+[weight = 1]	tree robb_pr_283_1.tre = (Real_OG,(Muridae,((Dasypodidae,((Lemuridae,(Cheirogaleidae,(Galagonidae,Loridae))),(Cebidae,(Hominidae,(Hylobatidae,Cercopithecidae))))),(((Rhinolophidae,(Pteropodidae,Talpidae)),(Phyllostomidae,Soricidae)),(Equidae,((Felidae,(Canidae,Phocidae)),(Bovidae,Balaenopteridae)))))));
+
+[weight = 1]	tree robb_pr_346_6_MTCO3_semiMRP_cons.tre = (Real_OG,((Muridae,(Hominidae,Hylobatidae)),(Phocidae,Felidae,Equidae,Rhinocerotidae,Bovidae,Balaenopteridae)));
+[weight = 1]	tree marcelc_rl_32_1.tre = (Real_OG,(Muridae,(Hominidae,(Bovidae,Pteropodidae))));
+
+[weight = 1]	tree robb_pr_166_1a.tre = (Real_OG,(Hominidae,(Bovidae,Muridae)));
+
+[weight = 1]	tree robb_pr_166_1b.tre = (Real_OG,(Hominidae,(Bovidae,Muridae)));
+
+[weight = 1]	tree robb_pr_200_1.tre = (Real_OG,((Bovidae,Hominidae),Muridae));
+
+[weight = 1]	tree robb_pr_383_1.tre = (Real_OG,((Equidae,(Suidae,Bovidae)),(Hominidae,(Muridae,Leporidae))));
+
+[weight = 0.333]	tree robb_pr_178_1a_1.tre = (Real_OG,(((Leporidae,(Muridae,Caviidae)),(Hominidae,Cercopithecidae)),((Canidae,Suidae),Bovidae)));
+[weight = 0.333]	tree robb_pr_178_1a_2.tre = (((Leporidae,((Muridae,Real_OG,),Caviidae)),(Hominidae,Cercopithecidae)),((Canidae,Suidae),Bovidae));
+[weight = 0.333]	tree robb_pr_178_1a_3.tre = (((Leporidae,(Muridae,(Real_OG,Caviidae))),(Hominidae,Cercopithecidae)),((Canidae,Suidae),Bovidae));
+
+[weight = 1]	tree robb_pr_163_1c.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_163_1d.tre = (Real_OG,((Leporidae,Hominidae),Muridae));
+
+[weight = 1]	tree robb_pr_163_1a.tre = (Real_OG,(Hominidae,(Leporidae,Muridae)));
+
+[weight = 1]	tree robb_pr_163_1b.tre = (Real_OG,(Hominidae,(Leporidae,Muridae)));
+
+[weight = 1]	tree robb_pr_163_1e.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree marcelc_rl_29_1.tre = (Real_OG,(((Equidae,(Hominidae,Muridae)),(Leporidae,Caviidae)),(Suidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_32_1.tre = (Muridae,(Caviidae,(Hominidae,Leporidae)));
+
+[weight = 1]	tree marcelc_rl_13_1.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_270_1.tre = (Real_OG,(Canidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_349_55.tre = (Suidae,(Leporidae,Hominidae));
+
+[weight = 1]	tree robb_pr_256_1c.tre = (Real_OG,(Bovidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree MarcelC_RL_22_1_DDC_semiMRP_cons.tre = ((((Bovidae,Suidae),Hominidae,Muridae),Caviidae),Real_OG);
+
+[weight = 1]	tree RobB_pr_344_15_EDG1_semiMRP_cons.tre = (Real_OG,(((((((((((Balaenopteridae,Delphinidae),Hippopotamidae),(Bovidae,Suidae)),(Erinaceidae,Pteropodidae)),((Equidae,Rhinocerotidae),Tapiridae)),Felidae),((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae))),(((((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae),Manidae),(Muridae,Tupaiidae))),(((((Chrysochloridae,Orycteropodidae),(Elephantidae,Trichechidae)),(Macroscelididae,Procaviidae)),Tenrecidae),(Dasypodidae,Myrmecophagidae))),Canidae,Cynocephalidae,Talpidae),((Lemuridae,Phyllostomidae),(Leporidae,Ochotonidae))),Soricidae);
+
+[weight = 1]	tree robb_pr_349_46.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_274_1b.tre = (Real_OG,(Muridae,(Hominidae,Canidae,Suidae)));
+
+[weight = 1]	tree robb_pr_274_1a.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_204_1.tre = (Real_OG,(Bovidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_205_1_a_and_b_EPO_srMRP_cons.tre = ((((Hominidae,Cercopithecidae),Muridae),(Felidae,Canidae)),(Bovidae,Suidae));
+
+[weight = 1]	tree robb_pr_205_1c.tre = ((Hominidae,(Suidae,(Bovidae,Delphinidae))),((Equidae,Muridae),(Canidae,Felidae)));
+
+[weight = 0.5]	tree robb_pr_293_1_1.tre = (Muridae,(Heteromyidae,Sciuridae),(Caviidae,Hystricidae));
+[weight = 0.5]	tree robb_pr_293_1_2.tre = (((Heteromyidae,Muridae),Sciuridae),(Caviidae,Hystricidae));
+
+[weight = 1]	tree robb_pr_153_1b.tre = (Real_OG,(Canidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_153_1a.tre = (Real_OG,(Muridae,(Bovidae,(Hominidae,Caviidae))));
+
+[weight = 1]	tree robb_pr_327_1c.tre = (Real_OG,(Bovidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_327_1b.tre = (Real_OG,(Hominidae,(Muridae,Bovidae)));
+[weight = 1]	tree robb_pr_148_1a.tre = ((Camelidae,(((Tragulidae,(Cervidae,(Bovidae,Giraffidae))),(Hippopotamidae,(Balaenopteridae,(Monodontidae,Physeteridae)))),(Suidae,Tayassuidae))),(Hominidae,(Equidae,Tapiridae),(Hyaenidae,Canidae)));
+[weight = 1]	tree robb_pr_148_1b.tre = ((((Tragulidae,(Cervidae,Bovidae,Giraffidae)),(Hippopotamidae,(Physeteridae,(Monodontidae,Balaenopteridae)))),(Camelidae,(Suidae,Tayassuidae))),(Hominidae,(Equidae,Tapiridae),(Hyaenidae,Canidae)));
+[weight = 1]	tree robb_pr_23_10.tre = (Rhinocerotidae,(Camelidae,(((Tragulidae,(Bovidae,Cervidae,Giraffidae)),(Hippopotamidae,(Balaenopteridae,(Ziphiidae,(Monodontidae,Physeteridae))))),(Suidae,Tayassuidae))));
+
+[weight = 1]	tree robb_pr_179_1.tre = (Real_OG,(Bovidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree marcelc_rl_26_1a.tre = (Real_OG,(Muridae,((Hominidae,Equidae),(Bovidae,Suidae))));
+
+[weight = 1]	tree robb_pr_186_1a.tre = (Real_OG,((Leporidae,(Hominidae,Suidae)),Muridae));
+
+[weight = 1]	tree robb_pr_186_1b.tre = (Real_OG,(Muridae,(Leporidae,(Hominidae,(Bovidae,Suidae)))));
+
+[weight = 1]	tree robb_pr_186_1c.tre = (Real_OG,(Muridae,(Hominidae,Suidae)));
+
+[weight = 1]	tree robb_pr_281_1_GLUD2_semiMRP_cons.tre = ((Hominidae,Muridae),(Bovidae,Real_OG));
+
+[weight = 1]	tree robb_pr_136_1.tre = (Real_OG,(Muridae,(Hominidae,Suidae)));
+
+[weight = 1]	tree robb_pr_212_1b.tre = (Real_OG,(Hominidae,(Muridae,Bovidae)));
+
+[weight = 1]	tree robb_pr_212_1c.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_212_1d.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_212_1e.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_212_1a.tre = (Real_OG,(Bovidae,(Hominidae,Muridae)));
+
+[weight = 0.5]	tree robb_pr_212_1f_1.tre = (Real_OG,((Muridae,Hominidae),Bovidae));
+[weight = 0.5]	tree robb_pr_212_1f_2.tre = (Real_OG,(Hominidae,(Muridae,Bovidae)));
+
+[weight = 1]	tree robb_pr_323_6b.tre = (Real_OG,((Caviidae,Chinchillidae),(Muridae,(Bovidae,Suidae))));
+[weight = 1]	tree MarcelC_RL_44_5.tre = (Real_OG,((Caviidae,Chinchillidae),(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_138_1.tre = (Real_OG,(Muridae,(Hominidae,Suidae)));
+
+[weight = 1]	tree robb_pr_323_3b.tre = (Real_OG,(Caviidae,((Bovidae,Camelidae,Suidae),Muridae)));
+[weight = 1]	tree robb_pr_23_14.tre = (Rhinocerotidae,(Suidae,Camelidae,((Bovidae,(Cervidae,Hippopotamidae)),(Physeteridae,(Delphinidae,Balaenopteridae)))));
+[weight = 1]	tree robb_pr_301_1a.tre = (Real_OG,(Tenrecidae,(Erinaceidae,(Tupaiidae,((Talpidae,Soricidae),(Loridae,Lemuridae))))));
+[weight = 1]	tree robb_pr_348_13.tre = (Muridae,(Suidae,(Bovidae,(Delphinidae,Physeteridae))));
+[weight = 1]	tree robb_pr_348_20.tre = (Muridae,(Camelidae,(Suidae,(Delphinidae,Physeteridae))));
+[weight = 1]	tree robb_pr_348_25.tre = (Muridae,(Camelidae,(Bovidae,(Delphinidae,Physeteridae))));
+[weight = 1]	tree MarcelC_RL_44_8.tre = (Real_OG,(Caviidae,(Muridae,(Hominidae,Cercopithecidae,Cebidae))));
+[weight = 1]	tree robb_pr_336_4.tre = (Real_OG,((Leporidae,(((((Cercopithecidae,Hominidae),Cebidae),(Loridae,Galagonidae)),(Lemuridae,Indridae)),(Canidae,(Muridae,Tupaiidae)))),(Equidae,(Suidae,Bovidae))));
+
+[weight = 1]	tree robb_pr_23_15.tre = (Rhinocerotidae,(((Bovidae,Cervidae),(Balaenopteridae,(Delphinidae,Physeteridae))),(Hippopotamidae,(Suidae,Camelidae))));
+[weight = 1]	tree robb_pr_301_1b.tre = (Real_OG,(Tenrecidae,((Erinaceidae,(Talpidae,Soricidae)),(Tupaiidae,(Loridae,Lemuridae)))));
+[weight = 1]	tree robb_pr_348_15.tre = (Muridae,(Suidae,(Bovidae,(Delphinidae,Balaenopteridae,Physeteridae))));
+[weight = 1]	tree robb_pr_348_21.tre = (Muridae,(Suidae,(Camelidae,(Delphinidae,Balaenopteridae,Physeteridae))));
+[weight = 1]	tree robb_pr_348_26.tre = (Muridae,(Camelidae,(Bovidae,(Delphinidae,Balaenopteridae,Physeteridae))));
+[weight = 1]	tree robb_pr_351_6.tre = (Real_OG,(Erinaceidae,((Tupaiidae,(((Leporidae,((Tarsiidae,((Cercopithecidae,(Hominidae,Hylobatidae)),(Cebidae,Callitrichidae))),(Loridae,(Lemuridae,Indridae)))),(Felidae,(Procyonidae,(Mustelidae,(Canidae,Ursidae))))),((Muridae,Caviidae),(Dasypodidae,Elephantidae)))),(Equidae,(Suidae,(Camelidae,Bovidae))))));
+[weight = 1]	tree robb_pr_85_2.tre = (Real_OG,(Lemuridae,((Hominidae,Tarsiidae),(Galagonidae,Leporidae))),((Phocidae,(Suidae,Bovidae)),Muridae));
+[weight = 1]	tree robb_pr_319_1c.tre = ((((Suidae,(Camelidae,(Bovidae,Cervidae))),(Equidae,(Balaenopteridae,Delphinidae))),((Pteropodidae,(Tupaiidae,(Erinaceidae,(Canidae,(Phocidae,Mustelidae))))),((Leporidae,(Caviidae,Muridae)),((((Hylobatidae,Hominidae),Cercopithecidae),(Cebidae,Callitrichidae)),(Loridae,Lemuridae))))),Elephantidae);
+
+[weight = 1]	tree robb_pr_174_7.tre = (Real_OG,((Cynocephalidae,((Tupaiidae,(Leporidae,Muridae)),(((Daubentoniidae,(Lemuridae,(Indridae,Cheirogaleidae))),(Loridae,Galagonidae)),(Tarsiidae,((Hylobatidae,(Hominidae,Cercopithecidae)),(Cebidae,Callitrichidae)))))),(Megadermatidae,((Pteropodidae,(Rhinocerotidae,Equidae)),(Bovidae,Suidae)))));
+
+[weight = 1]	tree robb_pr_188_1c.tre = ((Real_OG,Bovidae),(Leporidae,Hominidae));
+[weight = 1]	tree robb_pr_351_9.tre = (Real_OG,(Muridae,(Leporidae,(Hominidae,Cercopithecidae))));
+
+[weight = 1]	tree MarcelC_RL_44_6.tre = (Real_OG,(Hominidae,Muridae,(Caviidae,Octodontidae)));
+
+[weight = 0.333]	tree robb_pr_199_1_1.tre = (Real_OG,((Muridae,Hominidae),Leporidae));
+[weight = 0.333]	tree robb_pr_199_1_2.tre = (Real_OG,(Hominidae,(Leporidae,Muridae)));
+[weight = 0.333]	tree robb_pr_199_1_3.tre = (Real_OG,(Muridae,(Hominidae,Leporidae)));
+
+[weight = 1]	tree robb_pr_261_1b.tre = (Real_OG,((Hominidae,Leporidae),(Muridae,(Bovidae,Suidae))));
+
+[weight = 1]	tree robb_pr_261_1c.tre = (Real_OG,((Hominidae,(Canidae,Bovidae)),Muridae));
+
+[weight = 1]	tree robb_pr_261_1a.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree RobB_pr_326_1_GSTP1_semiMRP_cons.tre = ((Bovidae,Hominidae,Suidae),Real_OG);
+
+[weight = 1]	tree robb_pr_349_43.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_348_14.tre = (Muridae,(Bovidae,Suidae,Physeteridae));
+[weight = 1]	tree robb_pr_194_1d.tre = (Real_OG,(Hominidae,(Equidae,((Suidae,Bovidae),Muridae))));
+
+[weight = 1]	tree robb_pr_91_2_GHR_semiMRP_cons.tre = (Caviidae,(Abrocomidae,((Ctenomyidae,Octodontidae),(Echimyidae,Myocastoridae))));
+[weight = 1]	tree robb_pr_174_8.tre = (((Equidae,((((Suidae,Bovidae),(Cynocephalidae,(((Cebidae,(Hominidae,Cercopithecidae)),(Tupaiidae,(Lemuridae,Galagonidae))),((((Ctenodactylidae,(Hystricidae,(((Erethizontidae,((Echimyidae,Capromyidae),((Agoutidae,(Caviidae,Hydrochaeridae)),Dasyproctidae))),(Chinchillidae,Dinomyidae)),(Bathyergidae,Thryonomyidae)))),((Pedetidae,(Muridae,Dipodidae)),(Castoridae,(Heteromyidae,Geomyidae)))),(Myoxidae,(Sciuridae,Aplodontidae))),(Ochotonidae,Leporidae))))),(Talpidae,(Erinaceidae,Soricidae))),((Canidae,Ursidae),(Pteropodidae,(Phyllostomidae,Vespertilionidae))))),Myrmecophagidae),(Orycteropodidae,((Elephantidae,(Trichechidae,Procaviidae)),((Chrysochloridae,Tenrecidae),Macroscelididae))));
+
+[weight = 1]	tree robb_pr_194_1c.tre = (Real_OG,((Hominidae,(Bovidae,Suidae)),Muridae));
+[weight = 1]	tree robb_pr_130_10.tre = (Equidae,((((Hippopotamidae,(Physeteridae,Balaenidae)),(Tragulidae,(Antilocapridae,((Cervidae,Bovidae),Giraffidae)))),(Suidae,Tayassuidae)),Camelidae));
+
+[weight = 1]	tree robb_pr_171_1.tre = (Real_OG,(Muridae,(Bovidae,(Mustelidae,(Hominidae,Phocidae)))));
+
+[weight = 1]	tree robb_pr_255_1a.tre = (Real_OG,(Suidae,(Bovidae,(Hominidae,Muridae))));
+
+[weight = 1]	tree robb_pr_255_1b.tre = (Real_OG,(Muridae,(Hominidae,(Bovidae,Suidae))));
+
+[weight = 1]	tree robb_pr_251_1c.tre = (Real_OG,(Bovidae,(Leporidae,(Muridae,Hominidae))));
+
+[weight = 1]	tree robb_pr_349_15.tre = (Real_OG,(Caviidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_81_1.tre = (Real_OG,(Canidae,(((Leporidae,Muridae),(Cercopithecidae,Hominidae)),(Suidae,Bovidae))));
+
+[weight = 1]	tree robb_pr_58_1b.tre = ((Muridae,((Bovidae,Suidae),((Equidae,Canidae),Hominidae))),Real_OG);
+
+[weight = 1]	tree robb_pr_58_1a.tre = (Real_OG,(Muridae,(Leporidae,(Bovidae,(Suidae,Hominidae)))));
+
+[weight = 1]	tree robb_pr_170_1b.tre = (Real_OG,(Muridae,Hominidae,Bovidae));
+[weight = 1]	tree robb_pr_119_1.tre = (Real_OG,(Leporidae,(Suidae,(Muridae,(Hominidae,Camelidae)))));
+
+[weight = 1]	tree robb_pr_169_1.tre = (Real_OG,(Leporidae,(Bovidae,(Hominidae,Muridae))));
+
+[weight = 1]	tree robb_pr_170_2a.tre = (Real_OG,(Hominidae,(Equidae,Bovidae)));
+[weight = 1]	tree robb_pr_170_2b.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+[weight = 0.5]	tree robb_pr_267_1_1.tre = ((Real_OG,(Bovidae,Hominidae)),Muridae);
+[weight = 0.5]	tree robb_pr_267_1_2.tre = ((Real_OG,Bovidae),(Hominidae,Muridae));
+[weight = 1]	tree robb_pr_267_2.tre = (Real_OG,(Bovidae,(Hominidae,Muridae)));
+[weight = 1]	tree robb_pr_68_1.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree marcelc_rl_38_1.tre = (Real_OG,(Soricidae,((Equidae,(Hominidae,Canidae)),(Leporidae,Muridae))),(Bovidae,Suidae));
+
+[weight = 1]	tree MarcelC_RL_5_2_INS_semiMRP_cons.tre = (((Balaenopteridae,(Canidae,Physeteridae,Suidae),((((Caviidae,(Echimyidae,Myocastoridae)),Hystricidae),Chinchillidae),Muridae),(Cercopithecidae,Hominidae,Leporidae),Elephantidae,Equidae),Bovidae,Camelidae,Felidae),Real_OG);
+
+[weight = 1]	tree robb_pr_43_1c.tre = (Real_OG,(Muridae,(Hominidae,(Equidae,(Bovidae,Suidae)))));
+[weight = 1]	tree robb_pr_254_1b.tre = (Real_OG,((Hominidae,((Bovidae,Suidae),(Canidae,Equidae))),Muridae));
+
+[weight = 1]	tree robb_pr_43_1b.tre = (Real_OG,((Suidae,(Bovidae,Giraffidae)),(Equidae,(Hominidae,Leporidae))));
+
+[weight = 1]	tree marcelc_rl_20_1.tre = (Real_OG,((Leporidae,(Hominidae,(Bovidae,Suidae))),Muridae));
+
+[weight = 1]	tree marcelc_rl_20_2.tre = (Real_OG,(Bovidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_154_1.tre = (Muridae,((Equidae,(Hominidae,Cercopithecidae)),(Cervidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_83_1.tre = (Real_OG,(Erinaceidae,Manidae,(((((((Cynocephalidae,Tupaiidae),(Leporidae,((((Castoridae,(Aplodontidae,Sciuridae)),Myoxidae),(Dipodidae,Muridae)),((Chinchillidae,Erethizontidae),(Geomyidae,Heteromyidae))))),((Galagonidae,(Cheirogaleidae,(Indridae,Lemuridae))),(Hominidae,Tarsiidae))),(Bradypodidae,(((Procaviidae,Elephantidae),(Dugongidae,Trichechidae)),(Macroscelididae,Orycteropodidae)))),(Felidae,Canidae)),(Equidae,Tapiridae),(Camelidae,(Bovidae,Suidae,(Hippopotamidae,((Balaenopteridae,(Eschrichtiidae,(Ziphiidae,((Monodontidae,Phocoenidae),Delphinidae)))),Physeteridae))))),(Soricidae,(Pteropodidae,Phyllostomidae)))));
+[weight = 1]	tree robb_pr_93_2.tre = (((Bradypodidae,Pteropodidae,(Manidae,(((((((Dipodidae,Muridae),(Anomaluridae,Pedetidae)),(((Castoridae,(Heteromyidae,Geomyidae)),(Sciuridae,Aplodontidae)),Myoxidae)),(Ctenodactylidae,(Hystricidae,((Bathyergidae,(Thryonomyidae,Petromuridae)),((Chinchillidae,Erethizontidae),(Echimyidae,Caviidae)))))),(Orycteropodidae,(Dugongidae,Procaviidae))),(Ochotonidae,Leporidae)),(Tupaiidae,(Hominidae,Cynocephalidae))))),(Felidae,Erinaceidae)),(Equidae,(Camelidae,(Suidae,(Bovidae,Physeteridae)))),Real_OG);
+[weight = 1]	tree RobB_pr_344_16_RBP3_semiMRP_cons.tre = (((((((((Balaenopteridae,Hippopotamidae),Suidae),Camelidae),Manidae),(Equidae,Tapiridae),(Erinaceidae,Pteropodidae,Soricidae),Felidae),((Hominidae,Lemuridae),Tarsiidae)),((Caviidae,Erethizontidae),Ochotonidae),(Cynocephalidae,Tupaiidae),Muridae),(((Elephantidae,Trichechidae),Procaviidae),Macroscelididae,Orycteropodidae)),Real_OG);
+
+[weight = 1]	tree robb_pr_23_13.tre = (Caviidae,(Camelidae,(Suidae,(Bovidae,(Hippopotamidae,(Balaenidae,Phocoenidae))))));
+[weight = 1]	tree robb_pr_70_1.tre = (Real_OG,(Caviidae,Leporidae,Bovidae,(Camelidae,(Suidae,Equidae)),(Hominidae,Cercopithecidae),Muridae));
+
+[weight = 1]	tree robb_pr_125_1.tre = (Real_OG,(Muridae,((Bovidae,Suidae),(Hominidae,Leporidae))));
+
+[weight = 1]	tree robb_pr_219_1c.tre = (Real_OG,((Suidae,Hominidae),Muridae));
+
+[weight = 1]	tree robb_pr_219_1b.tre = (Real_OG,((Canidae,Hominidae),Muridae));
+
+[weight = 1]	tree robb_pr_76_1.tre = (Real_OG,(((Canidae,Felidae),(Suidae,Bovidae)),Equidae));
+
+[weight = 1]	tree robb_pr_278_1b.tre = (Real_OG,((Muridae,(Leporidae,Hominidae)),(Suidae,Equidae)));
+[weight = 1]	tree robb_pr_38_1b.tre = (Real_OG,(Muridae,(Hominidae,(Bovidae,Suidae))));
+
+[weight = 1]	tree robb_pr_97_1.tre = (Hominidae,Cercopithecidae,(Leporidae,((Dipodidae,Muridae),(Octodontidae,Myocastoridae),Myoxidae,Sciuridae)));
+[weight = 1]	tree robb_pr_109_1.tre = (Real_OG,((Hominidae,Cercopithecidae),(Soricidae,(Leporidae,(((Muridae,(Caviidae,(Octodontidae,Myocastoridae))),Sciuridae),Myoxidae)))));
+
+[weight = 0.5]	tree robb_pr_275_1_1.tre = (Real_OG,(Muridae,((Cercopithecidae,Hominidae),(Canidae,(Suidae,Bovidae)))));
+[weight = 0.5]	tree robb_pr_275_1_2.tre = (Muridae,(Real_OG,((Cercopithecidae,Hominidae),(Canidae,(Suidae,Bovidae)))));
+
+[weight = 0.5]	tree robb_pr_298_1_1.tre = (Real_OG,(Bovidae,((Hominidae,Muridae),(Suidae,Mustelidae))));
+[weight = 0.5]	tree robb_pr_298_1_2.tre = (Real_OG,((Hominidae,Muridae),(Bovidae,(Suidae,Mustelidae))));
+
+[weight = 1]	tree marcelc_rl_3_1.tre = (Real_OG,((Hominidae,Bovidae),Muridae));
+
+[weight = 1]	tree robb_pr_190_1b.tre = (Real_OG,(Muridae,(Hominidae,Leporidae)));
+
+[weight = 1]	tree robb_pr_190_1a.tre = (Real_OG,(Caviidae,(Muridae,(Hominidae,Bovidae))));
+
+[weight = 1]	tree robb_pr_190_1c.tre = (Real_OG,(Canidae,(Hominidae,Suidae)));
+[weight = 1]	tree marcelc_rl_25_1.tre = (Real_OG,(Muridae,((Hominidae,Equidae),(Caviidae,Myocastoridae))));
+
+[weight = 1]	tree marcelc_rl_25_2.tre = (Real_OG,(Muridae,(Hominidae,(Caviidae,Myocastoridae))));
+
+[weight = 1]	tree robb_pr_349_10.tre = (Real_OG,(Caviidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree marcelc_rl_24_1b.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_348_10.tre = (Muridae,(Bovidae,(Suidae,Physeteridae)));
+[weight = 1]	tree robb_pr_194_1a.tre = (Real_OG,((Hominidae,Cercopithecidae),(Equidae,(Bovidae,(Muridae,(Suidae,Canidae))))));
+[weight = 1]	tree robb_pr_157_1.tre = (Pteropodidae,(Cynocephalidae,((Tarsiidae,(Hominidae,Cercopithecidae)),((Galagonidae,Loridae),(Lemuridae,Daubentoniidae)))));
+
+[weight = 0.5]	tree robb_pr_272_1b_1.tre = (Real_OG,(Equidae,(Suidae,(((Bovidae,Cervidae),(Hominidae,Cercopithecidae)),Muridae))));
+[weight = 0.5]	tree robb_pr_272_1b_2.tre = (Equidae,(Suidae,(((Real_OG,(Bovidae,Cervidae)),(Hominidae,Cercopithecidae)),Muridae)));
+[weight = 0.5]	tree robb_pr_70_2_1.tre = ((Equidae,Canidae),(Hominidae,Real_OG));
+[weight = 0.5]	tree robb_pr_70_2_2.tre = (((Equidae,Canidae),Hominidae),Real_OG);
+
+[weight = 1]	tree robb_pr_311_1c.tre = (Real_OG,(Hominidae,(Caviidae,Muridae)));
+
+[weight = 1]	tree robb_pr_89_1a.tre = (Real_OG,(Suidae,(Leporidae,(Hominidae,Muridae))));
+
+[weight = 1]	tree robb_pr_89_1b.tre = (Real_OG,(Muridae,(Hominidae,(Bovidae,Felidae))));
+
+[weight = 1]	tree robb_pr_330_1.tre = (Real_OG,(Bovidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_304_1c.tre = (Real_OG,(Bovidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_130_3.tre = (Equidae,(((Physeteridae,Balaenidae),((Hippopotamidae,(Suidae,Tayassuidae)),(Tragulidae,(Antilocapridae,((Cervidae,Bovidae),Giraffidae))))),Camelidae));
+
+[weight = 1]	tree RobB_pr_215_1_MHC_I_classical_semiMRP_cons.tre = ((((Bovidae,(Muridae,Sciuridae)),(Callitrichidae,Hominidae),Equidae),Canidae,Leporidae),Real_OG);
+[weight = 0.333]	tree robb_pr_206_1_1.tre = ((Muridae,(Leporidae,((Bovidae,(Phocidae,Equidae)),(Felidae,Suidae)))),Real_OG);
+[weight = 0.333]	tree robb_pr_206_1_2.tre = ((Muridae,(Leporidae,((Phocidae,Equidae),(Bovidae,(Felidae,Suidae))))),Real_OG);
+[weight = 0.333]	tree robb_pr_206_1_3.tre = (((Leporidae,((Phocidae,Equidae),(Felidae,Suidae))),(Bovidae,Muridae)),Real_OG);
+
+[weight = 1]	tree robb_pr_75_1.tre = (Real_OG,(Leporidae,((Bovidae,Hominidae),Muridae)));
+
+[weight = 1]	tree robb_pr_3_2d.tre = (Real_OG,(Hominidae,(Bovidae,Muridae)));
+
+[weight = 1]	tree robb_pr_250_1b.tre = (Real_OG,(Felidae,(Hominidae,Leporidae)));
+[weight = 1]	tree robb_pr_3_2b.tre = (Real_OG,(Muridae,(Hominidae,Leporidae)));
+
+[weight = 1]	tree robb_pr_250_1a.tre = (Real_OG,(((Leporidae,(Suidae,(Hominidae,(Canidae,Phocidae)))),Bovidae),Muridae));
+[weight = 1]	tree robb_pr_3_2c.tre = (Real_OG,((Equidae,(Leporidae,((Hominidae,Canidae),(Bovidae,Suidae)))),Muridae));
+
+[weight = 1]	tree robb_pr_227_1e.tre = (Real_OG,((Muridae,Sciuridae),(Hominidae,(Bovidae,Equidae))));
+[weight = 1]	tree robb_pr_3_2a.tre = (Real_OG,(((Leporidae,((Equidae,(Hominidae,Cercopithecidae)),(Canidae,Suidae))),Bovidae),Muridae));
+
+[weight = 1]	tree robb_pr_75_2.tre = (Real_OG,((Leporidae,(Bovidae,Hominidae)),Muridae));
+
+[weight = 1]	tree robb_pr_3_1d.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_3_1b.tre = (Real_OG,(Muridae,(Hominidae,Leporidae)));
+
+[weight = 1]	tree robb_pr_227_1b.tre = (Real_OG,(Suidae,(Hominidae,Muridae)));
+[weight = 1]	tree robb_pr_3_1c.tre = (Real_OG,((Hominidae,(Equidae,Bovidae)),Muridae));
+
+[weight = 1]	tree robb_pr_3_1a.tre = (Real_OG,(((Callitrichidae,(Cercopithecidae,Hominidae)),(Canidae,(Suidae,Bovidae))),Muridae));
+[weight = 1]	tree robb_pr_52_1.tre = (Real_OG,((Bovidae,(Felidae,Canidae)),(Cercopithecidae,Hominidae)));
+[weight = 1]	tree robb_pr_66_1b.tre = (Cynocephalidae,((Tupaiidae,((Hominidae,Cercopithecidae,(Cebidae,Callitrichidae)),(Lemuridae,(Loridae,Galagonidae)))),(Pteropodidae,Phyllostomidae)),(Soricidae,Leporidae));
+
+[weight = 1]	tree robb_pr_6_1.tre = (Real_OG,(((Tupaiidae,(Cynocephalidae,(Hominidae,Lemuridae))),(Leporidae,Muridae)),((Suidae,Bovidae),(Vespertilionidae,Erinaceidae))));
+
+[weight = 1]	tree robb_pr_88_1e.tre = (Real_OG,(Bovidae,(Suidae,(Hominidae,Muridae))));
+
+[weight = 1]	tree marcelc_rl_28_1.tre = (Real_OG,(Caviidae,(Leporidae,((Bovidae,Hominidae),Muridae))));
+
+[weight = 1]	tree robb_pr_311_1b.tre = (Real_OG,(Hominidae,(Caviidae,Muridae)));
+
+[weight = 1]	tree MarcelC_RL_44_16.tre = (Real_OG,(Caviidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree marcelc_rl_55_1b.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree marcelc_rl_55_1a.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_348_9.tre = (Muridae,(Suidae,(Bovidae,Balaenopteridae)));
+[weight = 1]	tree robb_pr_351_1.tre = (Real_OG,((Cebidae,(Cercopithecidae,(Hominidae,Hylobatidae))),((Suidae,((((Galagonidae,Loridae),Tupaiidae),(((Megaladapidae,(Equidae,Elephantidae)),(Bovidae,Cervidae)),((Platanistidae,(Delphinidae,Phocoenidae)),((Physeteridae,Ziphiidae),(Balaenopteridae,Eschrichtiidae))))),((Leporidae,Ochotonidae),((Canidae,Mustelidae),(Otariidae,Phocidae))))),(Erinaceidae,Pteropodidae))));
+[weight = 1]	tree robb_pr_137_1.tre = (((Muridae,(Chinchillidae,Echimyidae)),(Callitrichidae,(Cercopithecidae,Hominidae))),Real_OG);
+[weight = 1]	tree robb_pr_336_3.tre = (Real_OG,((((Hylobatidae,Hominidae),Cercopithecidae),(Callitrichidae,Cebidae)),(((Canidae,Mustelidae),((Equidae,Bovidae),(Megaladapidae,((Phocidae,Otariidae),(Delphinidae,(Phocoenidae,Physeteridae)))))),(Galagonidae,Tupaiidae))));
+
+[weight = 1]	tree robb_pr_253_1b.tre = (Real_OG,((Hominidae,Leporidae),Muridae));
+
+[weight = 1]	tree robb_pr_253_1c.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_349_44.tre = (Real_OG,(Hominidae,(Leporidae,Muridae)));
+
+[weight = 1]	tree robb_pr_324_2a.tre = (Real_OG,(Bovidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_324_1.tre = (Real_OG,(Suidae,(Leporidae,(Hominidae,Muridae))));
+
+[weight = 1]	tree robb_pr_324_2b.tre = (Real_OG,(Canidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree Robb_pr_346_14_MTND1_semiMRP_cons.tre = ((((((Balaenopteridae,Bovidae),(Equidae,Rhinocerotidae)),(Felidae,Phocidae)),(((Bradypodidae,Dasypodidae),Myrmecophagidae),(((((Callitrichidae,Cebidae),(Hominidae,Hylobatidae)),Lemuridae),Loridae),(Caviidae,Muridae),Sciuridae))),Manidae),Real_OG);
+[weight = 1]	tree robb_pr_348_3_MTND1_semiMRP_cons.tre = (Muridae,(Suidae,(Bovidae,Balaenopteridae)));
+
+[weight = 1]	tree RobB_pr_346_9_MTND2_semiMRP_cons.tre = (((Balaenopteridae,Bovidae,Equidae,Felidae,Phocidae,Rhinocerotidae),((Hominidae,Hylobatidae),Muridae)),Real_OG);
+
+[weight = 1]	tree robb_pr_346_10_MTND3__semiMRP_cons.tre = (Real_OG,((Muridae,(Hominidae,Hylobatidae)),(Phocidae,Felidae,Equidae,Rhinocerotidae,Bovidae,Balaenopteridae)));
+
+[weight = 1]	tree robb_pr_346_11_MTND4_semiMRP_cons.tre = (Real_OG,(Muridae,((Hominidae,Hylobatidae),(Phocidae,Felidae,Equidae,Rhinocerotidae,Bovidae,Balaenopteridae))));
+
+[weight = 1]	tree robb_pr_346_12_MTND4L_semiMRP_cons.tre = (Real_OG,(Muridae,((Hominidae,Hylobatidae),(Phocidae,Felidae,Equidae,Rhinocerotidae,Bovidae,Balaenopteridae))));
+
+[weight = 1]	tree robb_pr_346_13_MTND5_semiMRP_cons.tre = (Real_OG,(Muridae,((Hominidae,Hylobatidae),(Phocidae,Felidae,Equidae,Rhinocerotidae,Bovidae,Balaenopteridae))));
+
+[weight = 1]	tree robb_pr_174_3.tre = ((((Loridae,(Cynocephalidae,((((((Camelidae,(Suidae,((Manidae,(Phyllostomidae,((Equidae,Rhinocerotidae),(Vespertilionidae,Rhinolophidae)))),((Felidae,(Canidae,(Ursidae,(Phocidae,(Odobenidae,Otariidae))))),((Erinaceidae,Soricidae),Talpidae))))),Bovidae),(Hippopotamidae,(Physeteridae,Balaenopteridae))),Pteropodidae),(Caviidae,Thryonomyidae)),(Cebidae,((Hominidae,Hylobatidae),Cercopithecidae))))),(Ochotonidae,(((Lemuridae,(Tarsiidae,Tupaiidae)),(Sciuridae,(Myoxidae,Muridae))),Leporidae))),(Myrmecophagidae,(Dasypodidae,((Chrysochloridae,(Elephantidae,Dugongidae)),(Macroscelididae,(Tenrecidae,Orycteropodidae)))))),Real_OG);
+
+[weight = 1]	tree robb_pr_56_1.tre = (Real_OG,(Muridae,(Tayassuidae,Leporidae)));
+
+[weight = 1]	tree robb_pr_323_12.tre = (Real_OG,(Bovidae,(Caviidae,Muridae)));
+[weight = 1]	tree robb_pr_349_11.tre = (Real_OG,(Hominidae,(Muridae,Caviidae)));
+
+[weight = 1]	tree robb_pr_122_1e.tre = (Real_OG,((Hominidae,Bovidae),Muridae));
+
+[weight = 1]	tree robb_pr_122_1d.tre = (Real_OG,((Hominidae,Bovidae),Muridae));
+
+[weight = 1]	tree robb_pr_122_1c.tre = (Real_OG,((Hominidae,Bovidae),Muridae));
+
+[weight = 1]	tree robb_pr_122_1a.tre = (Real_OG,((Hominidae,Bovidae),Muridae));
+
+[weight = 1]	tree robb_pr_122_1b.tre = (Real_OG,((Hominidae,Bovidae),Muridae));
+
+[weight = 1]	tree robb_pr_82_1.tre = (Real_OG,((Bovidae,Canidae,Leporidae,(Hominidae,Cercopithecidae)),Muridae));
+
+[weight = 1]	tree robb_pr_216_1.tre = (Real_OG,((Equidae,((Canidae,Felidae),(Bovidae,Cervidae))),(Hominidae,((Leporidae,Caviidae),(Sciuridae,Muridae)))));
+
+[weight = 1]	tree robb_pr_208_1.tre = (Real_OG,(((Hominidae,Cercopithecidae),(Callitrichidae,Cebidae)),(Bovidae,Muridae)));
+
+[weight = 1]	tree robb_pr_201_1.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree MarcelC_RL_4_1_PPY_semiMRP_cons.tre = (((((Bovidae,Felidae),(Canidae,Caviidae,Suidae)),Hominidae),Muridae),Real_OG);
+[weight = 1]	tree robb_pr_12_1.tre = (Real_OG,(Hominidae,(Equidae,Bovidae)));
+
+[weight = 1]	tree RobB_pr_99_1_PGA@_semiMRP_cons.tre = (((((Canidae,(Rhinolophidae,Soricidae)),(Cercopithecidae,Hominidae)),Suidae),Leporidae),Real_OG);
+
+[weight = 1]	tree RobB_pr_99_2_PGC@_semiMRP_cons.tre = ((((Caviidae,Muridae),Leporidae),((Cercopithecidae,Hominidae),(Rhinolophidae,Soricidae))),Real_OG);
+
+[weight = 1]	tree marcelc_rl_12_1.tre = (Real_OG,(Suidae,(Hominidae,Muridae)));
+
+[weight = 1]	tree robb_pr_265_1.tre = (Real_OG,(Equidae,(Bovidae,Suidae)));
+[weight = 1]	tree robb_pr_349_13.tre = (Real_OG,(Caviidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree RobB_pr_344_17_PLCB4_semiMRP_cons.tre = (((((((((((((Balaenopteridae,Delphinidae),(Bovidae,Hippopotamidae)),Suidae),Camelidae),(Equidae,(Rhinocerotidae,Tapiridae))),(Phyllostomidae,Pteropodidae)),((Canidae,Felidae),Manidae),(Erinaceidae,Talpidae),Soricidae),(((Chrysochloridae,((Elephantidae,Procaviidae),Trichechidae)),(Orycteropodidae,Tenrecidae)),(Dasypodidae,Myrmecophagidae))),(((((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),Tarsiidae),Lemuridae),(Cynocephalidae,Tupaiidae))),(Leporidae,Ochotonidae)),(((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae)),(Macroscelididae,Muridae)),Real_OG);
+
+[weight = 1]	tree robb_pr_1_1.tre = (Real_OG,(Leporidae,((Hominidae,(Suidae,Bovidae)),Muridae)));
+
+[weight = 1]	tree robb_pr_106_1.tre = (Myrmecophagidae,((Tenrecidae,(Macroscelididae,Chrysochloridae)),(Trichechidae,(Procaviidae,(Elephantidae,Orycteropodidae)))),((((Suidae,(Camelidae,((Hippopotamidae,Physeteridae),Bovidae))),((Rhinocerotidae,Equidae),(Manidae,Mustelidae))),(Pteropodidae,(Phyllostomidae,Vespertilionidae),(Talpidae,(Soricidae,Erinaceidae)))),((Cynocephalidae,(Hominidae,Cebidae)),(Sciuridae,(Tupaiidae,((Caviidae,(Ochotonidae,Leporidae)),Muridae))))));
+[weight = 1]	tree robb_pr_181_2.tre = (Suidae,Camelidae,(Giraffidae,(Antilocapridae,(Cervidae,Bovidae))));
+
+[weight = 1]	tree robb_pr_349_31.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_51_1.tre = (Real_OG,(Leporidae,(Felidae,(Suidae,(Balaenopteridae,(Bovidae,(Muridae,Hominidae)))))));
+
+[weight = 1]	tree robb_pr_349_32.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+[weight = 1]	tree robb_pr_349_51.tre = (Bovidae,(Leporidae,Hominidae));
+
+[weight = 1]	tree robb_pr_23_7.tre = (Rhinocerotidae,(Tragulidae,(Hippopotamidae,Camelidae,(Giraffidae,(Bovidae,Cervidae)),(Delphinidae,Balaenopteridae),(Suidae,Tayassuidae))));
+[weight = 1]	tree robb_pr_252_1b.tre = (Real_OG,(Caviidae,Delphinidae,Camelidae,Suidae,Felidae,Ursidae,Equidae,Elephantidae,Leporidae,(Cercopithecidae,(Hominidae,Hylobatidae),(Cebidae,Callitrichidae)),Muridae,(Bovidae,Cervidae)));
+[weight = 1]	tree robb_pr_10_1.tre = (Muridae,(Elephantidae,(Cynocephalidae,(Hominidae,Hylobatidae)),(((Equidae,(Ursidae,Felidae)),(Delphinidae,(Camelidae,(Bovidae,Cervidae)))),(Pteropodidae,Rhinolophidae,(Rhinopomatidae,((Mormoopidae,Phyllostomidae),(Natalidae,Vespertilionidae)))))));
+
+[weight = 1]	tree robb_pr_88_1d.tre = (Real_OG,((Hominidae,((Suidae,Bovidae),(Felidae,Ursidae))),Muridae));
+
+[weight = 1]	tree robb_pr_191_1.tre = (Real_OG,((Hominidae,Bovidae),Muridae));
+
+[weight = 1]	tree robb_pr_349_50.tre = (Hominidae,(Leporidae,Bovidae));
+
+[weight = 1]	tree robb_pr_349_49.tre = (Hominidae,(Leporidae,Bovidae));
+
+[weight = 1]	tree robb_pr_130_5.tre = (Equidae,((((Hippopotamidae,(Physeteridae,Balaenidae)),(Tragulidae,((Antilocapridae,Giraffidae),(Cervidae,Bovidae)))),Camelidae),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_349_41.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+[weight = 1]	tree robb_pr_349_61.tre = (Hominidae,(Leporidae,Bovidae));
+
+[weight = 1]	tree robb_pr_214_1a.tre = (Real_OG,((Hominidae,(Felidae,Canidae)),Muridae));
+
+[weight = 1]	tree robb_pr_214_1b.tre = (Real_OG,((Felidae,Canidae,Hominidae),Muridae));
+
+[weight = 1]	tree robb_pr_214_1c.tre = (Real_OG,(Muridae,(Hominidae,(Felidae,Canidae))));
+[weight = 1]	tree MarcelC_RL_44_18.tre = (Real_OG,(Muridae,(Caviidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_147_1.tre = (Real_OG,(Hominidae,(Muridae,Suidae)));
+
+[weight = 1]	tree robb_pr_174_1.tre = ((((((((Camelidae,(Suidae,((Giraffidae,Bovidae),(Hippopotamidae,(Balaenopteridae,Delphinidae))))),(Felidae,(Ursidae,Phocidae))),(Erinaceidae,Talpidae)),((Equidae,(Rhinocerotidae,Tapiridae)),(Rhinolophidae,(Vespertilionidae,Pteropodidae)))),Manidae),(((Hominidae,(Tarsiidae,Tupaiidae)),(Ochotonidae,Leporidae)),(Cynocephalidae,(Muridae,(Hystricidae,Caviidae))))),(Dasypodidae,(Myrmecophagidae,Megalonychidae))),((Elephantidae,(Procaviidae,(Dugongidae,Trichechidae))),((Tenrecidae,Macroscelididae),(Chrysochloridae,Orycteropodidae))));
+[weight = 1]	tree RobB_pr_344_18_RAG1_semiMRP_cons.tre = (((((((((((Balaenopteridae,Delphinidae),(Camelidae,Tenrecidae),Erinaceidae,Felidae,Hippopotamidae,Manidae,(Nycteridae,Phyllostomidae),Suidae),((Equidae,(Rhinocerotidae,Tapiridae)),(Pteropodidae,Talpidae))),((((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae),Muridae)),((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),(Cynocephalidae,Lemuridae)),(Leporidae,Ochotonidae)),(Dasypodidae,Myrmecophagidae)),(Elephantidae,Trichechidae)),Orycteropodidae),Macroscelididae),Real_OG);
+
+[weight = 1]	tree RobB_pr_344_19_RAG2_semiMRP_cons.tre = ((((((Balaenopteridae,Delphinidae),Bovidae,(((((((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),(((((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae),Muridae),(Leporidae,Ochotonidae))),(Lemuridae,(Tarsiidae,Tupaiidae))),Cynocephalidae),Felidae),((Equidae,Tapiridae),Rhinocerotidae)),(Camelidae,Suidae),((Erinaceidae,Soricidae),Manidae),Hippopotamidae,(((Nycteridae,Phyllostomidae),Pteropodidae),Talpidae)),(Dasypodidae,Myrmecophagidae)),((Chrysochloridae,Tenrecidae),(Elephantidae,Trichechidae))),Macroscelididae,Orycteropodidae),Real_OG);
+[weight = 1]	tree robb_pr_381_4.tre = (Hominidae,Ochotonidae,Leporidae,((Myoxidae,(Aplodontidae,Sciuridae)),(Castoridae,(Pedetidae,(Geomyidae,Heteromyidae))),(Chinchillidae,Erethizontidae),(Dipodidae,Muridae)));
+
+[weight = 1]	tree robb_pr_95_1b.tre = (Real_OG,((Camelidae,Equidae,Suidae,Muridae,(Felidae,Canidae),(Galagonidae,Lemuridae)),(Callitrichidae,Cercopithecidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_95_1a.tre = (Real_OG,(Muridae,((Suidae,(Bovidae,Cervidae)),(Galagonidae,(Hominidae,Callitrichidae)))));
+
+[weight = 1]	tree robb_pr_88_1b.tre = (Real_OG,(Hominidae,((Equidae,(Suidae,Bovidae)),(Muridae,Leporidae))));
+
+[weight = 1]	tree robb_pr_192_1.tre = (Real_OG,(Muridae,(Hominidae,Suidae)));
+
+[weight = 1]	tree robb_pr_185_1a.tre = (Real_OG,(Suidae,Camelidae,((Hippopotamidae,(Phocoenidae,Delphinidae)),(Tragulidae,((Giraffidae,Bovidae),Cervidae)))));
+
+[weight = 1]	tree robb_pr_262_1.tre = (((Hominidae,(Equidae,((Balaenopteridae,(Suidae,(Hippopotamidae,(((Bovidae,(Antilocapridae,Giraffidae)),Cervidae),Camelidae)))),((Muridae,(Chinchillidae,(Echimyidae,Myocastoridae))),(Hystricidae,(Caviidae,Hydrochaeridae)))))),(Megalonychidae,Bradypodidae)),Real_OG);
+[weight = 1]	tree robb_pr_137_2.tre = (((Caviidae,Hydrochaeridae),(Echimyidae,Chinchillidae,Myocastoridae)),Muridae,(Cercopithecidae,Hominidae));
+[weight = 1]	tree robb_pr_185_1b.tre = (Real_OG,(Suidae,Camelidae,((Hippopotamidae,(Phocoenidae,Delphinidae)),(Tragulidae,((Giraffidae,Bovidae),Cervidae)))));
+[weight = 1]	tree robb_pr_193_1a.tre = (Hominidae,Muridae,(Suidae,(Camelidae,(Hippopotamidae,(Delphinidae,Phocoenidae)),(Bovidae,Cervidae))));
+[weight = 1]	tree robb_pr_226_1.tre = (Camelidae,((Hippopotamidae,((Suidae,(((Ctenodactylidae,((Hystricidae,(Hydrochaeridae,Caviidae)),(Myocastoridae,(Echimyidae,Chinchillidae)))),(Leporidae,(Myoxidae,Muridae))),((Sciuridae,(Megalonychidae,Bradypodidae)),(Lemuridae,((Phyllostomidae,(Equidae,(Orycteropodidae,Elephantidae))),(Hominidae,Cebidae)))))),(Balaenopteridae,(Delphinidae,Phocoenidae)))),(Bovidae,Tragulidae)),Real_OG);
+[weight = 1]	tree robb_pr_285_1.tre = (Real_OG,(Muridae,((Megalonychidae,(Equidae,(Hominidae,Cercopithecidae))),((Hystricidae,(Hydrochaeridae,(Myocastoridae,(Echimyidae,Chinchillidae)))),((Suidae,Balaenopteridae),(Hippopotamidae,(Cervidae,((Giraffidae,Antilocapridae),Bovidae))))))));
+
+[weight = 1]	tree robb_pr_185_1c.tre = (Real_OG,(Suidae,Camelidae,((Hippopotamidae,(Phocoenidae,Delphinidae)),(Tragulidae,(Bovidae,(Giraffidae,Cervidae))))));
+
+[weight = 1]	tree robb_pr_325_1.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 0.5]	tree robb_pr_196_1_1.tre = (Real_OG,(Muridae,(((Equidae,(Felidae,Canidae)),(Suidae,Bovidae)),(Cercopithecidae,Hominidae))));
+[weight = 0.5]	tree robb_pr_196_1_2.tre = (Real_OG,((Muridae,((Equidae,(Felidae,Canidae)),(Suidae,Bovidae))),(Cercopithecidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_23_5.tre = (Rhinocerotidae,(Suidae,(Tayassuidae,((Hippopotamidae,(Camelidae,(Tragulidae,(Giraffidae,(Bovidae,Cervidae))))),(Delphinidae,(Ziphiidae,(Physeteridae,Balaenopteridae)))))));
+[weight = 1]	tree robb_pr_230_3.tre = (Real_OG,(Muridae,(Bovidae,Suidae,Phocidae,Felidae,Megadermatidae,Molossidae,Pteropodidae,Cynocephalidae,Bradypodidae,Chrysochloridae,Erinaceidae,Soricidae,Leporidae,Macroscelididae,Manidae,Hominidae,Lemuridae,Caviidae,Tupaiidae,Orycteropodidae,(Balaenopteridae,Delphinidae),((Procaviidae,Dugongidae),Elephantidae),(Rhinocerotidae,Equidae))));
+[weight = 1]	tree RobB_pr_290_1_MTRNR1_semiMRP_cons.tre = (((((Abrocomidae,Agoutidae,Capromyidae,Caviidae,Chinchillidae,Ctenomyidae,Dasyproctidae,Dinomyidae,Echimyidae,Erethizontidae,Hydrochaeridae,Myocastoridae,Octodontidae),(Bathyergidae,Hystricidae,Petromuridae,Thryonomyidae)),((((Aplodontidae,Sciuridae),Ctenodactylidae),Myoxidae),Castoridae)),((Dipodidae,Muridae),((Geomyidae,Heteromyidae),Pedetidae))),(((Balaenopteridae,Hominidae),Dasypodidae),(Bovidae,Phocidae)),Leporidae);
+[weight = 1]	tree marcelc_rl_21_1.tre = (Real_OG,(Dasypodidae,(Muridae,(Bovidae,((Tupaiidae,(Hominidae,Cynocephalidae)),(Pteropodidae,(Molossidae,Phyllostomidae)))))));
+[weight = 1]	tree marcelc_rl_42_1.tre = (Real_OG,(((((Hippopotamidae,(Delphinidae,(Balaenopteridae,Physeteridae))),(Suidae,Tayassuidae),Camelidae,(Tragulidae,(Antilocapridae,(Giraffidae,Bovidae,Cervidae)))),(Equidae,Rhinocerotidae),(Elephantidae,Dugongidae),(Phocidae,Felidae)),Caviidae),Muridae));
+[weight = 1]	tree RobB_pr_21_2_MTRNR1_semiMRP_cons.tre = (((((((Aplodontidae,Sciuridae),Myoxidae),(((Bovidae,Suidae),Dasypodidae),Castoridae,(Cercopithecidae,Hominidae),(Elephantidae,Macroscelididae))),(Dipodidae,Muridae),(Geomyidae,Heteromyidae),Pedetidae),((Bathyergidae,Thryonomyidae),Caviidae,Chinchillidae,Ctenodactylidae,Dinomyidae,Echimyidae,Erethizontidae,Hystricidae),(Cynocephalidae,Tupaiidae)),Leporidae),Real_OG);
+[weight = 1]	tree RobB_pr_41_1_MTRNR1_semiMRP_cons.tre = (((((((((Antilocapridae,((Bovidae,Cervidae),Giraffidae)),Tragulidae),(Balaenopteridae,Delphinidae)),(((Canidae,Ursidae),(Felidae,Herpestidae),(Mustelidae,Procyonidae),(Otariidae,Phocidae)),Soricidae)),(Equidae,Rhinocerotidae),(Suidae,Tayassuidae)),(((Caviidae,Hydrochaeridae),(Dasypodidae,(Leporidae,Tupaiidae)),(Myoxidae,Vespertilionidae)),((Cynocephalidae,(Hominidae,Hylobatidae)),((Manidae,(Muridae,Solenodontidae)),(Pteropodidae,Talpidae))))),(((Chrysochloridae,Tenrecidae),((Macroscelididae,Tarsiidae),Orycteropodidae)),(((Dugongidae,Trichechidae),Procaviidae),Elephantidae))),Erinaceidae),Real_OG);
+[weight = 1]	tree RobB_pr_45_1_MTRNR1_semiMRP_cons.tre = ((((((((((Antilocapridae,(Bovidae,(Cervidae,Giraffidae))),Tragulidae),(Balaenopteridae,(Delphinidae,Physeteridae))),(((Equidae,Rhinocerotidae),(Felidae,Phocidae)),(Suidae,Tayassuidae))),Pteropodidae,Soricidae),(Dasypodidae,Manidae)),((Cynocephalidae,(Hominidae,Hylobatidae)),(Myoxidae,Vespertilionidae),Tarsiidae)),(((Caviidae,Hydrochaeridae),((Chrysochloridae,(((Dugongidae,Trichechidae),Procaviidae),Elephantidae)),Tenrecidae)),(Erinaceidae,(Leporidae,Tupaiidae)))),Muridae),Real_OG);
+[weight = 1]	tree robb_pr_320_2.tre = (Real_OG,((((((Chrysochloridae,(Procaviidae,(Elephantidae,Trichechidae))),(Orycteropodidae,(Macroscelididae,Tenrecidae))),(Aplodontidae,Vespertilionidae)),(((Erinaceidae,Talpidae),(((Bovidae,Tragulidae),(Camelidae,(Manidae,Solenodontidae))),(Megadermatidae,Pteropodidae))),(Balaenopteridae,(Hominidae,Cercopithecidae)),Soricidae,((Bradypodidae,Dasypodidae),(Lemuridae,Tarsiidae)),(Felidae,(Canidae,Phocidae)),(Rhinocerotidae,Equidae))),(Caviidae,Leporidae)),Muridae));
+[weight = 1]	tree RobB_pr_344_4_MTRNR1_semiMRP_cons.tre = (((((((Balaenopteridae,Delphinidae),Bovidae,Camelidae,Hippopotamidae),((Nycteridae,Phyllostomidae),Suidae)),((Equidae,Rhinocerotidae),Tapiridae)),((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),(Canidae,Felidae),((Caviidae,Erethizontidae,Hydrochaeridae),Hystricidae),((Chrysochloridae,(Macroscelididae,(Orycteropodidae,Tenrecidae))),(Elephantidae,Procaviidae,Trichechidae)),Cynocephalidae,(Dasypodidae,Lemuridae,Tarsiidae),((Erinaceidae,Manidae),Talpidae),(Leporidae,Ochotonidae),Muridae,Myrmecophagidae,Pteropodidae,Soricidae),Tupaiidae),Real_OG);
+
+[weight = 1]	tree robb_pr_23_6.tre = (Rhinocerotidae,(Suidae,Tayassuidae,((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Delphinidae,(Ziphiidae,(Physeteridae,Balaenopteridae)))),(Hippopotamidae,Camelidae)));
+[weight = 1]	tree robb_pr_260_2.tre = (Real_OG,(((Hylobatidae,Hominidae),(((Phocidae,Felidae),(Equidae,Rhinocerotidae),(Bovidae,Balaenopteridae)),(Vespertilionidae,(Soricidae,Talpidae)))),Muridae));
+[weight = 1]	tree RobB_pr_344_5_MTRNR2_semiMRP_cons.tre = ((((((((((((Balaenopteridae,Delphinidae),Hippopotamidae),(Bovidae,Suidae)),Camelidae),((Canidae,Felidae),(Equidae,Rhinocerotidae,Tapiridae))),(Soricidae,Talpidae)),(Manidae,(Nycteridae,Phyllostomidae),Pteropodidae)),((((Chrysochloridae,Tenrecidae),((Elephantidae,Procaviidae),Trichechidae),Orycteropodidae),Macroscelididae),(Dasypodidae,Myrmecophagidae))),(((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),Cynocephalidae,(Lemuridae,Leporidae,Ochotonidae,Tupaiidae),Tarsiidae)),(((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae)),Erinaceidae,Muridae),Real_OG);
+[weight = 1]	tree robb_pr_380_1.tre = (Dasypodidae,(Myrmecophagidae,(Megalonychidae,Bradypodidae)));
+
+[weight = 1]	tree robb_pr_5_2.tre = (Real_OG,(Hominidae,Erinaceidae,Equidae,(Muridae,Dasypodidae)));
+[weight = 1]	tree robb_pr_308_1.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+
+[weight = 0.333]	tree robb_pr_312_1_1.tre = (Real_OG,(Leporidae,((Hominidae,Muridae),(Mustelidae,Canidae))));
+[weight = 0.333]	tree robb_pr_312_1_2.tre = ((Leporidae,((Muridae,Hominidae),(Mustelidae,Canidae))),Real_OG);
+[weight = 0.333]	tree robb_pr_312_1_3.tre = ((Leporidae,(Hominidae,(Mustelidae,Canidae))),(Muridae,Real_OG));
+
+[weight = 1]	tree robb_pr_331_1b.tre = (Real_OG,((Hominidae,Caviidae),Muridae));
+
+[weight = 1]	tree robb_pr_112_1a.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+[weight = 1]	tree robb_pr_130_7.tre = (Equidae,((((Hippopotamidae,(Physeteridae,Balaenidae)),(Tragulidae,(Antilocapridae,((Cervidae,Bovidae),Giraffidae)))),Camelidae),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_112_1b.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_249_1c.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_130_6.tre = (Equidae,((((Hippopotamidae,(Physeteridae,Balaenidae)),(Tragulidae,(Antilocapridae,((Cervidae,Bovidae),Giraffidae)))),Camelidae),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_54_1.tre = ((Equidae,((((Callitrichidae,(Leporidae,(Hylobatidae,(Hominidae,Cercopithecidae)))),(Suidae,Canidae)),Muridae),(Bovidae,Cervidae))),Real_OG);
+
+[weight = 1]	tree robb_pr_59_1.tre = (Real_OG,(Hominidae,(Muridae,(Bovidae,Suidae))));
+
+[weight = 1]	tree robb_pr_36_1.tre = (Real_OG,((Leporidae,(Hominidae,Muridae)),(Bovidae,Suidae)));
+[weight = 1]	tree robb_pr_108_1a.tre = (Real_OG,(Muridae,(Leporidae,(Bovidae,Canidae))));
+
+[weight = 1]	tree robb_pr_36_2.tre = (Real_OG,((Hominidae,(Leporidae,(Suidae,Bovidae))),Muridae));
+[weight = 1]	tree robb_pr_108_1b.tre = (Real_OG,(Leporidae,(Muridae,(Hominidae,Canidae))));
+
+[weight = 1]	tree robb_pr_108_1d.tre = (Real_OG,(Bovidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_108_1c.tre = (Real_OG,(Hominidae,(Muridae,Leporidae)));
+[weight = 0.5]	tree robb_pr_108_2b_1.tre = ((Real_OG,(Muridae,Bovidae)),Leporidae);
+[weight = 0.5]	tree robb_pr_108_2b_2.tre = ((Real_OG,Muridae),(Leporidae,Bovidae));
+
+[weight = 1]	tree robb_pr_327_1a.tre = (Real_OG,(Hominidae,(Muridae,Suidae)));
+
+[weight = 1]	tree robb_pr_130_4.tre = (Equidae,(((Hippopotamidae,(Physeteridae,Balaenidae)),(Camelidae,(Tragulidae,((Antilocapridae,Giraffidae),(Cervidae,Bovidae))))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_349_33.tre = (Real_OG,(Leporidae,(Hominidae,Muridae)));
+[weight = 1]	tree robb_pr_349_52.tre = (Leporidae,(Bovidae,Hominidae));
+
+[weight = 1]	tree robb_pr_349_64.tre = (Leporidae,(Bovidae,Hominidae));
+
+[weight = 1]	tree robb_pr_38_1a.tre = (Real_OG,((Muridae,(Hominidae,Leporidae)),(Equidae,(Bovidae,Suidae))));
+
+[weight = 1]	tree robb_pr_349_8.tre = (Real_OG,(Caviidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_15_7.tre = (((Leporidae,(Muridae,(Sciuridae,Caviidae))),((Tupaiidae,Hominidae),Cercopithecidae)),((Equidae,(Felidae,Canidae)),(Suidae,Bovidae)));
+
+[weight = 0.25]	tree robb_pr_341_1_1.tre = (Monodontidae,(Hominidae,(Talpidae,((Viverridae,(Felidae,(Hyaenidae,Herpestidae))),(Canidae,((Ursidae,(Mustelidae,Procyonidae)),(Phocidae,(Odobenidae,Otariidae))))))));
+[weight = 0.25]	tree robb_pr_341_1_2.tre = (Monodontidae,(Hominidae,(Talpidae,((Viverridae,(Felidae,(Hyaenidae,Herpestidae))),(Canidae,(((Mustelidae,Procyonidae),(Phocidae,(Odobenidae,Otariidae))),Ursidae))))));
+[weight = 0.25]	tree robb_pr_341_1_3.tre = (Monodontidae,(Hominidae,(Talpidae,((Felidae,((Hyaenidae,Herpestidae),Viverridae)),(Canidae,((Ursidae,(Mustelidae,Procyonidae)),(Phocidae,(Odobenidae,Otariidae))))))));
+[weight = 0.25]	tree robb_pr_341_1_4.tre = (Monodontidae,(Hominidae,(Talpidae,((Felidae,((Hyaenidae,Herpestidae),Viverridae)),(Canidae,(((Mustelidae,Procyonidae),(Phocidae,(Odobenidae,Otariidae))),Ursidae))))));
+[weight = 1]	tree robb_pr_105_1.tre = (Real_OG,(Hominidae,Leporidae,(Erinaceidae,Soricidae),(Suidae,Bovidae),Muridae));
+[weight = 1]	tree robb_pr_110_2_TTR_semiMRP_cons.tre = (Capromyidae,((Agoutidae,(Caviidae,Hydrochaeridae)),Dasyproctidae));
+
+[weight = 1]	tree robb_pr_145_1.tre = (Real_OG,(Leporidae,(Hominidae,Cercopithecidae,Muridae)));
+
+[weight = 1]	tree RobB_pr_344_21_MTTV_semiMRP_cons.tre = ((((((((((Balaenopteridae,Bovidae,Delphinidae),Camelidae),(Equidae,Tapiridae)),Phyllostomidae),Rhinocerotidae),Pteropodidae),(((((Callitrichidae,Cebidae,(Hippopotamidae,Suidae)),(Caviidae,Hydrochaeridae)),Orycteropodidae),(Canidae,Ochotonidae)),Muridae),((((((((Cercopithecidae,Procaviidae),(Hominidae,Leporidae),Trichechidae),Dasypodidae),Manidae),Erinaceidae),(Chrysochloridae,(((Cynocephalidae,Erethizontidae),Tarsiidae),Lemuridae))),Myrmecophagidae),Elephantidae),(Macroscelididae,(Tenrecidae,Tupaiidae)),Nycteridae,Soricidae,Talpidae),Hystricidae),Felidae),Real_OG);
+
+[weight = 1]	tree robb_pr_273_1.tre = (Real_OG,(Suidae,(Hominidae,(Leporidae,Muridae))));
+
+[weight = 1]	tree robb_pr_280_1a.tre = (Real_OG,(Suidae,Muridae,(Bovidae,Canidae)));
+[weight = 1]	tree robb_pr_280_1b.tre = (Real_OG,(Hominidae,(Bovidae,Canidae,Muridae)));
+
+[weight = 1]	tree robb_pr_246_1b.tre = (Real_OG,(Muridae,(Hominidae,Leporidae)));
+
+[weight = 1]	tree RobB_pr_140_1_WARS_semiMRP_cons.tre = ((((Bovidae,Hominidae),Muridae),Leporidae),Real_OG);
+
+[weight = 1]	tree robb_pr_349_62.tre = (Leporidae,(Bovidae,Hominidae));
+[weight = 1]	tree robb_pr_130_8.tre = (Equidae,((((Hippopotamidae,(Physeteridae,Balaenidae)),(Antilocapridae,(Cervidae,(Giraffidae,Bovidae)))),(Suidae,Tayassuidae)),Camelidae));
+
+[weight = 1]	tree robb_pr_349_65.tre = (Hominidae,(Leporidae,Bovidae));
+
+[weight = 1]	tree robb_pr_246_1a.tre = (Real_OG,(Muridae,(Hominidae,Bovidae)));
+
+[weight = 1]	tree RobB_pr_344_20_TYR_semiMRP_cons.tre = ((((((((((((Bovidae,Camelidae),Suidae),(Delphinidae,Hippopotamidae)),(Canidae,Felidae),Phyllostomidae),(Pteropodidae,Talpidae)),(Cynocephalidae,(Equidae,Rhinocerotidae))),((((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),(((((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae),Muridae),(Soricidae,Tupaiidae))),Lemuridae)),(((Chrysochloridae,(Macroscelididae,Tenrecidae)),(Elephantidae,(Procaviidae,Trichechidae))),Orycteropodidae)),(Leporidae,Ochotonidae)),Dasypodidae),Myrmecophagidae),Real_OG);
+
+[weight = 1]	tree RobB_pr_242_1_ubiquitin_semiMRP_cons.tre = (((Bovidae,Hominidae,Muridae,Mustelidae),Suidae),Real_OG);
+
+[weight = 1]	tree robb_pr_277_1.tre = (Real_OG,(Muridae,(Hominidae,Leporidae)));
+
+[weight = 1]	tree robb_pr_323_13b.tre = (Real_OG,(Caviidae,(Suidae,Muridae)));
+[weight = 1]	tree MarcelC_RL_44_13.tre = (Real_OG,(Caviidae,(Muridae,Hominidae)));
+
+[weight = 1]	tree robb_pr_323_14b.tre = (Real_OG,((Caviidae,Muridae),(Bovidae,Suidae)));
+[weight = 1]	tree robb_pr_349_12.tre = (Real_OG,(Caviidae,(Muridae,Hominidae)));
+[weight = 1]	tree robb_pr_348_11.tre = (Muridae,(Suidae,(Bovidae,Balaenopteridae)));
+
+[weight = 1]	tree marcelc_rl_24_1a.tre = (Real_OG,(Muridae,(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_23_12.tre = (Rhinocerotidae,(Camelidae,(Suidae,(Hippopotamidae,(Bovidae,(Phocoenidae,(Eschrichtiidae,Physeteridae)))))));
+[weight = 1]	tree robb_pr_230_2.tre = (Cynocephalidae,Leporidae,Manidae,Tupaiidae,(Suidae,(Bovidae,Delphinidae)),(Canidae,Felidae),(Megadermatidae,Molossidae,Pteropodidae,Phyllostomidae),(Bradypodidae,Erinaceidae),(Macroscelididae,(Chrysochloridae,Orycteropodidae,((Procaviidae,Dugongidae),Elephantidae))),(Rhinocerotidae,Equidae),(Hominidae,Galagonidae),(Dasyproctidae,Muridae));
+[weight = 1]	tree robb_pr_240_3.tre = (Bradypodidae,(Leporidae,Manidae,Erinaceidae,Cynocephalidae,Tupaiidae,(Macroscelididae,(((Dugongidae,Procaviidae),Elephantidae),(Orycteropodidae,Chrysochloridae))),(Suidae,(Phocoenidae,Bovidae)),(Equidae,Rhinocerotidae),(Dasyproctidae,Muridae),(Megadermatidae,Molossidae,Pteropodidae),(Felidae,Canidae),(Galagonidae,(Cebidae,Hominidae))));
+[weight = 1]	tree robb_pr_9_3.tre = (Real_OG,((Leporidae,(((((Dasypodidae,(Myrmecophagidae,(Bradypodidae,Megalonychidae))),(Erinaceidae,Talpidae)),((((Pteropodidae,((Megadermatidae,Rhinolophidae),(Vespertilionidae,Molossidae,Phyllostomidae))),(Equidae,Rhinocerotidae)),((Camelidae,Suidae),(Hippopotamidae,(Bovidae,Physeteridae)))),(Manidae,Felidae))),(Tupaiidae,(Cynocephalidae,Hominidae))),((Hystricidae,Muridae),(Sciuridae,Aplodontidae)))),((Chrysochloridae,Tenrecidae),(Elephantidae,(Orycteropodidae,(Dugongidae,(Macroscelididae,Procaviidae)))))));
+[weight = 1]	tree robb_pr_84_1.tre = (Real_OG,(Muridae,(Dasyproctidae,((((Cynocephalidae,((Bradypodidae,Dasypodidae),((((Erinaceidae,Talpidae),(Suidae,(Phocoenidae,Bovidae))),((Megadermatidae,Molossidae),Pteropodidae)),(Manidae,((Felidae,Canidae),(Equidae,Rhinocerotidae)))))),(Galagonidae,Hominidae)),(Tupaiidae,(Leporidae,Ochotonidae))),((((Dugongidae,Procaviidae),Elephantidae),(Orycteropodidae,Macroscelididae)),(Chrysochloridae,Tenrecidae))))));
+[weight = 1]	tree robb_pr_92_1.tre = (Real_OG,((Cynocephalidae,((((Muridae,Dipodidae),((Aplodontidae,Sciuridae),(Thryonomyidae,(Hystricidae,(Erethizontidae,(Caviidae,Dasyproctidae)))))),Myoxidae),(Ochotonidae,Leporidae))),(((Bradypodidae,Suidae),((Manidae,((Canidae,Felidae),(Rhinocerotidae,Equidae))),(Phyllostomidae,(Pteropodidae,Megadermatidae)))),Hominidae)),(Macroscelididae,((Chrysochloridae,Orycteropodidae),((Dugongidae,Procaviidae),Elephantidae))));
+[weight = 1]	tree robb_pr_93_3.tre = ((Bradypodidae,(((((((Muridae,(Castoridae,(Sciuridae,Aplodontidae))),Myoxidae),((Dipodidae,(Heteromyidae,Geomyidae)),(Ctenodactylidae,((Bathyergidae,(Thryonomyidae,Petromuridae)),(Hystricidae,(Echimyidae,(Erethizontidae,(Chinchillidae,Caviidae)))))))),(Anomaluridae,Pedetidae)),(((Manidae,Felidae),(Erinaceidae,((Bovidae,Physeteridae),(Camelidae,Suidae)))),(Equidae,Pteropodidae))),(Tupaiidae,(Hominidae,Cynocephalidae))),(Ochotonidae,Leporidae))),(Orycteropodidae,(Dugongidae,Procaviidae)),Real_OG);
+[weight = 1]	tree robb_pr_101_1.tre = (Real_OG,(Chrysochloridae,Elephantidae),((Bradypodidae,Dasypodidae),((Leporidae,Ochotonidae),((Galagonidae,Hominidae),(((Canidae,Felidae),((Suidae,(Bovidae,Phocoenidae)),((Rhinocerotidae,Equidae),(Pteropodidae,Phyllostomidae)))),(Pedetidae,((((((Bathyergidae,Thryonomyidae),(Hystricidae,(Octodontidae,(Chinchillidae,Erethizontidae,(Caviidae,Dasyproctidae))))),Ctenodactylidae),(Aplodontidae,Sciuridae)),Myoxidae),(Muridae,Dipodidae))))))));
+[weight = 1]	tree robb_pr_142_1.tre = ((Orycteropodidae,(Chrysochloridae,(Tenrecidae,Macroscelididae))),(Elephantidae,(Procaviidae,(Trichechidae,Dugongidae))));
+[weight = 1]	tree RobB_pr_344_22_VWF_semiMRP_cons.tre = ((((((((((Balaenopteridae,Hippopotamidae),Suidae),Camelidae),(Canidae,Felidae),(Dasypodidae,Myrmecophagidae),(((Equidae,Rhinocerotidae),(Nycteridae,Pteropodidae)),Manidae)),(Cebidae,Hominidae),((Erinaceidae,Ochotonidae),Tupaiidae)),Cynocephalidae),(Chrysochloridae,(Elephantidae,(Procaviidae,Trichechidae)),Macroscelididae,Orycteropodidae,Tenrecidae)),((Caviidae,Hydrochaeridae),Erethizontidae)),Muridae),Real_OG);
+
+[weight = 1]	tree robb_pr_39_1a.tre = (Real_OG,(Leporidae,((Suidae,Camelidae),Muridae)));
+
+[weight = 1]	tree robb_pr_39_1b.tre = (Real_OG,(Camelidae,(Suidae,(Leporidae,Muridae))));
+
+[weight = 1]	tree RobB_pr_344_23_ZFX_semiMRP_cons.tre = ((((((((Bovidae,Callitrichidae,Camelidae,(Canidae,Felidae),(((Caviidae,Hydrochaeridae),Erethizontidae),Muridae),(Cebidae,(Cercopithecidae,Hominidae)),Delphinidae,((Equidae,Rhinocerotidae),Tapiridae),(Erinaceidae,Phyllostomidae),(Hippopotamidae,Manidae),Lemuridae,(Leporidae,Ochotonidae),Pteropodidae,Soricidae,Suidae,Talpidae,Tarsiidae),Tupaiidae),Dasypodidae,Myrmecophagidae),(Macroscelididae,Orycteropodidae)),Elephantidae),Trichechidae),Procaviidae),Real_OG);
+
+[weight = 1]	tree robb_pr_310_1b.tre = (Real_OG,(Muridae,((Callitrichidae,(Hominidae,Cercopithecidae)),((Felidae,Canidae),(Bovidae,Suidae)))));
+
+[weight = 1]	tree robb_pr_310_1c.tre = (Real_OG,(Bovidae,((Felidae,Leporidae),(Callitrichidae,(Cercopithecidae,Hominidae)))));
+
+[weight = 1]	tree robb_pr_310_1a.tre = (Real_OG,(Leporidae,(((Felidae,Canidae),(Bovidae,Suidae)),((Cercopithecidae,Hominidae),Muridae))));
+
+[weight = 1]	tree marcelc_rl_7_1c.tre = (Manidae,Hominidae,Canidae,(Elephantidae,(Procaviidae,Orycteropodidae,Macroscelididae)),(Bovidae,Equidae),(Muridae,Leporidae));
+
+[weight = 1]	tree RobB_pr_78_3_BRCA1_GHR_semiMRP_cons.tre = ((((((Aplodontidae,Sciuridae),Myoxidae),((((Bathyergidae,Erethizontidae),Hystricidae),Ctenodactylidae),((Castoridae,(Geomyidae,Heteromyidae)),((Dipodidae,Muridae),Pedetidae)))),(Leporidae,Ochotonidae)),Cynocephalidae,Tupaiidae),((Cebidae,(Cercopithecidae,Hominidae)),Galagonidae));
+
+[weight = 1]	tree robb_pr_149_3.tre = (Leporidae,(Hominidae,((Felidae,(Camelidae,(((Tragulidae,((Cervidae,Bovidae),(Giraffidae,Antilocapridae))),(Hippopotamidae,Balaenopteridae)),(Suidae,Tayassuidae)))),(Tapiridae,Equidae))),(Caviidae,Muridae));
+[weight = 1]	tree robb_pr_23_19.tre = (Camelidae,(((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Hippopotamidae,(Balaenopteridae,(Physeteridae,(Delphinidae,Ziphiidae))))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_380_1.tre = (Dasypodidae,(Myrmecophagidae,(Megalonychidae,Bradypodidae)));
+
+[weight = 0.333]	tree robb_pr_391_2_1.tre = (Muridae,Real_OG,((((Daubentoniidae,(Lemuridae,(Indridae,(Megaladapidae,Cheirogaleidae)))),(Galagonidae,Loridae)),(Callitrichidae,(Cercopithecidae,Hominidae))),(((Felidae,(Hyaenidae,(Viverridae,Herpestidae))),(Canidae,(Procyonidae,(Ursidae,Phocidae)))),((Equidae,Tapiridae),(Bovidae,(Hippopotamidae,(Balaenopteridae,Delphinidae)))))));
+[weight = 0.333]	tree robb_pr_391_2_2.tre = (Muridae,Real_OG,((((Daubentoniidae,(Lemuridae,(Indridae,(Megaladapidae,Cheirogaleidae)))),(Galagonidae,Loridae)),(Callitrichidae,(Cercopithecidae,Hominidae))),(((Felidae,(Viverridae,(Herpestidae,Hyaenidae))),(Canidae,(Procyonidae,(Ursidae,Phocidae)))),((Equidae,Tapiridae),(Bovidae,(Hippopotamidae,(Balaenopteridae,Delphinidae)))))));
+[weight = 0.333]	tree robb_pr_391_2_3.tre = (Muridae,Real_OG,((((Daubentoniidae,(Lemuridae,(Indridae,(Megaladapidae,Cheirogaleidae)))),(Galagonidae,Loridae)),(Callitrichidae,(Cercopithecidae,Hominidae))),(((Viverridae,(Felidae,(Herpestidae,Hyaenidae))),(Canidae,(Procyonidae,(Ursidae,Phocidae)))),((Equidae,Tapiridae),(Bovidae,(Hippopotamidae,(Balaenopteridae,Delphinidae)))))));
+
+[weight = 1]	tree marcelc_rl_42_1.tre = (Real_OG,(((((Hippopotamidae,(Delphinidae,(Balaenopteridae,Physeteridae))),(Suidae,Tayassuidae),Camelidae,(Tragulidae,(Antilocapridae,(Giraffidae,Bovidae,Cervidae)))),(Equidae,Rhinocerotidae),(Elephantidae,Dugongidae),(Phocidae,Felidae)),Caviidae),Muridae));
+[weight = 1]	tree robb_pr_61_1.tre = (Muridae,(Caviidae,(Myoxidae,Sciuridae)));
+
+[weight = 1]	tree marcelc_rl_11_7.tre = (Bovidae,((Sciuridae,Geomyidae),(Muridae,Caviidae)));
+[weight = 1]	tree marcelc_rl_11_8.tre = (Muridae,(Suidae,(Balaenopteridae,(Antilocapridae,(Bovidae,Cervidae)))));
+
+[weight = 1]	tree RobB_pr_174_2_FGG_RAG1_semiMRP_cons.tre = ((((((((Balaenopteridae,Delphinidae),Hippopotamidae),(Bovidae,Giraffidae)),Camelidae,Suidae),((Equidae,(Rhinocerotidae,Tapiridae)),(((Erinaceidae,Talpidae),(Felidae,(Phocidae,Ursidae)),Manidae),((Pteropodidae,Vespertilionidae),Rhinolophidae)))),(((Caviidae,Hystricidae),Cynocephalidae),(Hominidae,Tarsiidae,Tupaiidae),(Leporidae,Ochotonidae),Muridae)),((Chrysochloridae,Macroscelididae,Orycteropodidae,Tenrecidae),((Dugongidae,Trichechidae),Elephantidae,Procaviidae))),(Dasypodidae,(Megalonychidae,Myrmecophagidae)));
+
+[weight = 1]	tree robb_pr_351_8_.tre = ((((Loridae,(Cebidae,(Cercopithecidae,(Hominidae,Hylobatidae)))),(Leporidae,Muridae)),(Canidae,Felidae)),((Elephantidae,(Suidae,(Camelidae,((Bovidae,Cervidae),(Giraffidae,Antilocapridae))))),(Equidae,(Tapiridae,Rhinocerotidae))));
+
+[weight = 1]	tree robb_pr_91_3_GHR_MTRNR1_semiMRP_cons.tre = (Caviidae,(Abrocomidae,((Ctenomyidae,Octodontidae),(Echimyidae,Myocastoridae))));
+
+[weight = 0.5]	tree robb_pr_313_1_1.tre = (Real_OG,((Trichechidae,(Procaviidae,Elephantidae)),(((Dasypodidae,((Tapiridae,Rhinocerotidae),Equidae)),(Suidae,((Hippopotamidae,((Physeteridae,(Delphinidae,Balaenopteridae)),(Bovidae,Cervidae))),Camelidae))),((Caviidae,(Sciuridae,Muridae)),((Megadermatidae,((Felidae,((Phocidae,(Ursidae,(Mustelidae,Canidae))),Procyonidae)),(Talpidae,(Erinaceidae,Soricidae)))),(((Leporidae,Tupaiidae),(Lemuridae,((Tarsiidae,((Cercopithecidae,(Hominidae,Hylobatidae)),(Cebidae,Callitrichidae))),(Galagonidae,Loridae)))),((Molossidae,Vespertilionidae),(Phyllostomidae,Pteropodidae))))))));
+[weight = 0.5]	tree robb_pr_313_1_2.tre = (Real_OG,((Trichechidae,(Procaviidae,Elephantidae)),(((Dasypodidae,((Tapiridae,Rhinocerotidae),Equidae)),(Suidae,((Hippopotamidae,((Physeteridae,(Delphinidae,Balaenopteridae)),(Bovidae,Cervidae))),Camelidae))),((Caviidae,(Sciuridae,Muridae)),((Megadermatidae,((Felidae,((Phocidae,(Ursidae,(Mustelidae,Canidae))),Procyonidae)),(Talpidae,(Erinaceidae,Soricidae)))),(((Leporidae,Tupaiidae),(Lemuridae,((Tarsiidae,((Cercopithecidae,(Hominidae,Hylobatidae)),(Cebidae,Callitrichidae))),(Galagonidae,Loridae)))),(Vespertilionidae,(Phyllostomidae,(Pteropodidae,Molossidae)))))))));
+[weight = 0.5]	tree robb_pr_233_2_1.tre = (Real_OG,((Dasypodidae,Canidae,Felidae,Soricidae,Talpidae,Caviidae,Procyonidae,Erinaceidae,(Rhinopomatidae,Emballonuridae,Pteropodidae,Phyllostomidae,Megadermatidae,(Vespertilionidae,Molossidae),((Tarsiidae,(Cebidae,Callitrichidae,(Hominidae,Cercopithecidae))),(Loridae,Galagonidae))),(Tupaiidae,(Leporidae,Lemuridae)),(Sciuridae,Muridae),(Suidae,(Camelidae,(Tapiridae,Equidae))),(Physeteridae,(Balaenopteridae,Delphinidae)),(Hippopotamidae,Bovidae)),(Procaviidae,Elephantidae)));
+[weight = 0.5]	tree robb_pr_233_2_2.tre = ((Dasypodidae,Canidae,Felidae,Soricidae,Talpidae,Caviidae,Procyonidae,(Real_OG,Erinaceidae),(Rhinopomatidae,Emballonuridae,Pteropodidae,Phyllostomidae,Megadermatidae,(Vespertilionidae,Molossidae),((Tarsiidae,(Cebidae,Callitrichidae,(Hominidae,Cercopithecidae))),(Loridae,Galagonidae))),(Tupaiidae,(Leporidae,Lemuridae)),(Sciuridae,Muridae),(Suidae,(Camelidae,(Tapiridae,Equidae))),(Physeteridae,(Balaenopteridae,Delphinidae)),(Hippopotamidae,Bovidae)),(Procaviidae,Elephantidae));
+[weight = 1]	tree robb_pr_338_3a.tre = (((((Rhinopomatidae,Pteropodidae),Phyllostomidae),Megadermatidae),(Emballonuridae,(Molossidae,Vespertilionidae))),(Orycteropodidae,(Talpidae,Soricidae)));
+[weight = 1]	tree robb_pr_338_3c.tre = (Ctenodactylidae,(Caviidae,(Muridae,Sciuridae)));
+[weight = 1]	tree robb_pr_338_3d.tre = ((Suidae,((Hippopotamidae,(((Giraffidae,Antilocapridae),Cervidae),Bovidae)),Camelidae)),((Physeteridae,(Balaenopteridae,Eschrichtiidae),(Phocoenidae,Delphinidae)),((Rhinocerotidae,Tapiridae),Equidae)));
+
+[weight = 1]	tree RobB_pr_181_1_semiMRP_cons.tre = ((Antilocapridae,Bovidae,Cervidae,Giraffidae),Tragulidae);
+
+[weight = 1]	tree robb_pr_160_2.tre = ((((Platanistidae,(Monodontidae,(Phocoenidae,Delphinidae))),Ziphiidae),(Physeteridae,(Balaenidae,(Eschrichtiidae,Balaenopteridae)))),(Tayassuidae,(Camelidae,Bovidae)));
+[weight = 1]	tree robb_pr_348_27.tre = (Muridae,(Suidae,(Balaenopteridae,(Bovidae,Tragulidae))));
+[weight = 1]	tree marcelc_rl_54_1.tre = (Myrmecophagidae,Bovidae,(Dasypodidae,(Bradypodidae,Megalonychidae)));
+[weight = 1]	tree marcelc_rl_17_1d.tre = (Real_OG,(Erinaceidae,(((Leporidae,((Hylobatidae,Hominidae),(((Felidae,Phocidae),(Rhinocerotidae,Equidae)),(Bovidae,Balaenopteridae)))),(Caviidae,Myoxidae)),Muridae)));
+
+[weight = 1]	tree robb_pr_353_1_semiMRP_cons.tre = (Pteropodidae,(Rhinolophidae,(Molossidae,Vespertilionidae)));
+
+[weight = 1]	tree robb_pr_9_4.tre = (Real_OG,(((Dasypodidae,(Myrmecophagidae,(Bradypodidae,Megalonychidae))),(((Tupaiidae,(Cynocephalidae,Hominidae)),(Leporidae,((Hystricidae,Muridae),(Sciuridae,Aplodontidae)))),((Erinaceidae,Talpidae),(((((Pteropodidae,(Megadermatidae,Rhinolophidae)),(Phyllostomidae,(Vespertilionidae,Molossidae))),(Equidae,Rhinocerotidae)),(Camelidae,(Suidae,(Bovidae,(Hippopotamidae,Physeteridae))))),(Manidae,Felidae))))),((Orycteropodidae,(Macroscelididae,(Chrysochloridae,Tenrecidae))),(Elephantidae,(Procaviidae,Dugongidae)))));
+[weight = 1]	tree robb_pr_14_3.tre = (Real_OG,((((((Manidae,(Canidae,Felidae)),(Equidae,Rhinocerotidae)),(Suidae,(Hippopotamidae,Bovidae))),((Erinaceidae,Soricidae),Talpidae)),(Tupaiidae,((Cynocephalidae,(Leporidae,(Caviidae,Muridae))),(Galagonidae,Hominidae)))),((Orycteropodidae,(Macroscelididae,(Chrysochloridae,Tenrecidae))),(Elephantidae,(Dugongidae,Procaviidae)))));
+[weight = 1]	tree robb_pr_141_1.tre = ((Bradypodidae,((Procaviidae,(Elephantidae,(Dugongidae,Trichechidae))),(Orycteropodidae,(Macroscelididae,(Chrysochloridae,Tenrecidae))))),(((Leporidae,Muridae),(Tupaiidae,(Cynocephalidae,Hominidae))),(((Erinaceidae,Soricidae),Talpidae),(((Pteropodidae,(Emballonuridae,Rhinolophidae)),(Manidae,Felidae)),((Equidae,Rhinocerotidae),(Suidae,(Hippopotamidae,(Balaenopteridae,Bovidae))))))));
+
+[weight = 1]	tree robb_pr_14_2.tre = (Real_OG,(((((Manidae,(Canidae,Felidae)),((Suidae,(Hippopotamidae,Bovidae)),(Talpidae,(Erinaceidae,Soricidae)))),(Equidae,Rhinocerotidae)),(((Tupaiidae,Cynocephalidae),(Leporidae,(Caviidae,Muridae))),(Galagonidae,Hominidae))),(Macroscelididae,(Orycteropodidae,(Elephantidae,(Dugongidae,Procaviidae))))));
+[weight = 1]	tree robb_pr_15_4.tre = ((((Manidae,(((Canidae,Felidae),((Equidae,Rhinocerotidae),(Suidae,(Bovidae,Hippopotamidae)))),(Erinaceidae,(Pteropodidae,Phyllostomidae)))),((Tupaiidae,(Leporidae,(Cynocephalidae,(Hominidae,Galagonidae)))),(Caviidae,Muridae))),(Dasypodidae,((Orycteropodidae,(Dugongidae,(Elephantidae,Procaviidae))),(Macroscelididae,Tenrecidae)))),Real_OG);
+[weight = 1]	tree robb_pr_93_4.tre = (((((((((Dipodidae,Muridae),(Anomaluridae,(Castoridae,(Heteromyidae,Geomyidae)))),(Ctenodactylidae,(Hystricidae,((Bathyergidae,(Thryonomyidae,Petromuridae)),(Echimyidae,(Caviidae,(Chinchillidae,Erethizontidae))))))),(Myoxidae,(Sciuridae,Aplodontidae))),(Ochotonidae,Leporidae)),(Tupaiidae,(Hominidae,Cynocephalidae))),(Pteropodidae,(Erinaceidae,(Felidae,(Manidae,(Equidae,(Camelidae,(Suidae,(Bovidae,Physeteridae))))))))),(Bradypodidae,(Orycteropodidae,(Dugongidae,Procaviidae)))),Real_OG);
+
+[weight = 1]	tree robb_pr_149_4.tre = (Leporidae,(Hominidae,(Equidae,(Camelidae,(((Tragulidae,(Antilocapridae,(Bovidae,(Cervidae,Giraffidae)))),(Hippopotamidae,Balaenopteridae)),(Suidae,Tayassuidae))))),(Caviidae,Muridae));
+[weight = 1]	tree robb_pr_23_20.tre = (Camelidae,(((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Hippopotamidae,(Balaenopteridae,(Physeteridae,(Delphinidae,Ziphiidae))))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_42_3.tre = (Camelidae,(((Tragulidae,(Bovidae,Cervidae,Giraffidae)),(Hippopotamidae,(Balaenopteridae,(Ziphiidae,Physeteridae)))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_381_1_semiMRP_cons.tre = ((((((Aplodontidae,Sciuridae),Myoxidae),(Chinchillidae,Erethizontidae)),(((Castoridae,(Geomyidae,Heteromyidae)),Pedetidae),(Dipodidae,Muridae))),(Leporidae,Ochotonidae)),Hominidae);
+
+[weight = 1]	tree robb_pr_244_1.tre = (Real_OG,((Myrmecophagidae,(Elephantidae,(Orycteropodidae,Procaviidae,Trichechidae))),((Manidae,(Phocidae,(Suidae,(Camelidae,Equidae)))),(Erinaceidae,(Ochotonidae,Leporidae),(Tupaiidae,(Muridae,Dasypodidae))))));
+
+[weight = 1]	tree robb_pr_342_2.tre = (Tayassuidae,(Camelidae,(Tragulidae,(Antilocapridae,Bovidae))),(Physeteridae,(((Balaenidae,(Eschrichtiidae,Balaenopteridae)),(Platanistidae,(Monodontidae,(Phocoenidae,Delphinidae)))),Ziphiidae)));
+
+[weight = 1]	tree robb_pr_110_4.tre = (Capromyidae,((Agoutidae,(Caviidae,Hydrochaeridae)),Dasyproctidae));
+
+[weight = 1]	tree robb_pr_21_4.tre = (Real_OG,((((Suidae,Bovidae),(Hominidae,(Tupaiidae,Cynocephalidae))),(((Pedetidae,(Dipodidae,Muridae)),(Ctenodactylidae,(Hystricidae,(((Caviidae,Chinchillidae),(Erethizontidae,Octodontidae)),(Thryonomyidae,Bathyergidae))))),(Myoxidae,(Aplodontidae,Sciuridae)))),Leporidae),(Elephantidae,Macroscelididae));
+
+[weight = 1]	tree robb_pr_336_6.tre = (Real_OG,(Canidae,((Equidae,(Suidae,Bovidae)),((Cebidae,(Cercopithecidae,Hominidae)),(Loridae,Lemuridae)))));
+
+[weight = 1]	tree robb_pr_230_4.tre = (Real_OG,((((Felidae,((Manidae,(Suidae,(Bovidae,(Balaenopteridae,Delphinidae)))),((Phyllostomidae,(Molossidae,(Megadermatidae,Pteropodidae))),(Rhinocerotidae,Equidae)))),((Hominidae,(Cynocephalidae,Tupaiidae)),(Leporidae,Muridae))),(Soricidae,((Chrysochloridae,((Procaviidae,Dugongidae),Elephantidae)),(Macroscelididae,Orycteropodidae)))),(Bradypodidae,Erinaceidae)));
+
+[weight = 1]	tree marcelc_rl_57_1.tre = (Real_OG,((Leporidae,Erinaceidae,(((Orycteropodidae,Macroscelididae),(Tenrecidae,Chrysochloridae),(Procaviidae,(Elephantidae,Trichechidae))),(Bradypodidae,Dasypodidae)),(Manidae,((Equidae,Rhinocerotidae),(Felidae,Phocidae)),(Megadermatidae,Pteropodidae),(Balaenopteridae,(Tragulidae,(Bovidae,Cervidae))),(Solenodontidae,(Talpidae,Soricidae))),(Hylobatidae,Hominidae)),Muridae,(Caviidae,Hydrochaeridae)));
+[weight = 1]	tree robb_pr_84_2.tre = (Real_OG,(Muridae,(((Bradypodidae,Dasypodidae),(((Dugongidae,Procaviidae),Elephantidae),(Macroscelididae,(Orycteropodidae,(Chrysochloridae,Tenrecidae))))),(((((Erinaceidae,Talpidae),((Molossidae,(Megadermatidae,Pteropodidae)),((Manidae,((Felidae,Canidae),(Equidae,Rhinocerotidae))),(Suidae,(Balaenopteridae,Bovidae))))),(Galagonidae,Hominidae)),(Tupaiidae,Cynocephalidae)),(Caviidae,(Leporidae,Ochotonidae))))));
+[weight = 1]	tree robb_pr_118_1.tre = (Muridae,Canidae,((((Emballonuridae,Phyllostomidae),(Vespertilionidae,Molossidae)),((Megadermatidae,Rhinolophidae),Pteropodidae)),(Cynocephalidae,Hominidae)));
+[weight = 1]	tree robb_pr_142_1b.tre = (((Orycteropodidae,(Chrysochloridae,Tenrecidae)),Macroscelididae),(Elephantidae,(Procaviidae,(Trichechidae,Dugongidae))));
+
+[weight = 1]	tree robb_pr_103_1.tre = (Real_OG,((Macroscelididae,((Orycteropodidae,(Chrysochloridae,Tenrecidae)),(Elephantidae,(Dugongidae,Procaviidae)))),((Muridae,(((Erinaceidae,Talpidae),(Caviidae,(Hominidae,Cebidae))),((Canidae,Felidae),((Manidae,((Hippopotamidae,(Bovidae,Physeteridae)),(Suidae,Camelidae))),((Equidae,Rhinocerotidae),(Megadermatidae,Pteropodidae)))))),(Dasypodidae,(Myrmecophagidae,(Bradypodidae,Megalonychidae))))));
+
+[weight = 1]	tree robb_pr_345_2.tre = (Real_OG,(((Hominidae,(Leporidae,Muridae)),(Equidae,(((Suidae,Bovidae),(Talpidae,(Soricidae,Erinaceidae))),(Pteropodidae,Phyllostomidae)))),((Orycteropodidae,(Macroscelididae,(Tenrecidae,Chrysochloridae))),(Trichechidae,(Elephantidae,Procaviidae)))));
+
+[weight = 1]	tree robb_pr_118_2.tre = (Hominidae,Muridae,(Cynocephalidae,(((Emballonuridae,Phyllostomidae),(Molossidae,Vespertilionidae)),((Megadermatidae,Rhinolophidae),Pteropodidae))));
+
+[weight = 1]	tree robb_pr_148_2.tre = ((Camelidae,(((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Hippopotamidae,(Physeteridae,Balaenopteridae))),(Suidae,Tayassuidae))),(Equidae,Hominidae));
+[weight = 1]	tree robb_pr_23_21.tre = (Camelidae,(((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Hippopotamidae,(Balaenopteridae,(Physeteridae,(Delphinidae,Ziphiidae))))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree MarcelC_RL_44_20.tre = (Real_OG,(Caviidae,(Ctenodactylidae,(Muridae,(Hominidae,(Bovidae,Suidae))))));
+
+[weight = 1]	tree marcelc_rl_48_2.tre = (Hominidae,(Bovidae,(Muridae,Leporidae)));
+
+[weight = 1]	tree robb_pr_260_5.tre = (Real_OG,((Hominidae,((Phocidae,Felidae,Equidae,Rhinocerotidae,Balaenopteridae),(Soricidae,Talpidae))),Muridae));
+
+[weight = 0.333]	tree robb_pr_391_1_1.tre = (Hominidae,(Talpidae,((Felidae,(Hyaenidae,(Viverridae,Herpestidae))),(Canidae,(Procyonidae,(Ursidae,Phocidae))))));
+[weight = 0.333]	tree robb_pr_391_1_2.tre = (Hominidae,(Talpidae,((Felidae,(Viverridae,(Herpestidae,Hyaenidae))),(Canidae,(Procyonidae,(Ursidae,Phocidae))))));
+[weight = 0.333]	tree robb_pr_391_1_3.tre = (Hominidae,(Talpidae,((Viverridae,(Felidae,(Herpestidae,Hyaenidae))),(Canidae,(Procyonidae,(Ursidae,Phocidae))))));
+
+[weight = 1]	tree robb_pr_268_1.tre = (Real_OG,((Leporidae,Erinaceidae,(Dasypodidae,(Hylobatidae,Hominidae),(((Tragulidae,(Bovidae,Cervidae)),Balaenopteridae),((Equidae,Rhinocerotidae),(Felidae,Phocidae))))),Muridae));
+
+[weight = 1]	tree robb_pr_139_1.tre = (Real_OG,((Manidae,(Erinaceidae,(Physeteridae,Equidae))),(Hominidae,(Tupaiidae,((Leporidae,Ochotonidae),(Sciuridae,(Muridae,Caviidae)))))));
+
+[weight = 1]	tree RobB_pr_348_5_semiMRP_cons.tre = ((Balaenopteridae,(Bovidae,Suidae)),Muridae);
+
+[weight = 1]	tree robb_pr_120_1.tre = ((Talpidae,((Equidae,((Pteropodidae,((Rhinopomatidae,Megadermatidae),Rhinolophidae)),(((Nycteridae,Emballonuridae),(Noctilionidae,Phyllostomidae)),(Natalidae,(Molossidae,Vespertilionidae))))),(Bovidae,(Felidae,Manidae)))),(Cynocephalidae,(Hominidae,Muridae)));
+[weight = 1]	tree robb_pr_173_1.tre = (((Pteropodidae,(Rhinolophidae,(Megadermatidae,Rhinopomatidae))),(((Nycteridae,Emballonuridae),(Mystacinidae,(Noctilionidae,(Mormoopidae,Phyllostomidae)))),(Natalidae,(Molossidae,Vespertilionidae)))),(Equidae,((Felidae,Manidae),(Talpidae,(Bovidae,Balaenopteridae)))));
+
+[weight = 1]	tree robb_pr_124_1.tre = (Real_OG,((((Manidae,(((Erinaceidae,Soricidae),(Suidae,(Bovidae,(Hippopotamidae,Balaenopteridae)))),(Phyllostomidae,Pteropodidae))),((Equidae,Tapiridae),(Felidae,Canidae))),((Leporidae,(Muridae,Erethizontidae)),((Hominidae,Galagonidae),(Cynocephalidae,Tupaiidae)))),(Bradypodidae,((Orycteropodidae,Macroscelididae),(Elephantidae,(Procaviidae,Dugongidae))))));
+[weight = 1]	tree marcelc_rl_57_2.tre = (Caviidae,Muridae,(((((Elephantidae,(Procaviidae,Trichechidae)),(Macroscelididae,Orycteropodidae)),(Chrysochloridae,Tenrecidae)),(Equidae,(Bovidae,(Erinaceidae,Talpidae)))),(Leporidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_134_1_semiMRP_cons.tre = (Real_OG,(((Hominidae,Cynocephalidae),(Talpidae,(Equidae,(Camelidae,(Pteropodidae,Molossidae))))),(Bradypodidae,Elephantidae)));
+
+[weight = 1]	tree robb_pr_382_1.tre = (Real_OG,((Bradypodidae,(((Chrysochloridae,Tenrecidae),(Macroscelididae,Orycteropodidae)),(Elephantidae,(Procaviidae,Dugongidae)))),((((Pteropodidae,(Suidae,(Bovidae,(Balaenopteridae,Hippopotamidae)))),(Manidae,((Canidae,Felidae),(Rhinocerotidae,Equidae)))),(Erinaceidae,Talpidae)),(((Cynocephalidae,Tupaiidae),(Galagonidae,Hominidae)),(Leporidae,(Muridae,Caviidae))))));
+
+[weight = 1]	tree robb_pr_142_1d.tre = ((Orycteropodidae,Macroscelididae),(Elephantidae,(Procaviidae,(Trichechidae,Dugongidae))));
+[weight = 1]	tree robb_pr_382_2.tre = (Hominidae,(Elephantidae,(Orycteropodidae,Macroscelididae)));
+
+[weight = 1]	tree RobB_pr_229_1_semiMRP_cons.tre = (((Antilocapridae,((Bovidae,Giraffidae),Cervidae)),Tragulidae),Suidae);
+
+[weight = 0.25]	tree robb_pr_30_1_1.tre = (Real_OG,(Bradypodidae,(((((Manidae,(Erinaceidae,Talpidae)),(Pteropodidae,Soricidae,Phyllostomidae)),((Suidae,((Hippopotamidae,Balaenopteridae),Bovidae)),((Equidae,Rhinocerotidae,Tapiridae),(Felidae,Canidae)))),(Cynocephalidae,Tupaiidae,Galagonidae,Loridae,Hominidae,(Leporidae,(Muridae,Hydrochaeridae)))),(Orycteropodidae,Macroscelididae,Tenrecidae,Chrysochloridae,(Elephantidae,(Procaviidae,Dugongidae))))));
+[weight = 0.25]	tree robb_pr_30_1_2.tre = (Real_OG,(Bradypodidae,(((((Manidae,(Erinaceidae,Talpidae)),(Pteropodidae,Soricidae,Phyllostomidae)),((Suidae,((Hippopotamidae,Balaenopteridae),Bovidae)),((Equidae,Rhinocerotidae,Tapiridae),(Felidae,Canidae)))),(Cynocephalidae,Tupaiidae,Galagonidae,Loridae,Hominidae,(Leporidae,(Muridae,Hydrochaeridae)))),(Orycteropodidae,Macroscelididae,Tenrecidae,Chrysochloridae,(Procaviidae,(Dugongidae,Elephantidae))))));
+[weight = 0.25]	tree robb_pr_30_1_3.tre = (Real_OG,(Bradypodidae,(((((Manidae,(Erinaceidae,Talpidae)),(Pteropodidae,Soricidae,Phyllostomidae)),((Suidae,(Hippopotamidae,(Balaenopteridae,Bovidae))),((Equidae,Rhinocerotidae,Tapiridae),(Felidae,Canidae)))),(Cynocephalidae,Tupaiidae,Galagonidae,Loridae,Hominidae,(Leporidae,(Muridae,Hydrochaeridae)))),(Orycteropodidae,Macroscelididae,Tenrecidae,Chrysochloridae,(Elephantidae,(Procaviidae,Dugongidae))))));
+[weight = 0.25]	tree robb_pr_30_1_4.tre = (Real_OG,(Bradypodidae,(((((Manidae,(Erinaceidae,Talpidae)),(Pteropodidae,Soricidae,Phyllostomidae)),((Suidae,(Hippopotamidae,(Balaenopteridae,Bovidae))),((Equidae,Rhinocerotidae,Tapiridae),(Felidae,Canidae)))),(Cynocephalidae,Tupaiidae,Galagonidae,Loridae,Hominidae,(Leporidae,(Muridae,Hydrochaeridae)))),(Orycteropodidae,Macroscelididae,Tenrecidae,Chrysochloridae,(Procaviidae,(Dugongidae,Elephantidae))))));
+
+[weight = 1]	tree robb_pr_319_2.tre = (Real_OG,((Equidae,(Suidae,(Bovidae,Camelidae))),((Leporidae,(Loridae,(Cebidae,(Hominidae,Cercopithecidae)))),(Canidae,Phocidae))));
+
+[weight = 1]	tree robb_pr_27_2.tre = (Real_OG,((Bradypodidae,((Erinaceidae,(Pteropodidae,(((Manidae,Felidae),(Equidae,Rhinocerotidae)),(Suidae,(Bovidae,(Hippopotamidae,Balaenopteridae)))))),(Hominidae,((Muridae,Leporidae),(Cynocephalidae,Tupaiidae))))),((Elephantidae,(Procaviidae,Dugongidae)),(Orycteropodidae,Macroscelididae))));
+
+[weight = 1]	tree robb_pr_118_3.tre = (Muridae,(((Emballonuridae,Phyllostomidae),(Vespertilionidae,Molossidae)),((Megadermatidae,Rhinolophidae),Pteropodidae)),(Cynocephalidae,Hominidae));
+
+[weight = 1]	tree robb_pr_23_22.tre = (Camelidae,(((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Hippopotamidae,(Balaenopteridae,(Physeteridae,(Delphinidae,Ziphiidae))))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree RobB_pr_128_2_semiMRP_cons.tre = (Balaenopteridae,((Antilocapridae,((Bovidae,Moschidae),Cervidae),Giraffidae),Tragulidae),Hippopotamidae);
+
+[weight = 1]	tree robb_pr_351_5_semiMRP_cons.tre = (Real_OG,(Erinaceidae,(((((Loridae,(Tarsiidae,((Cercopithecidae,(Hominidae,Hylobatidae)),(Cebidae,Callitrichidae)))),(Leporidae,Tupaiidae)),(Muridae,Caviidae)),(Felidae,(Procyonidae,(Mustelidae,(Canidae,Phocidae))))),(Suidae,((Bovidae,Equidae),(Camelidae,Eschrichtiidae))))));
+
+[weight = 1]	tree robb_pr_117_1.tre = (Muridae,((((Emballonuridae,Phyllostomidae),(Vespertilionidae,Molossidae)),((Megadermatidae,Rhinolophidae),Pteropodidae)),(Cynocephalidae,Hominidae)));
+
+[weight = 1]	tree RobB_pr_130_1_semiMRP_cons.tre = ((((((Antilocapridae,(Bovidae,Cervidae),Giraffidae),Tragulidae),((Balaenidae,Physeteridae),Hippopotamidae)),Camelidae),(Suidae,Tayassuidae)),Equidae);
+
+[weight = 0.5]	tree robb_pr_322_2_1.tre = (Real_OG,((((Antilocapridae,Camelidae,Giraffidae,Hippopotamidae,Suidae,Bovidae,Cervidae,(Physeteridae,(Balaenopteridae,Eschrichtiidae),(Phocoenidae,Delphinidae))),(Equidae,(Rhinocerotidae,Tapiridae))),((Vespertilionidae,(((((Ursidae,Manidae),(Mustelidae,Procyonidae)),Canidae),(Phocidae,Otariidae)),Felidae)),(Phyllostomidae,Pteropodidae),(Erinaceidae,Soricidae,Talpidae),(Ochotonidae,(Sciuridae,Muridae)),(Leporidae,Tupaiidae),((Tarsiidae,((Cebidae,Callitrichidae),(Cercopithecidae,(Hominidae,Hylobatidae)))),(Lemuridae,(Galagonidae,Loridae))))),(Trichechidae,Orycteropodidae,(Procaviidae,Elephantidae))));
+[weight = 0.5]	tree robb_pr_322_2_2.tre = (Real_OG,((((Antilocapridae,Camelidae,Giraffidae,Hippopotamidae,Suidae,(Cervidae,Bovidae),(Physeteridae,(Balaenopteridae,Eschrichtiidae),(Phocoenidae,Delphinidae))),(Equidae,(Rhinocerotidae,Tapiridae))),((Vespertilionidae,(((((Ursidae,Manidae),(Mustelidae,Procyonidae)),Canidae),(Phocidae,Otariidae)),Felidae)),(Phyllostomidae,Pteropodidae),(Erinaceidae,Soricidae,Talpidae),(Ochotonidae,(Sciuridae,Muridae)),(Leporidae,Tupaiidae),((Tarsiidae,((Cebidae,Callitrichidae),(Cercopithecidae,(Hominidae,Hylobatidae)))),(Lemuridae,(Galagonidae,Loridae))))),(Trichechidae,Orycteropodidae,(Procaviidae,Elephantidae))));
+
+[weight = 1]	tree marcelc_rl_35_1.tre = (Real_OG,((((Tupaiidae,((Manidae,(Felidae,(((Mustelidae,Procyonidae),(Otariidae,Phocidae)),(Ursidae,Canidae)))),(Talpidae,(Erinaceidae,Soricidae)))),((((Callitrichidae,Cebidae),(Cercopithecidae,(Hominidae,Hylobatidae))),(Lemuridae,(Loridae,Galagonidae))),((Leporidae,Ochotonidae),(Sciuridae,Muridae)))),((Suidae,(Camelidae,(Hippopotamidae,(Bovidae,(Cervidae,(Antilocapridae,Giraffidae)))))),((Equidae,(Tapiridae,Rhinocerotidae)),((Phocoenidae,Delphinidae),(Balaenopteridae,Eschrichtiidae))))),((Elephantidae,Procaviidae),(Trichechidae,Orycteropodidae))));
+
+[weight = 1]	tree robb_pr_382_4_semiMRP_cons.tre = (Myrmecophagidae,((Cynocephalidae,Hominidae),(Muridae,Sciuridae),Ochotonidae,Tupaiidae),Elephantidae,Felidae,Hippopotamidae,Macroscelididae,Manidae,Orycteropodidae,Phyllostomidae,Procaviidae,Pteropodidae,Rhinocerotidae,Soricidae,Suidae,Talpidae,Tenrecidae,Trichechidae);
+
+[weight = 1]	tree robb_pr_23_25.tre = (((Manidae,(((((Antilocapridae,((Bovidae,Cervidae),Giraffidae)),Tragulidae),(((((Platanistidae,(Phocoenidae,(Delphinidae,Monodontidae))),Physeteridae),Ziphiidae),(Balaenidae,(Balaenopteridae,Eschrichtiidae))),Hippopotamidae)),(Tayassuidae,Suidae)),Camelidae),(Equidae,(Tapiridae,Rhinocerotidae)),((Phocidae,Ursidae),(Procyonidae,Canidae))),(Hominidae,(Leporidae,Muridae))),(Orycteropodidae,Macroscelididae,(Procaviidae,Elephantidae,(Dugongidae,Trichechidae))));
+
+[weight = 1]	tree robb_pr_113_2.tre = (Real_OG,(Erinaceidae,(Phyllostomidae,Leporidae,((Suidae,((Hippopotamidae,Balaenopteridae),Bovidae)),((Equidae,Rhinocerotidae),((Canidae,Felidae),Phocidae))),(Dasypodidae,(Cercopithecidae,(Hylobatidae,Hominidae))),(Caviidae,Myoxidae),Muridae,(Orycteropodidae,Elephantidae))));
+
+[weight = 1]	tree robb_pr_25_2.tre = ((Tenrecidae,Orycteropodidae,((Megalonychidae,Dasypodidae),Myrmecophagidae),(((((Manidae,((Erinaceidae,Soricidae),Talpidae),(Pteropodidae,(Nycteridae,Phyllostomidae))),((Canidae,Ursidae),Felidae)),(Tapiridae,(Rhinocerotidae,Equidae))),(Camelidae,(Suidae,((Hippopotamidae,(Giraffidae,Bovidae)),(Balaenopteridae,Delphinidae))))),(((Tupaiidae,((Sciuridae,(Myoxidae,Muridae)),((Castoridae,(Pedetidae,Heteromyidae)),(Hystricidae,(Bathyergidae,(Erethizontidae,(Agoutidae,(Caviidae,Hydrochaeridae)),(Myocastoridae,Dinomyidae)))))),(Ochotonidae,Leporidae)),(Cynocephalidae,(Lemuridae,Tarsiidae))),((Cercopithecidae,(Hylobatidae,Hominidae)),(Cebidae,Callitrichidae)))),Macroscelididae,(Trichechidae,(Procaviidae,Elephantidae))),Real_OG);
+
+[weight = 1]	tree RobB_pr_20_2_semiMRP_cons.tre = ((((((((Balaenopteridae,Bovidae),((Equidae,Rhinocerotidae),(Felidae,Phocidae))),(Dasypodidae,(Elephantidae,(Hominidae,Hylobatidae)))),Leporidae),Caviidae),Muridae),Erinaceidae),Real_OG);
+
+[weight = 1]	tree marcelc_rl_19_1.tre = (Real_OG,(Erinaceidae,(((Dasypodidae,((Phocidae,(Equidae,Rhinocerotidae)),(Bovidae,Balaenopteridae))),(Hylobatidae,Hominidae)),Muridae)));
+
+[weight = 1]	tree robb_pr_15_1.tre = (Real_OG,(Orycteropodidae,(Dasypodidae,((((((Felidae,(Canidae,Phocidae)),(Equidae,Rhinocerotidae)),(Suidae,(Bovidae,(Hippopotamidae,(Balaenopteridae,Physeteridae))))),(Pteropodidae,Phyllostomidae)),(Soricidae,Talpidae)),(Tupaiidae,(((Cebidae,((Hominidae,Hylobatidae),Cercopithecidae)),(Tarsiidae,Galagonidae)),((Ochotonidae,Leporidae),((Caviidae,Thryonomyidae),(Sciuridae,Myoxidae)))))))));
+[weight = 1]	tree robb_pr_164_1.tre = (((((((Phyllostomidae,(Pteropodidae,Rhinolophidae),Vespertilionidae),((Camelidae,Suidae,(Bovidae,(Hippopotamidae,(Physeteridae,Balaenopteridae)))),((Felidae,(Canidae,(Ursidae,Phocidae))),(Equidae,Rhinocerotidae)))),(Talpidae,Soricidae)),(Dasypodidae,((Procaviidae,(Elephantidae,Dugongidae)),(Orycteropodidae,Tenrecidae,Chrysochloridae,Macroscelididae)))),(((Leporidae,Ochotonidae),(((Myoxidae,Sciuridae),(Caviidae,Thryonomyidae)),Muridae)),(Tupaiidae,(Loridae,(Cebidae,((Hylobatidae,Hominidae),Cercopithecidae)))))),Erinaceidae),Real_OG);
+[weight = 1]	tree RobB_pr_276_1_semiMRP_cons.tre = (((((((((((Balaenopteridae,Physeteridae),Hippopotamidae),Bovidae),(Camelidae,Suidae)),(((Canidae,(((Odobenidae,Otariidae),Phocidae),Ursidae)),Felidae),Manidae),(Equidae,Rhinocerotidae)),((Phyllostomidae,Vespertilionidae),Pteropodidae)),(Soricidae,Talpidae)),(Dasypodidae,Myrmecophagidae),(((Dugongidae,Elephantidae),Procaviidae),(Macroscelididae,Tenrecidae),Orycteropodidae)),((Caviidae,Thryonomyidae),Myoxidae,Sciuridae),(((Cebidae,(Cercopithecidae,(Hominidae,Hylobatidae))),Cynocephalidae),(Lemuridae,Loridae),Tarsiidae),(Leporidae,Ochotonidae),Muridae,Tupaiidae),Erinaceidae),Real_OG);
+[weight = 1]	tree robb_pr_379_1_semiMRP_cons.tre = (Equidae,((((((Balaenidae,(Balaenopteridae,Eschrichtiidae)),Neobalaenidae),(((Delphinidae,(Monodontidae,Phocoenidae)),Platanistidae,Ziphiidae),Physeteridae)),Hippopotamidae),(Bovidae,Cervidae)),Camelidae,Suidae),Rhinocerotidae);
+[weight = 1]	tree robb_pr_387_1.tre = (Real_OG,((((Tupaiidae,(((Tarsiidae,(Cynocephalidae,(Cebidae,(Cercopithecidae,(Hominidae,Hylobatidae))))),(Lemuridae,Loridae)),((((Muridae,Dipodidae),(Sciuridae,Myoxidae)),(Thryonomyidae,Caviidae)),(Leporidae,Ochotonidae)))),(Dasypodidae,Myrmecophagidae)),(Erinaceidae,((((Suidae,((Bovidae,Cervidae),(Camelidae,(Hippopotamidae,(Balaenopteridae,Physeteridae))))),((Manidae,(Felidae,(Canidae,(Ursidae,(Phocidae,(Otariidae,Odobenidae)))))),(Equidae,Rhinocerotidae))),((Phyllostomidae,Vespertilionidae),(Rhinolophidae,Pteropodidae))),(Soricidae,Talpidae)))),(Tenrecidae,((Macroscelididae,Orycteropodidae),(Elephantidae,Dugongidae)))));
+
+[weight = 1]	tree robb_pr_382_3_semiMRP_cons.tre = (Myrmecophagidae,(Cynocephalidae,Hominidae,(Muridae,Sciuridae),(Ochotonidae,Tupaiidae)),Elephantidae,Felidae,Hippopotamidae,Macroscelididae,Manidae,Orycteropodidae,Phyllostomidae,Procaviidae,Pteropodidae,Rhinocerotidae,Soricidae,Suidae,Talpidae,Tenrecidae,Trichechidae);
+
+[weight = 1]	tree RobB_pr_113_1_semiMRP_cons.tre = (((((((((Balaenopteridae,Hippopotamidae),Bovidae),Suidae),((Canidae,Felidae,Phocidae),(Equidae,Rhinocerotidae))),Phyllostomidae),(Dasypodidae,(Elephantidae,Orycteropodidae))),(Caviidae,Myoxidae),(Cercopithecidae,(Hominidae,Hylobatidae)),Leporidae,Muridae),Erinaceidae),Real_OG);
+
+[weight = 1]	tree marcelc_rl_48_1.tre = (Muridae,(Leporidae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_132_3.tre = (Real_OG,(((Myrmecophagidae,Dasypodidae),(((Talpidae,(Erinaceidae,Soricidae)),(((Phyllostomidae,Molossidae),Pteropodidae),(((Equidae,(Rhinocerotidae,Tapiridae)),(Felidae,Manidae)),(Camelidae,(Suidae,(Bovidae,(Hippopotamidae,(Balaenopteridae,Delphinidae)))))))),(((Sciuridae,(Hystricidae,Muridae)),(Leporidae,Ochotonidae)),(Tupaiidae,(Cynocephalidae,Hominidae))))),((Orycteropodidae,((Tenrecidae,Chrysochloridae),Macroscelididae)),(Procaviidae,Elephantidae))));
+
+[weight = 1]	tree robb_pr_15_3.tre = ((((((Manidae,((Soricidae,Erinaceidae),Talpidae)),((Felidae,(Canidae,Ursidae)),(((Equidae,Rhinocerotidae),(Pteropodidae,Phyllostomidae)),(Camelidae,(Suidae,(Hippopotamidae,(Tragulidae,Giraffidae))))))),(((Cebidae,(Cercopithecidae,(Hominidae,Hylobatidae))),(Tupaiidae,((Ochotonidae,Leporidae),((Caviidae,Sciuridae),(Myoxidae,Muridae))))),(Cynocephalidae,(Tarsiidae,Loridae)))),(Dasypodidae,Myrmecophagidae)),(Tenrecidae,((Dugongidae,(Elephantidae,Procaviidae)),(Macroscelididae,Orycteropodidae)))),Real_OG);
+[weight = 1]	tree RobB_pr_25_1_semiMRP_cons.tre = (((((((((((((((Agoutidae,(Caviidae,Hydrochaeridae)),Erethizontidae),(Dinomyidae,Myocastoridae)),Bathyergidae),Hystricidae),((Castoridae,Heteromyidae),(Muridae,Pedetidae))),(Myoxidae,Sciuridae)),(Leporidae,Ochotonidae)),((((Callitrichidae,Cebidae),(Cercopithecidae,(Hominidae,Hylobatidae))),(Lemuridae,Tarsiidae)),(Cynocephalidae,Tupaiidae))),((((((((Balaenopteridae,Delphinidae),Hippopotamidae),(Bovidae,Giraffidae)),Suidae),Camelidae),(Equidae,(Rhinocerotidae,Tapiridae))),(((Canidae,Ursidae),Felidae),Manidae)),((Erinaceidae,Soricidae),Talpidae),((Nycteridae,Phyllostomidae),Pteropodidae))),(Dasypodidae,(Megalonychidae,Myrmecophagidae))),((Elephantidae,Trichechidae),Procaviidae),Orycteropodidae),Tenrecidae),Macroscelididae),Real_OG);
+
+[weight = 1]	tree RobB_pr_388_1_semiMRP_cons.tre = ((((((((((((Balaenopteridae,Delphinidae),Hippopotamidae),Bovidae),Suidae),Camelidae),(Equidae,(Rhinocerotidae,Tapiridae)),(Felidae,Manidae)),((Molossidae,Phyllostomidae),Pteropodidae)),(((Erinaceidae,Soricidae),Talpidae),Solenodontidae)),(((Cynocephalidae,Tupaiidae),Hominidae),(((Hystricidae,Muridae),Sciuridae),(Leporidae,Ochotonidae)))),(Dasypodidae,Myrmecophagidae)),((((Chrysochloridae,Tenrecidae),Macroscelididae),Orycteropodidae),(Elephantidae,Procaviidae))),Real_OG);
+
+[weight = 1]	tree robb_pr_15_5.tre = (((((Erinaceidae,(((Manidae,(Canidae,Felidae)),((Equidae,Rhinocerotidae),(Suidae,(Bovidae,Hippopotamidae)))),(Pteropodidae,Phyllostomidae))),((Tupaiidae,(Cynocephalidae,(Hominidae,Galagonidae))),(Leporidae,(Caviidae,Muridae)))),((Dugongidae,(Elephantidae,Procaviidae)),(Orycteropodidae,(Macroscelididae,Tenrecidae)))),(Dasypodidae,Myrmecophagidae)),Real_OG);
+[weight = 1]	tree robb_pr_132_2.tre = (Real_OG,(((Myrmecophagidae,Dasypodidae),(((Talpidae,(Erinaceidae,Soricidae)),(((Phyllostomidae,Molossidae),Pteropodidae),(((Equidae,(Rhinocerotidae,Tapiridae)),(Felidae,Manidae)),(Camelidae,(Suidae,(Bovidae,(Hippopotamidae,(Balaenopteridae,Delphinidae)))))))),(((Sciuridae,(Hystricidae,Muridae)),(Leporidae,Ochotonidae)),(Hominidae,(Cynocephalidae,Tupaiidae))))),((Orycteropodidae,((Tenrecidae,Chrysochloridae),Macroscelididae)),(Procaviidae,Elephantidae))));
+
+[weight = 1]	tree robb_pr_161_1.tre = (Real_OG,((Leporidae,(Hominidae,(Bovidae,Canidae))),Muridae));
+
+[weight = 1]	tree robb_pr_15_6.tre = ((Dasypodidae,(((Erinaceidae,(((Manidae,(Felidae,(Canidae,Phocidae))),((Equidae,Rhinocerotidae),(Camelidae,(Suidae,(Bovidae,(Physeteridae,Hippopotamidae)))))),(Pteropodidae,Phyllostomidae))),((Hominidae,(Tarsiidae,Galagonidae)),((Tupaiidae,(Ochotonidae,Leporidae)),(Sciuridae,(Caviidae,Muridae))))),(Tenrecidae,(Elephantidae,Orycteropodidae)))),Real_OG);
+[weight = 1]	tree robb_pr_132_1.tre = (Real_OG,(((Myrmecophagidae,Dasypodidae),(((Talpidae,(Erinaceidae,Soricidae)),(((Phyllostomidae,Molossidae),Pteropodidae),(((Equidae,(Rhinocerotidae,Tapiridae)),(Felidae,Manidae)),(Camelidae,(Suidae,(Bovidae,(Hippopotamidae,(Balaenopteridae,Delphinidae)))))))),(((Sciuridae,(Hystricidae,Muridae)),(Leporidae,Ochotonidae)),(Hominidae,(Cynocephalidae,Tupaiidae))))),((Orycteropodidae,((Tenrecidae,Chrysochloridae),Macroscelididae)),(Procaviidae,Elephantidae))));
+[weight = 1]	tree RobB_pr_344_2_semiMRP_cons.tre = (((((((((((Balaenopteridae,Bovidae,Camelidae,Delphinidae,Hippopotamidae,Suidae),(Equidae,Rhinocerotidae,Tapiridae)),(Canidae,Felidae),Manidae,((Nycteridae,Phyllostomidae),Pteropodidae)),((Erinaceidae,Soricidae),Talpidae)),((Chrysochloridae,(Elephantidae,Procaviidae,Trichechidae),Macroscelididae,Orycteropodidae,Tenrecidae),(Dasypodidae,Myrmecophagidae))),(Cynocephalidae,Tupaiidae)),((Callitrichidae,Cebidae,Cercopithecidae,Hominidae),Lemuridae,Tarsiidae)),(Leporidae,Ochotonidae)),(Caviidae,Erethizontidae,Hydrochaeridae,Hystricidae)),Muridae),Real_OG);
+
+[weight = 1]	tree robb_pr_174_4.tre = ((Myrmecophagidae,((((Talpidae,((((((Suidae,(Bovidae,(Hippopotamidae,(Physeteridae,Balaenopteridae)))),(Camelidae,Equidae)),Rhinocerotidae),((Vespertilionidae,(Phyllostomidae,Rhinolophidae)),Pteropodidae)),(Felidae,Manidae)),(Canidae,(Ursidae,(Phocidae,(Odobenidae,Otariidae)))))),(Erinaceidae,Soricidae)),(((Tupaiidae,((Caviidae,Thryonomyidae),(Myoxidae,(Sciuridae,Muridae)))),(Ochotonidae,Leporidae)),(Lemuridae,((Cebidae,((Hylobatidae,Hominidae),Cercopithecidae)),(Cynocephalidae,(Loridae,Tarsiidae)))))),(Dasypodidae,((Macroscelididae,(Elephantidae,Dugongidae)),(Tenrecidae,Orycteropodidae))))),Real_OG);
+
+[weight = 1]	tree RobB_pr_133_2_semiMRP_cons.tre = ((((((((Camelidae,(Hippopotamidae,Suidae)),((Equidae,(Rhinocerotidae,Tapiridae)),(Felidae,Manidae))),((Megadermatidae,Pteropodidae),(Molossidae,Phyllostomidae))),((Erinaceidae,Soricidae),Talpidae)),(((Cynocephalidae,Tupaiidae),Hominidae),(((Hystricidae,Muridae),Sciuridae),(Leporidae,Ochotonidae)))),(Dasypodidae,Myrmecophagidae)),((((Chrysochloridae,Tenrecidae),Macroscelididae),Orycteropodidae),(Elephantidae,Procaviidae))),Real_OG);
+
+[weight = 1]	tree robb_pr_174_5.tre = ((((Solenodontidae,((((Suidae,(Camelidae,(Bovidae,(Hippopotamidae,(Physeteridae,Balaenopteridae))))),(((Equidae,(Tapiridae,Rhinocerotidae)),(Felidae,(Canidae,(Ursidae,(Phocidae,(Odobenidae,Otariidae)))))),Manidae)),(((Phyllostomidae,Vespertilionidae),Rhinolophidae),Pteropodidae)),((Erinaceidae,Soricidae),Talpidae))),((((Cebidae,((Hylobatidae,Hominidae),Cercopithecidae)),(Tarsiidae,Lemuridae)),(Loridae,Cynocephalidae)),((Tupaiidae,(Ochotonidae,Leporidae)),(((Sciuridae,Myoxidae),Muridae),(Caviidae,Thryonomyidae))))),(((Elephantidae,(Procaviidae,(Dugongidae,Trichechidae))),((Chrysochloridae,(Orycteropodidae,Tenrecidae)),Macroscelididae)),((Bradypodidae,Myrmecophagidae),Dasypodidae))),Real_OG);
+
+[weight = 1]	tree robb_pr_174_9.tre = (((((Solenodontidae,(((Camelidae,(Suidae,(Bovidae,(Hippopotamidae,Balaenopteridae)))),(((Equidae,(Tapiridae,Rhinocerotidae)),((Vespertilionidae,Pteropodidae),Rhinolophidae)),((Felidae,(Canidae,(Ursidae,(Phocidae,(Odobenidae,Otariidae))))),Manidae))),((Erinaceidae,Soricidae),Talpidae))),((Cynocephalidae,((Tarsiidae,(Cebidae,((Hylobatidae,Hominidae),Cercopithecidae))),(Loridae,Lemuridae))),((Tupaiidae,((Sciuridae,Myoxidae),(Caviidae,Muridae))),(Ochotonidae,Leporidae)))),(Myrmecophagidae,Dasypodidae)),((Elephantidae,(Procaviidae,(Dugongidae,Trichechidae))),((Chrysochloridae,(Tenrecidae,Orycteropodidae)),Macroscelididae))),Real_OG);
+
+[weight = 1]	tree robb_pr_31_1.tre = (Dasypodidae,(((Leporidae,(Muridae,(Caviidae,Myoxidae))),(Cercopithecidae,(Hominidae,Hylobatidae))),(Talpidae,((Pteropodidae,(Phyllostomidae,Vespertilionidae)),(((Felidae,(Canidae,Phocidae)),(Equidae,Rhinocerotidae)),(Suidae,((Hippopotamidae,Balaenopteridae),Bovidae)))))),(Orycteropodidae,Elephantidae));
+[weight = 1]	tree robb_pr_53_1.tre = (Real_OG,(((((((((((Felidae,(Canidae,(Otariidae,Phocidae))),(Equidae,Rhinocerotidae)),(Suidae,(Camelidae,((Hippopotamidae,(Physeteridae,Balaenopteridae)),Bovidae)))),((Rhinolophidae,Pteropodidae),(Phyllostomidae,Vespertilionidae))),(Talpidae,Soricidae)),(Dasypodidae,(Elephantidae,(Orycteropodidae,Tenrecidae)))),(Loridae,(Cebidae,(Hominidae,Cercopithecidae)))),(Leporidae,Ochotonidae)),((Sciuridae,Myoxidae),(Caviidae,Thryonomyidae))),Muridae),Erinaceidae));
+
+[weight = 1]	tree robb_pr_347_1.tre = (Real_OG,(Muridae,(Hominidae,(Phocidae,(Balaenopteridae,Bovidae)))));
+[weight = 1]	tree robb_pr_17_1_semiMRP_cons.tre = (Real_OG,(Muridae,(Hominidae,(Balaenopteridae,(Rhinocerotidae,Felidae)))));
+
+[weight = 1]	tree robb_pr_71_1.tre = (Real_OG,(Muridae,(Bovidae,Hominidae)));
+
+[weight = 1]	tree robb_pr_296_1.tre = ((Erethizontidae,((Caviidae,Dasyproctidae),Chinchillidae,(Myocastoridae,Octodontidae,Ctenomyidae,Echimyidae)),(Thryonomyidae,Hystricidae,Bathyergidae),Muridae,Dipodidae,(Geomyidae,Heteromyidae),Castoridae,(Aplodontidae,(Sciuridae,Myoxidae)),Anomaluridae,Pedetidae),(Macroscelididae,(Erinaceidae,(Soricidae,Talpidae)),Tenrecidae,Chrysochloridae),(Tupaiidae,Lemuridae,Loridae,Galagonidae,Cebidae,Callitrichidae,Cercopithecidae),(Ochotonidae,Leporidae));
+
+[weight = 1]	tree robb_pr_321_1.tre = ((Giraffidae,Bovidae),(Antilocapridae,Cervidae));
+
+[weight = 1]	tree marcelc_rl_36_1.tre = (Real_OG,((((Leporidae,Ochotonidae),(Soricidae,Macroscelididae,Talpidae,Erinaceidae,Tenrecidae,Tupaiidae,Loridae,Galagonidae,Lemuridae,Cheirogaleidae,Cebidae,Cynocephalidae,Phyllostomidae,Caviidae,Dasyproctidae,Hydrochaeridae,Chinchillidae,Erethizontidae,Sciuridae,Castoridae,Geomyidae,Myoxidae,Aplodontidae,Muridae,Heteromyidae)),(Myrmecophagidae,Dasypodidae,Megalonychidae)),(Felidae,Hyaenidae,Canidae,Ursidae,Procyonidae,Mustelidae,Herpestidae,Otariidae,Procaviidae,Equidae,(Suidae,Tayassuidae,Camelidae,Cervidae,Bovidae))));
+
+[weight = 1]	tree robb_pr_23_3.tre = ((Camelidae,(Tragulidae,(Bovidae,Cervidae,Giraffidae))),(Hippopotamidae,(Suidae,Tayassuidae)));
+
+[weight = 1]	tree RobB_pr_67_1_semiMRP_cons.tre = ((((Callitrichidae,Cebidae,Cercopithecidae,Cheirogaleidae,Galagonidae,Indridae,Lemuridae,Tarsiidae),Tupaiidae),(Cynocephalidae,(Phyllostomidae,Pteropodidae))),Real_OG);
+
+[weight = 1]	tree robb_pr_355_1.tre = (Cynocephalidae,(Pteropodidae,Vespertilionidae,Molossidae));
+
+[weight = 1]	tree robb_pr_335_1.tre = (Sciuridae,Real_OG,(Cynocephalidae,(Pteropodidae,Vespertilionidae,Molossidae,Rhinopomatidae)));
+
+[weight = 1]	tree robb_pr_361_1.tre = (Balaenopteridae,(Eschrichtiidae,(Neobalaenidae,Balaenidae)));
+
+[weight = 1]	tree robb_pr_332_1.tre = (Ctenodactylidae,Anomaluridae,(Pedetidae,(Hystricidae,(Bathyergidae,Thryonomyidae))));
+
+[weight = 1]	tree robb_pr_374_1.tre = (Cynocephalidae,Tupaiidae,(Pteropodidae,Rhinopomatidae,Rhinolophidae,Emballonuridae,Molossidae,(Megadermatidae,(Vespertilionidae,Thyropteridae)),(Noctilionidae,Phyllostomidae)));
+
+[weight = 1]	tree robb_pr_372_1.tre = (Real_OG,((Bovidae,Cervidae,Suidae,Canidae,Felidae,Mustelidae,Equidae,Tapiridae,Elephantidae,Procaviidae,Manidae,Phocoenidae,Delphinidae,Monodontidae,Tupaiidae,Trichechidae,Chrysochloridae,Loridae,Galagonidae,Soricidae,Talpidae),((Bradypodidae,Cynocephalidae,Dasypodidae,Macroscelididae,Phyllostomidae,Vespertilionidae,Pteropodidae,Erinaceidae,Tarsiidae,Cercopithecidae,Hominidae,Tenrecidae),(Sciuridae,Castoridae,Caviidae,Heteromyidae,Geomyidae,Muridae,Leporidae))));
+
+[weight = 1]	tree robb_pr_373_1.tre = (Pteropodidae,(Molossidae,(Thyropteridae,(Vespertilionidae,(Emballonuridae,(Natalidae,(Rhinolophidae,Nycteridae)))),(Furipteridae,Megadermatidae,((Noctilionidae,(Mormoopidae,Mystacinidae)),(Phyllostomidae,Rhinopomatidae))))));
+
+[weight = 1]	tree robb_pr_314_1.tre = ((Cynocephalidae,(Tupaiidae,Macroscelididae),(Daubentoniidae,Indridae,Lemuridae,Cheirogaleidae,Loridae,Tarsiidae)),(Erinaceidae,Talpidae,Soricidae,Solenodontidae,Tenrecidae,Chrysochloridae),(Pteropodidae,Natalidae,Nycteridae,Mormoopidae,Phyllostomidae,Emballonuridae,Vespertilionidae,Molossidae,Rhinolophidae));
+
+[weight = 1]	tree robb_pr_135_1.tre = (Real_OG,(((((Erinaceidae,(Talpidae,Soricidae)),(Solenodontidae,(Chrysochloridae,Tenrecidae))),(Procaviidae,Tupaiidae)),(Canidae,Viverridae)),(Bradypodidae,(Orycteropodidae,Dasypodidae))));
+
+[weight = 1]	tree robb_pr_114_1.tre = (Chrysochloridae,Erinaceidae,Talpidae,((Ziphiidae,(Neobalaenidae,(Phocoenidae,Delphinidae))),(Trichechidae,(Elephantidae,((Procaviidae,Equidae),(Suidae,(Tayassuidae,(Hippopotamidae,(Camelidae,(Tragulidae,(Giraffidae,Cervidae,Bovidae)))))))))));
+
+[weight = 1]	tree robb_pr_309_1.tre = ((Bovidae,Giraffidae),(Moschidae,(Antilocapridae,Cervidae)));
+
+[weight = 1]	tree robb_pr_257_1.tre = ((Muridae,Dipodidae,Myoxidae),(Heteromyidae,Geomyidae));
+
+[weight = 1]	tree robb_pr_378_1.tre = (Tragulidae,(Bovidae,Giraffidae,(Moschidae,(Antilocapridae,Cervidae))));
+
+[weight = 1]	tree robb_pr_359_1.tre = (Procaviidae,(Elephantidae,(Dugongidae,Trichechidae)));
+
+[weight = 1]	tree robb_pr_233_1.tre = ((Bradypodidae,(Macroscelididae,(Sciuridae,(Tupaiidae,(Cynocephalidae,((Tarsiidae,(Galagonidae,(Hylobatidae,(Cercopithecidae,Cebidae)))),Pteropodidae)))))),(Megadermatidae,Molossidae));
+
+[weight = 1]	tree robb_pr_376_1.tre = ((Bathyergidae,(Pedetidae,(Ctenodactylidae,Thryonomyidae,Petromuridae))),(Myoxidae,Anomaluridae));
+
+[weight = 1]	tree RobB_pr_259_1_semiMRP_cons.tre = (Dipodidae,((Anomaluridae,Pedetidae),(((Aplodontidae,Sciuridae),Myoxidae),Heteromyidae),Castoridae,(Ctenodactylidae,Thryonomyidae)),Muridae);
+
+[weight = 1]	tree robb_pr_334_1.tre = (Anomaluridae,(Pedetidae,(Ctenodactylidae,(Erethizontidae,(Hystricidae,(Thryonomyidae,Bathyergidae))))));
+
+[weight = 1]	tree robb_pr_368_1.tre = (Pteropodidae,(((Vespertilionidae,(Molossidae,Mystacinidae)),(Natalidae,Furipteridae,Thyropteridae,Myzopodidae)),(Rhinopomatidae,(((Noctilionidae,(Mormoopidae,Phyllostomidae)),(Craseonycteridae,Emballonuridae)),(Rhinolophidae,Nycteridae,Megadermatidae)))));
+
+[weight = 1]	tree robb_pr_369_1.tre = ((Delphinidae,Physeteridae,Ziphiidae),(Balaenidae,(Balaenopteridae,Eschrichtiidae)));
+
+[weight = 1]	tree robb_pr_370_1_semiMRP_cons.tre = ((Ziphiidae,Physeteridae),(Platanistidae,(Delphinidae,Monodontidae,Phocoenidae)));
+
+[weight = 1]	tree robb_pr_299_1_semiMRP_cons.tre = (Bradypodidae,((Dasypodidae,((Erinaceidae,(Solenodontidae,Talpidae)),(Orycteropodidae,(Plesiorycteropodidae,Procaviidae))),Myrmecophagidae),Manidae),Megalonychidae);
+
+[weight = 1]	tree robb_pr_333_1.tre = (Cynocephalidae,((((Lemuridae,Loridae,Tarsiidae),Tupaiidae),(Pteropodidae,(Rhinopomatidae,Emballonuridae,Noctilionidae,Megadermatidae,Rhinolophidae,Vespertilionidae))),(Tenrecidae,Erinaceidae)));
+
+[weight = 1]	tree robb_pr_295_1.tre = (Tragulidae,(Giraffidae,(Bovidae,(Moschidae,(Antilocapridae,Cervidae)))));
+
+[weight = 1]	tree robb_pr_129_1.tre = ((Rhinolophidae,(Soricidae,(Talpidae,Erinaceidae))),(Cynocephalidae,Tupaiidae));
+
+[weight = 1]	tree marcelc_rl_31_1.tre = ((Cynocephalidae,(Pteropodidae,(Craseonycteridae,Emballonuridae,Furipteridae,Megadermatidae,Molossidae,Mormoopidae,Mystacinidae,Myzopodidae,Natalidae,Noctilionidae,Nycteridae,Phyllostomidae,Rhinolophidae,Rhinopomatidae,Thyropteridae,Vespertilionidae))),(Hominidae,Tupaiidae));
+
+[weight = 1]	tree robb_pr_366_1_semiMRP_cons.tre = ((Balaenidae,Balaenopteridae),((Delphinidae,Phocoenidae),(Physeteridae,Ziphiidae),Platanistidae));
+
+[weight = 1]	tree RobB_pr_98_2_semiMRP_cons.tre = ((Bovidae,Camelidae,(Hippopotamidae,Suidae,Tayassuidae),Tragulidae),Equidae);
+
+[weight = 0.5]	tree robb_pr_300_2_1.tre = (Tragulidae,(Cervidae,(Moschidae,(Giraffidae,(Bovidae,Antilocapridae)))));
+[weight = 0.5]	tree robb_pr_300_2_2.tre = (Tragulidae,(Moschidae,(Cervidae,(Giraffidae,(Bovidae,Antilocapridae)))));
+
+[weight = 0.5]	tree robb_pr_317_1_1.tre = (Tragulidae,(Cervidae,(Moschidae,(Antilocapridae,(Bovidae,Giraffidae)))));
+[weight = 0.5]	tree robb_pr_317_1_2.tre = (Tragulidae,(Cervidae,Moschidae,(Antilocapridae,(Bovidae,Giraffidae))));
+
+[weight = 1]	tree robb_pr_356_1.tre = (Physeteridae,(Ziphiidae,(Platanistidae,(Monodontidae,(Delphinidae,Phocoenidae)))));
+
+[weight = 1]	tree robb_pr_128_1.tre = (Giraffidae,Antilocapridae,(Moschidae,Bovidae,Cervidae));
+
+[weight = 1]	tree robb_pr_129_2.tre = ((Talpidae,(Soricidae,Erinaceidae)),(Rhinolophidae,(Cynocephalidae,Tupaiidae)));
+
+[weight = 1]	tree robb_pr_258_1.tre = ((Ctenomyidae,Octodontidae),(Abrocomidae,Chinchillidae));
+
+[weight = 0.5]	tree robb_pr_371_1_1.tre = ((Physeteridae,Ziphiidae),(Platanistidae,Delphinidae));
+[weight = 0.5]	tree robb_pr_371_1_2.tre = (Platanistidae,(Delphinidae,(Physeteridae,Ziphiidae)));
+	
+[weight = 1]	tree RobB_pr_35_1_semiMRP_cons.tre = (((Bradypodidae,(Dasypodidae,Orycteropodidae)),(((Canidae,Viverridae),((((((Chrysochloridae,Tenrecidae),Solenodontidae),Nesophontidae),(Soricidae,Talpidae)),Erinaceidae),Tupaiidae)),Procaviidae)),Real_OG);
+
+[weight = 1]	tree robb_pr_364_1.tre = (Elephantidae,((Balaenidae,Balaenopteridae,Neobalaenidae,Eschrichtiidae),(Physeteridae,(Ziphiidae,(Platanistidae,(Monodontidae,(Phocoenidae,Delphinidae)))))));
+
+[weight = 1]	tree robb_pr_291_1.tre = (Real_OG,(Orycteropodidae,(Manidae,(Dasypodidae,Myrmecophagidae,Megalonychidae)),(Hyaenidae,Felidae,Viverridae,Canidae,Ursidae,Otariidae,Phocidae,Mustelidae,Procyonidae),(Cynocephalidae,(Tupaiidae,(Lemuridae,Loridae,Tarsiidae,Cercopithecidae,Hominidae))),(Macroscelididae,(Bathyergidae,Thryonomyidae,Hystricidae,Caviidae,Anomaluridae,Muridae,Dipodidae,Geomyidae,Myoxidae,Castoridae,Sciuridae)),((Antilocapridae,Cervidae,Bovidae,Giraffidae,Camelidae,Hippopotamidae,Suidae,Tayassuidae,Tragulidae),(Elephantidae,(Procaviidae,(Equidae,Rhinocerotidae,Tapiridae))))));
+
+[weight = 1]	tree robb_pr_386_1.tre = ((Ctenodactylidae,(Thryonomyidae,(Octodontidae,(Echimyidae,(Dasyproctidae,Dinomyidae))))),((Myoxidae,(Muridae,Anomaluridae)),(Aplodontidae,Sciuridae)));
+
+[weight = 1]	tree RobB_pr_46_1_semiMRP_cons.tre = (Equidae,((Balaenopteridae,Delphinidae),(Bovidae,(Camelidae,Tragulidae)),Hippopotamidae,Suidae),Tapiridae);
+
+[weight = 1]	tree RobB_pr_29_1_semiMRP_cons.tre = ((Erinaceidae,Macroscelididae,(Nesophontidae,(Solenodontidae,Soricidae,Tenrecidae))),Real_OG);
+
+[weight = 1]	tree RobB_pr_232_1_semiMRP_cons.tre = (((((Balaenopteridae,Delphinidae),((Bovidae,Tragulidae),Camelidae)),(Hippopotamidae,Suidae)),Equidae),Real_OG);
+
+[weight = 1]	tree robb_pr_385_1.tre = (Orycteropodidae,(Muridae,(Canidae,(Equidae,((Tayassuidae,Suidae),(Camelidae,(Tragulidae,(Bovidae,Cervidae))),(Hippopotamidae,(Balaenopteridae,(Physeteridae,(Delphinidae,Monodontidae)))))))));
+
+[weight = 1]	tree robb_pr_220_1.tre = (Tragulidae,(Suidae,Hippopotamidae));
+
+[weight = 1]	tree robb_pr_344_1.tre = (Real_OG,(((((((Chrysochloridae,Tenrecidae),(Talpidae,Soricidae)),Erinaceidae),(((((((Caviidae,Hydrochaeridae),(Erethizontidae,Hystricidae)),Muridae),Leporidae),Ochotonidae),Macroscelididae),Tupaiidae)),((((Cebidae,(Hominidae,Cercopithecidae)),Callitrichidae),Tarsiidae),Lemuridae)),(((Phyllostomidae,Nycteridae),Pteropodidae),Cynocephalidae)),(Canidae,Felidae),((Rhinocerotidae,(Equidae,(Hippopotamidae,(Camelidae,Bovidae),Suidae))),Tapiridae),((Dasypodidae,(Manidae,Myrmecophagidae)),(Orycteropodidae,Plesiorycteropodidae)),Elephantidae,(Balaenopteridae,Delphinidae),Procaviidae,Trichechidae));
+
+[weight = 1]	tree robb_pr_342_1.tre = (Antilocapridae,(Bovidae,Tayassuidae,(Tragulidae,Camelidae)),((Balaenidae,(Eschrichtiidae,Balaenopteridae)),(Physeteridae,(Ziphiidae,(Platanistidae,(Monodontidae,Phocoenidae,Delphinidae))))));
+
+[weight = 1]	tree robb_pr_159_1.tre = ((((Leporidae,Ochotonidae),((Muridae,(Erethizontidae,(Myocastoridae,(Caviidae,Dasyproctidae)))),Sciuridae)),Macroscelididae),(Cynocephalidae,Tupaiidae));
+
+[weight = 1]	tree robb_pr_115_1.tre = (Real_OG,(((((Macroscelididae,((Aplodontidae,Castoridae,Dipodidae,Geomyidae,Muridae,Pedetidae,Sciuridae),(Leporidae,Ochotonidae))),(Tupaiidae,((Cebidae,Cheirogaleidae,Hominidae,Lemuridae,Tarsiidae),(Cynocephalidae,Pteropodidae)))),((Orycteropodidae,(((Balaenidae,Delphinidae,Phocoenidae),(Bovidae,Cervidae,Giraffidae,Moschidae,Suidae,Tragulidae)),((Procaviidae,(Elephantidae,(Dugongidae,Trichechidae))),(Equidae,Rhinocerotidae,Tapiridae)))),(Manidae,(Canidae,Felidae,Mustelidae)))),(Chrysochloridae,Erinaceidae,Solenodontidae,Talpidae,Tenrecidae)),(Bradypodidae,Dasypodidae,Megalonychidae,Myrmecophagidae)));
+
+[weight = 1]	tree robb_pr_238_1.tre = (Solenodontidae,(Tupaiidae,((Cynocephalidae,Pteropodidae),(((Lemuridae,Daubentoniidae),Loridae),(Tarsiidae,((Callitrichidae,Cebidae),(Cercopithecidae,(Hylobatidae,Hominidae))))))));
+
+[weight = 1]	tree robb_pr_384_1.tre = (Manidae,(Dasypodidae,(Myrmecophagidae,(Bradypodidae,Megalonychidae))));
+
+[weight = 1]	tree robb_pr_306_1.tre = (Hominidae,(Bovidae,(Trichechidae,Elephantidae)));
+[weight = 0.5]	tree robb_pr_339_1a_1.tre = (Pedetidae,(Hystricidae,Chinchillidae,((Octodontidae,(Echimyidae,Myocastoridae)),(Bathyergidae,Petromuridae,Thryonomyidae)),((Dasyproctidae,Agoutidae),Erethizontidae),(Hydrochaeridae,Caviidae),Capromyidae));
+[weight = 0.5]	tree robb_pr_339_1a_2.tre = (Pedetidae,(Hystricidae,((Octodontidae,(Echimyidae,Myocastoridae)),(Bathyergidae,Petromuridae,Thryonomyidae)),((Dasyproctidae,Agoutidae),Erethizontidae,Chinchillidae),(Hydrochaeridae,Caviidae),Capromyidae));
+[weight = 0.5]	tree robb_pr_339_1b_1.tre = (Sciuridae,(Dipodidae,Muridae,Myoxidae),(Aplodontidae,Geomyidae));
+[weight = 0.5]	tree robb_pr_339_1b_2.tre = (Sciuridae,(Dipodidae,(Muridae,Myoxidae)),(Aplodontidae,Geomyidae));
+[weight = 1]	tree robb_pr_315_1.tre = (((Macroscelididae,Tenrecidae,(Talpidae,((Cynocephalidae,(Cebidae,Lemuridae,Megaladapidae,Loridae,Galagonidae)),Tupaiidae),(Pteropodidae,Molossidae,Rhinolophidae,(Phyllostomidae,Vespertilionidae)),(Erinaceidae,(Solenodontidae,Soricidae)))),(Ursidae,Viverridae,Hyaenidae,Felidae)),(Bradypodidae,Myrmecophagidae,Dasypodidae));
+[weight = 1]	tree robb_pr_316_1a.tre = (((Ochotonidae,Leporidae),Macroscelididae),Muridae);
+[weight = 1]	tree robb_pr_316_1b.tre = ((Solenodontidae,(Erinaceidae,(Chrysochloridae,Tenrecidae))),(Talpidae,Soricidae));
+[weight = 1]	tree robb_pr_316_1c.tre = (Orycteropodidae,(Elephantidae,Procaviidae));
+
+[weight = 1]	tree robb_pr_354_1.tre = (Pteropodidae,(Emballonuridae,((Vespertilionidae,(Molossidae,(Phyllostomidae,(Mormoopidae,Noctilionidae)))),(Rhinopomatidae,(Rhinolophidae,Megadermatidae)))));
+
+[weight = 0.5]	tree robb_pr_336_1_1.tre = ((Talpidae,(Soricidae,(Erinaceidae,(Manidae,(Myrmecophagidae,(Tenrecidae,(Bradypodidae,(Dasypodidae,(Cynocephalidae,(((Tarsiidae,((Hominidae,Hylobatidae),(Cercopithecidae,(Cebidae,Callitrichidae)))),((Loridae,Galagonidae),(Daubentoniidae,(Cheirogaleidae,(Indridae,Lemuridae))))),Tupaiidae)))))))))),Macroscelididae);
+[weight = 0.5]	tree robb_pr_336_1_2.tre = ((Talpidae,(Soricidae,(Erinaceidae,(Manidae,(Myrmecophagidae,(Bradypodidae,(Tenrecidae,(Dasypodidae,(Cynocephalidae,(((Tarsiidae,((Hominidae,Hylobatidae),(Cercopithecidae,(Cebidae,Callitrichidae)))),((Loridae,Galagonidae),(Daubentoniidae,(Cheirogaleidae,(Indridae,Lemuridae))))),Tupaiidae)))))))))),Macroscelididae);
+
+[weight = 1]	tree robb_pr_375_1.tre = (((Thyropteridae,(Molossidae,(Vespertilionidae,(Emballonuridae,(Rhinolophidae,(Megadermatidae,Rhinopomatidae)))))),(Phyllostomidae,(Mormoopidae,(Mystacinidae,Noctilionidae)))),(Furipteridae,Natalidae));
+
+[weight = 1]	tree robb_pr_329_1.tre = (Equidae,(Suidae,(Camelidae,(Giraffidae,(Cervidae,Bovidae)))));
+
+[weight = 1]	tree robb_pr_305_1a.tre = (Muridae,(Geomyidae,Heteromyidae));
+
+[weight = 1]	tree RobB_pr_168_1_semiMRP_cons.tre = (((((((Bovidae,Suidae),((((Canidae,Felidae),((Caviidae,Elephantidae),Muridae)),Pteropodidae),Hominidae)),Megadermatidae),Equidae),Dasypodidae),Phocidae),Real_OG);
+
+[weight = 1]	tree robb_pr_303_1.tre = ((Caviidae,Soricidae),(Equidae,(Suidae,Bovidae,Canidae)));
+
+[weight = 1]	tree robb_pr_328_1a.tre = (Dasypodidae,((Cebidae,Loridae),(Pteropodidae,(Vespertilionidae,Phyllostomidae))));
+[weight = 1]	tree robb_pr_328_1_semiMRP_cons.tre = (Dasypodidae,((Cervidae,(Equidae,(Pteropodidae,Phyllostomidae))),(Talpidae,(Loridae,Muridae))));
+[weight = 1]	tree robb_pr_64_1.tre = (Real_OG,(((((Mystacinidae,(Noctilionidae,(Mormoopidae,Phyllostomidae))),Emballonuridae),(Vespertilionidae,Molossidae)),((Pteropodidae,(Megadermatidae,Rhinolophidae)),(Camelidae,(Felidae,Mustelidae)))),(Tupaiidae,(Cynocephalidae,(Loridae,Lemuridae)))));
+[weight = 1]	tree robb_pr_87_1.tre = (Chinchillidae,(Abrocomidae,(Ctenomyidae,Octodontidae)));
+[weight = 1]	tree robb_pr_102_1.tre = (Real_OG,(Talpidae,(Dasypodidae,(Procyonidae,(Pteropodidae,Equidae)))));
+
+[weight = 1]	tree robb_pr_305_1b.tre = (Muridae,(Geomyidae,Heteromyidae));
+
+[weight = 1]	tree robb_pr_337_1_semiMRP_cons.tre = (Antilocapridae,(Bovidae,Cervidae));
+
+[weight = 1]	tree RobB_pr_65_1_semiMRP_cons.tre = ((((Abrocomidae,Octodontidae),Ctenomyidae),Myocastoridae),Caviidae);
+
+[weight = 1]	tree robb_pr_390_1.tre = (Talpidae,Soricidae,Erinaceidae,Macroscelididae,Pteropodidae,Vespertilionidae,Leporidae,Felidae,Odobenidae,Delphinidae,Bovidae,Real_OG,(Muridae,Dipodidae,Geomyidae,Sciuridae,Aplodontidae,Myoxidae,Ctenodactylidae,Anomaluridae,Castoridae,Dasyproctidae,Caviidae,Hydrochaeridae,Hominidae,Cercopithecidae,Tupaiidae));
+
+[weight = 1]	tree robb_pr_337_2_semiMRP_cons.tre = (Suidae,(Bovidae,Cervidae));
+
+[weight = 1]	tree robb_pr_100_1.tre = ((Hominidae,Galagonidae),(Tupaiidae,Muridae));
+
+[weight = 1]	tree robb_pr_207_1.tre = (Myoxidae,Sciuridae,Caviidae,Hystricidae,(Muridae,Dipodidae));
+
+[weight = 1]	tree robb_pr_72_1.tre = (Giraffidae,Cervidae,Bovidae);
+
+[weight = 1]	tree robb_pr_111_1.tre = (Phyllostomidae,Leporidae,Caviidae,Erinaceidae,Muridae,(Cynocephalidae,((Tarsiidae,(Hominidae,Cercopithecidae,Cebidae,Callitrichidae)),(Lemuridae,Cheirogaleidae,Tupaiidae))));
+
+[weight = 1]	tree robb_pr_237_1.tre = (Camelidae,Suidae,(Hippopotamidae,(Balaenopteridae,(Physeteridae,Ziphiidae,Phocoenidae,Delphinidae)),(Tragulidae,(Bovidae,Giraffidae,Cervidae))));
+[weight = 1]	tree robb_pr_23_2.tre = (Equidae,(Suidae,Camelidae,(Hippopotamidae,(Tragulidae,(Bovidae,Cervidae,Giraffidae)),(Delphinidae,Physeteridae,Ziphiidae,Balaenopteridae))));
+
+[weight = 1]	tree robb_pr_130_2.tre = (Equidae,((((Hippopotamidae,(Physeteridae,Balaenidae)),(Tragulidae,(Antilocapridae,Giraffidae,(Cervidae,Bovidae)))),Camelidae),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree marcelc_rl_37_1.tre = (Real_OG,(Muridae,(Hominidae,Leporidae,Suidae)));
+
+[weight = 1]	tree robb_pr_354_4.tre = (Cynocephalidae,(((Vespertilionidae,(Molossidae,(Noctilionidae,(Phyllostomidae,Mormoopidae)))),(Emballonuridae,Pteropodidae)),(Megadermatidae,(Rhinolophidae,Rhinopomatidae))));
+
+[weight = 1]	tree robb_pr_98_3.tre = (Camelidae,Equidae,((Hippopotamidae,(Suidae,Tayassuidae)),(Tragulidae,Bovidae)));
+
+[weight = 1]	tree robb_pr_230_5.tre = (Real_OG,(Bradypodidae,((((Felidae,((Manidae,(Suidae,(Bovidae,(Balaenopteridae,Delphinidae)))),(Rhinocerotidae,Equidae))),(Phyllostomidae,(Molossidae,(Megadermatidae,Pteropodidae)))),((Hominidae,(Cynocephalidae,Tupaiidae)),((Chrysochloridae,(((Procaviidae,Dugongidae),Elephantidae),(Macroscelididae,Orycteropodidae))),(Leporidae,Muridae)))),(Erinaceidae,Soricidae))));
+
+[weight = 1]	tree robb_pr_342_3.tre = (Tayassuidae,(Camelidae,(Tragulidae,(Antilocapridae,Bovidae))),((Balaenidae,(Eschrichtiidae,Balaenopteridae)),(Physeteridae,(Ziphiidae,(Platanistidae,(Monodontidae,(Phocoenidae,Delphinidae)))))));
+
+[weight = 1]	tree robb_pr_23_23.tre = (Camelidae,(((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Hippopotamidae,(Balaenopteridae,(Physeteridae,(Delphinidae,Ziphiidae))))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_23_24.tre = (Camelidae,(((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Hippopotamidae,(Balaenopteridae,(Physeteridae,(Delphinidae,Ziphiidae))))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree robb_pr_23_1.tre = (Camelidae,(((Tragulidae,(Bovidae,(Cervidae,Giraffidae))),(Hippopotamidae,(Physeteridae,(Delphinidae,Ziphiidae)))),(Suidae,Tayassuidae)));
+
+[weight = 1]	tree RobB_pr_46_2_semiMRP_cons.tre = (Equidae,(((Balaenopteridae,Delphinidae),Hippopotamidae),(Bovidae,Tragulidae),Camelidae,Suidae),Tapiridae);
+
+[weight = 1]	tree robb_pr_320_3.tre = (Real_OG,(Tupaiidae,(Orycteropodidae,(Chrysochloridae,Tenrecidae)),(Solenodontidae,Nesophontidae),Macroscelididae,((Soricidae,Procaviidae),Talpidae),(Bradypodidae,Dasypodidae),(Canidae,Viverridae),Erinaceidae));
+
+[weight = 1]	tree robb_pr_46_3_semiMRP_cons.tre = ((Equidae,Tapiridae),(Camelidae,Suidae,(Bovidae,Tragulidae),Hippopotamidae,(Balaenopteridae,Delphinidae)));
+
+[weight = 1]	tree robb_pr_367_1_semiMRP_cons.tre = (((((((Craseonycteridae,Rhinopomatidae),((Megadermatidae,Rhinolophidae),Nycteridae)),(((((Furipteridae,Natalidae),Thyropteridae),Myzopodidae),(Molossidae,Vespertilionidae),Mystacinidae),((Mormoopidae,Noctilionidae),Phyllostomidae))),Emballonuridae),Pteropodidae),Cynocephalidae),Tupaiidae);
+
+[weight = 1]	tree robb_pr_354_5.tre = (Cynocephalidae,(Pteropodidae,(Emballonuridae,(((Vespertilionidae,Molossidae),(Phyllostomidae,(Mormoopidae,Noctilionidae))),(Rhinopomatidae,(Rhinolophidae,Megadermatidae))))));
+
+[weight = 1]	tree robb_pr_354_6.tre = (Cynocephalidae,(Pteropodidae,((Emballonuridae,((Vespertilionidae,Molossidae),(Noctilionidae,(Phyllostomidae,Mormoopidae)))),(Rhinopomatidae,(Rhinolophidae,Megadermatidae)))));
+
+[weight = 1]	tree robb_pr_354_7.tre = (Cynocephalidae,(Pteropodidae,(((Vespertilionidae,Molossidae),(Noctilionidae,(Phyllostomidae,Mormoopidae))),(Emballonuridae,(Rhinopomatidae,(Rhinolophidae,Megadermatidae))))));	
+
+[weight = 1]	tree robb_pr_344_3_semiMRP_cons.tre = ((((((((((((((Balaenopteridae,Delphinidae),Hippopotamidae),(Bovidae,Suidae)),Camelidae),(Equidae,Rhinocerotidae,Tapiridae)),(Canidae,Felidae),Manidae),((Nycteridae,Phyllostomidae),Pteropodidae)),((Erinaceidae,Soricidae),Talpidae)),(((Chrysochloridae,Tenrecidae),(Orycteropodidae,Plesiorycteropodidae)),(Elephantidae,Procaviidae,Trichechidae)),(Cynocephalidae,Tupaiidae),(Dasypodidae,Myrmecophagidae),Macroscelididae),(((Callitrichidae,Cebidae),(Cercopithecidae,Hominidae)),Lemuridae,Tarsiidae)),(Leporidae,Ochotonidae)),(((Caviidae,Hydrochaeridae),Erethizontidae),Hystricidae)),Muridae),Real_OG);
+
+[weight = 1]	tree robb_pr_343_1.tre = (((((((Tragulidae,(Antilocapridae,((Bovidae,Cervidae),Giraffidae))),(((((Platanistidae,(Delphinidae,(Phocoenidae,Monodontidae))),Ziphiidae),Physeteridae),(Balaenidae,(Balaenopteridae,Eschrichtiidae))),Hippopotamidae)),((Tayassuidae,Suidae),Camelidae)),(Equidae,(Tapiridae,Rhinocerotidae))),(Manidae,(Canidae,(Procyonidae,(Phocidae,Ursidae))))),(Hominidae,(Leporidae,Muridae))),((Procaviidae,(Elephantidae,(Dugongidae,Trichechidae))),(Orycteropodidae,Macroscelididae)));
+
+[weight = 1]	tree Wilson_and_Reeder_1993_seed.tre = (((Abrocomidae,Agoutidae,Anomaluridae,Aplodontidae,Bathyergidae,Capromyidae,Castoridae,Caviidae,Chinchillidae,Ctenodactylidae,Ctenomyidae,Dasyproctidae,Dinomyidae,Dipodidae,Echimyidae,Erethizontidae,Geomyidae,Heteromyidae,Hydrochaeridae,Hystricidae,Muridae,Myocastoridae,Myoxidae,Octodontidae,Pedetidae,Petromuridae,Sciuridae,Thryonomyidae),(Antilocapridae,Bovidae,Camelidae,Cervidae,Giraffidae,Hippopotamidae,Moschidae,Suidae,Tayassuidae,Tragulidae),(Balaenidae,Balaenopteridae,Delphinidae,Eschrichtiidae,Monodontidae,Neobalaenidae,Phocoenidae,Physeteridae,Platanistidae,Ziphiidae),(Bradypodidae,Dasypodidae,Megalonychidae,Myrmecophagidae),(Callitrichidae,Cebidae,Cercopithecidae,Cheirogaleidae,Daubentoniidae,Galagonidae,Hominidae,Hylobatidae,Indridae,Lemuridae,Loridae,Megaladapidae,Tarsiidae),(Canidae,Felidae,Herpestidae,Hyaenidae,Mustelidae,Odobenidae,Otariidae,Phocidae,Procyonidae,Ursidae,Viverridae),(Chrysochloridae,Erinaceidae,Nesophontidae,Solenodontidae,Soricidae,Talpidae,Tenrecidae),(Craseonycteridae,Emballonuridae,Furipteridae,Megadermatidae,Molossidae,Mormoopidae,Mystacinidae,Myzopodidae,Natalidae,Noctilionidae,Nycteridae,Phyllostomidae,Pteropodidae,Rhinolophidae,Rhinopomatidae,Thyropteridae,Vespertilionidae),Cynocephalidae,(Dugongidae,Trichechidae),Elephantidae,(Equidae,Rhinocerotidae,Tapiridae),(Leporidae,Ochotonidae),Macroscelididae,Manidae,Orycteropodidae,Procaviidae,Tupaiidae,Plesiorycteropodidae),Real_OG);
+
+end;

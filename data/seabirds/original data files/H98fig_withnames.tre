@@ -1,0 +1,9 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Apr 23 00:57:16 2009]
+[!
+>Data file = /v/filer4b/v19q001/mswenson/SCM_PROJECT/REAL_DATA/KENNEDY_2002/H98fig.tre
+>Tree(s) input to PAUP* as user-defined tree(s)
+]
+tree PAUP_1 = [&R] (Sula_bassana,((Oceanodroma_castro,Hydrobates_pelagicus),(((Macronectes_giganteus,(Fulmarus_glacialoides,Fulmarus_glacialis)),(Bulweria_bulwerii,(((Puffinus_assimilis,(Puffinus_puffinus,(Puffinus_yelkouan,Puffinus_mauretanicus))),Calonectris_diomedea),Procellaria_cinerea))),(((Thalassarche_bulleri,Thalassarche_chrysostoma),(Phoebetria_fusca,Phoebetria_palpebrata)),((Phoebastria_albatrus,Phoebastria_immutabilis),(Diomedea_amsterdamensis,Diomedea_epomophora))))),Phalacrocorax_aristoteles);
+End;

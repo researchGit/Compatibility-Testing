@@ -1,0 +1,9 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Apr 23 00:55:17 2009]
+[!
+>Data file = /v/filer4b/v19q001/mswenson/SCM_PROJECT/REAL_DATA/KENNEDY_2002/A96fig.tre
+>Tree(s) input to PAUP* as user-defined tree(s)
+]
+tree PAUP_1 = [&R] ((((Puffinus_puffinus,Puffinus_auricularis,Puffinus_lherminieri,Puffinus_assimilis,(Puffinus_huttoni,Puffinus_gavia),(Puffinus_yelkouan,Puffinus_mauretanicus)),Puffinus_nativitatis),((Puffinus_pacificus,Puffinus_bulleri),Puffinus_tenuirostris,Puffinus_griseus,Puffinus_gravis,(Puffinus_carneipes,Puffinus_creatopus))),Fulmarus_glacialis);
+End;

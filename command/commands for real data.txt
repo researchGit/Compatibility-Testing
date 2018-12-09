@@ -1,0 +1,31 @@
+This file contains all three commands used for executing real data that we
+discussed in the paper.
+
+In the command line, direct to the unix executable file
+
+To run seabirds data, execute:
+(disable edge promotions)
+./CT -i ../../data/seabirds/sourcetrees/kennedy.tree
+or
+./CT -i --p 0 ../../data/seabirds/sourcetrees/kennedy.tree
+
+(enable edge promotions)
+./CT -i --p 1 ../../data/seabirds/sourcetrees/kennedy.tree
+
+To run placental mammals data, execute:
+(disable edge promotions)
+./CT -i ../../data/placentalmammals/sourcetrees/beck.source_trees
+or
+./CT -i --p 0 ../../data/placentalmammals/sourcetrees/beck.source_trees
+
+(enable edge promotions)
+./CT -i --p 1 ../../data/placentalmammals/sourcetrees/beck.source_trees
+
+To run legume data, execute:
+(disable edge promotions):
+./CT -i ../../data/LegumeSuperinput
+or
+./CT -i --p 0 ../../data/LegumeSuperinput
+
+(enable edge promotions):
+./CT -i --p 1 ../../data/LegumeSuperinput

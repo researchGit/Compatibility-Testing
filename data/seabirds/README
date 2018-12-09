@@ -1,0 +1,32 @@
+======================================================================
+
+This file contains Newick format source trees for the seabirds dataset; 
+it is suitably formatted to be used as input to SuperFine:
+
+seabirds/source trees/kennedy.source_trees_manual
+
+======================================================================
+
+These are the data files for the seabird dataset acquired from the original
+study's authors:
+
+seabirds/original data files/A96fig_withnames.tre
+seabirds/original data files/B98fig_withnames.tre
+seabirds/original data files/H98fig_withnames.tre
+seabirds/original data files/I85fig_withnames.tre
+seabirds/original data files/N98fig_withnames.tre
+seabirds/original data files/P95fig_withnames.tre
+seabirds/original data files/S90fig_withnames.tre
+
+======================================================================
+
+These two files are Python scripts which were used to transform the
+original data files into the single source tree file.  The 
+"cleanKennedy.py" script combines Newick trees from the original data files 
+into a single file; the "recleanKennedy.py" script reads the resulting file 
+and removes taxa as described in the SOM.
+
+seabirds/cleaning scripts/cleanKennedy.py
+seabirds/cleaning scripts/recleanKennedy.py
+
+======================================================================

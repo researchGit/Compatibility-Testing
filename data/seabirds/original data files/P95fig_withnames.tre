@@ -1,0 +1,9 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Thu Apr 23 01:01:21 2009]
+[!
+>Data file = /v/filer4b/v19q001/mswenson/SCM_PROJECT/REAL_DATA/KENNEDY_2002/P95fig.tre
+>Tree(s) input to PAUP* as user-defined tree(s)
+]
+tree PAUP_1 = [&R] (((Stictocarbo_punctatus,(((Megadyptes_antipodes,Eudyptes_pachyrhynchus),Eudyptula_minor),Pygoscelis_adeliae)),(((Diomedea_epomophora,Thalassarche_bulleri),Pelagodroma_marina),(Daption_capense,((Pelecanoides_georgicus,(Pachyptila_vittata,Pachyptila_turtur)),(((Puffinus_griseus,Puffinus_huttoni),Procellaria_westlandica),(Pterodroma_inexpectata,Pterodroma_cookii)))))),Larus_dominicanus);
+End;
