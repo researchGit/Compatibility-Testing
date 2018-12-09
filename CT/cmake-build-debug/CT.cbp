@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CT"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CT">
+				<Option output="/Users/leiliu/ClionBackup/CT/cmake-build-debug/CT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 CT"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CT/fast">
+				<Option output="/Users/leiliu/ClionBackup/CT/cmake-build-debug/CT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 CT/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/ClusterInitializer.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/ClusterInitializer.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/CompatibilityAnalyzer.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/CompatibilityAnalyzer.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/FastCompatibilityTest.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/FastCompatibilityTest.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/HDT.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/HDT.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/HDT_Structure.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/InputGenerator.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/InputGenerator.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/Linked_List_Builder.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/Linked_List_Builder.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/Parser.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/Parser.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/ScoreAnalyzer.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/ScoreAnalyzer.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/SpanningForest.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/SpanningForest.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/SparseTable.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/SparseTable.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/Treap.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/Treap.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/TreeStructure.h">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/main.cpp">
+			<Option target="CT"/>
+		</Unit>
+		<Unit filename="/Users/leiliu/ClionBackup/CT/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
