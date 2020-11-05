@@ -222,7 +222,7 @@ unordered_map<string, linked_list_entry> CompatibilityAnalyzer::convert2list(tre
 
                 unordered_map<string, linked_list_entry>::iterator _linked_list_finder = linked_list.find(temp_node->label);
                 if(_linked_list_finder != linked_list.end()){
-                    linked_list_entry *n = new linked_list_entry(temp_node->label, WHITE, tree_index);
+                    linked_list_entry *n = new linked_list_entry((*_chd_set)->label, WHITE, tree_index);
                     backUpEntrySet->insert(n);
                     _linked_list_finder->second.ajcn_list.insert(unordered_map<string, linked_list_entry>::value_type(n->value, (*n)));
                 }
