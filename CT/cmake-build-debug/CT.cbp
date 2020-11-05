@@ -8,154 +8,154 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option working_dir="/Users/lei/CLionProjects/CT/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option working_dir="/Users/lei/CLionProjects/CT/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option working_dir="/Users/lei/CLionProjects/CT/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CT">
-				<Option output="/Users/leiliu/ClionBackup/CT/cmake-build-debug/CT" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option output="/Users/lei/CLionProjects/CT/cmake-build-debug/CT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lei/CLionProjects/CT/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 CT"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 CT"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CT/fast">
-				<Option output="/Users/leiliu/ClionBackup/CT/cmake-build-debug/CT" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/leiliu/ClionBackup/CT/cmake-build-debug"/>
+				<Option output="/Users/lei/CLionProjects/CT/cmake-build-debug/CT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lei/CLionProjects/CT/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 CT/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/leiliu/ClionBackup/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 CT/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/lei/CLionProjects/CT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/ClusterInitializer.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/ClusterInitializer.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/ClusterInitializer.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/ClusterInitializer.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/CompatibilityAnalyzer.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/CompatibilityAnalyzer.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/CompatibilityAnalyzer.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/CompatibilityAnalyzer.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/FastCompatibilityTest.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/FastCompatibilityTest.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/FastCompatibilityTest.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/FastCompatibilityTest.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/HDT.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/HDT.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/HDT.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/HDT.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/HDT_Structure.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/HDT_Structure.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/InputGenerator.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/InputGenerator.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/InputGenerator.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/InputGenerator.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/Linked_List_Builder.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/Linked_List_Builder.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/Linked_List_Builder.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/Linked_List_Builder.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/Parser.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/Parser.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/Parser.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/Parser.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/ScoreAnalyzer.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/ScoreAnalyzer.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/ScoreAnalyzer.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/ScoreAnalyzer.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/SpanningForest.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/SpanningForest.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/SpanningForest.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/SpanningForest.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/SparseTable.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/SparseTable.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/SparseTable.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/SparseTable.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/Treap.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/Treap.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/Treap.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/Treap.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/TreeStructure.h">
+		<Unit filename="/Users/lei/CLionProjects/CT/TreeStructure.h">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/main.cpp">
+		<Unit filename="/Users/lei/CLionProjects/CT/main.cpp">
 			<Option target="CT"/>
 		</Unit>
-		<Unit filename="/Users/leiliu/ClionBackup/CT/CMakeLists.txt">
+		<Unit filename="/Users/lei/CLionProjects/CT/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

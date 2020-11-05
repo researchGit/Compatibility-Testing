@@ -6,19 +6,41 @@
 
 #IncludeRegexTransform: 
 
-/Users/leiliu/ClionBackup/CT/CompatibilityAnalyzer.h
+/Users/lei/CLionProjects/CT/ClusterInitializer.cpp
+ClusterInitializer.h
+/Users/lei/CLionProjects/CT/ClusterInitializer.h
+
+/Users/lei/CLionProjects/CT/ClusterInitializer.h
+SparseTable.h
+/Users/lei/CLionProjects/CT/SparseTable.h
+
+/Users/lei/CLionProjects/CT/CompatibilityAnalyzer.cpp
+CompatibilityAnalyzer.h
+/Users/lei/CLionProjects/CT/CompatibilityAnalyzer.h
+fstream
+-
+queue
+-
+
+/Users/lei/CLionProjects/CT/CompatibilityAnalyzer.h
 Parser.h
-/Users/leiliu/ClionBackup/CT/Parser.h
+/Users/lei/CLionProjects/CT/Parser.h
 unordered_map
-/Users/leiliu/ClionBackup/CT/unordered_map
+/Users/lei/CLionProjects/CT/unordered_map
 Linked_List_Builder.h
-/Users/leiliu/ClionBackup/CT/Linked_List_Builder.h
+/Users/lei/CLionProjects/CT/Linked_List_Builder.h
 HDT_Structure.h
-/Users/leiliu/ClionBackup/CT/HDT_Structure.h
+/Users/lei/CLionProjects/CT/HDT_Structure.h
 stack
 -
 
-/Users/leiliu/ClionBackup/CT/FastCompatibilityTest.h
+/Users/lei/CLionProjects/CT/FastCompatibilityTest.cpp
+FastCompatibilityTest.h
+/Users/lei/CLionProjects/CT/FastCompatibilityTest.h
+ctime
+-
+
+/Users/lei/CLionProjects/CT/FastCompatibilityTest.h
 iostream
 -
 unordered_map
@@ -26,23 +48,27 @@ unordered_map
 unordered_set
 -
 Linked_List_Builder.h
-/Users/leiliu/ClionBackup/CT/Linked_List_Builder.h
+/Users/lei/CLionProjects/CT/Linked_List_Builder.h
 queue
 -
 vector
 -
 HDT_Structure.h
-/Users/leiliu/ClionBackup/CT/HDT_Structure.h
+/Users/lei/CLionProjects/CT/HDT_Structure.h
 HDT.h
-/Users/leiliu/ClionBackup/CT/HDT.h
+/Users/lei/CLionProjects/CT/HDT.h
 list
 -
 
-/Users/leiliu/ClionBackup/CT/HDT.h
+/Users/lei/CLionProjects/CT/HDT.cpp
+HDT.h
+/Users/lei/CLionProjects/CT/HDT.h
+
+/Users/lei/CLionProjects/CT/HDT.h
 HDT_Structure.h
-/Users/leiliu/ClionBackup/CT/HDT_Structure.h
+/Users/lei/CLionProjects/CT/HDT_Structure.h
 Linked_List_Builder.h
-/Users/leiliu/ClionBackup/CT/Linked_List_Builder.h
+/Users/lei/CLionProjects/CT/Linked_List_Builder.h
 map
 -
 set
@@ -54,7 +80,7 @@ unordered_map
 unordered_set
 -
 Treap.h
-/Users/leiliu/ClionBackup/CT/Treap.h
+/Users/lei/CLionProjects/CT/Treap.h
 stack
 -
 queue
@@ -64,7 +90,7 @@ ctime
 random
 -
 
-/Users/leiliu/ClionBackup/CT/HDT_Structure.h
+/Users/lei/CLionProjects/CT/HDT_Structure.h
 iostream
 -
 map
@@ -78,7 +104,11 @@ unordered_set
 sstream
 -
 
-/Users/leiliu/ClionBackup/CT/InputGenerator.h
+/Users/lei/CLionProjects/CT/InputGenerator.cpp
+InputGenerator.h
+/Users/lei/CLionProjects/CT/InputGenerator.h
+
+/Users/lei/CLionProjects/CT/InputGenerator.h
 iostream
 -
 vector
@@ -88,9 +118,9 @@ unordered_set
 unordered_map
 -
 Linked_List_Builder.h
-/Users/leiliu/ClionBackup/CT/Linked_List_Builder.h
+/Users/lei/CLionProjects/CT/Linked_List_Builder.h
 HDT.h
-/Users/leiliu/ClionBackup/CT/HDT.h
+/Users/lei/CLionProjects/CT/HDT.h
 inttypes.h
 -
 cinttypes
@@ -98,7 +128,7 @@ cinttypes
 stdio.h
 -
 sstream
-/Users/leiliu/ClionBackup/CT/sstream
+/Users/lei/CLionProjects/CT/sstream
 random
 -
 stack
@@ -106,7 +136,11 @@ stack
 queue
 -
 
-/Users/leiliu/ClionBackup/CT/Linked_List_Builder.h
+/Users/lei/CLionProjects/CT/Linked_List_Builder.cpp
+Linked_List_Builder.h
+/Users/lei/CLionProjects/CT/Linked_List_Builder.h
+
+/Users/lei/CLionProjects/CT/Linked_List_Builder.h
 iostream
 -
 unordered_set
@@ -116,15 +150,43 @@ unordered_map
 map
 -
 
-/Users/leiliu/ClionBackup/CT/Parser.h
-SparseTable.h
-/Users/leiliu/ClionBackup/CT/SparseTable.h
+/Users/lei/CLionProjects/CT/Parser.cpp
+Parser.h
+/Users/lei/CLionProjects/CT/Parser.h
+fstream
+-
+sstream
+-
 
-/Users/leiliu/ClionBackup/CT/SpanningForest.h
+/Users/lei/CLionProjects/CT/Parser.h
+SparseTable.h
+/Users/lei/CLionProjects/CT/SparseTable.h
+
+/Users/lei/CLionProjects/CT/ScoreAnalyzer.cpp
+ScoreAnalyzer.h
+/Users/lei/CLionProjects/CT/ScoreAnalyzer.h
+queue
+-
+fstream
+-
+sstream
+-
+
+/Users/lei/CLionProjects/CT/ScoreAnalyzer.h
+Parser.h
+/Users/lei/CLionProjects/CT/Parser.h
+SparseTable.h
+/Users/lei/CLionProjects/CT/SparseTable.h
+
+/Users/lei/CLionProjects/CT/SpanningForest.cpp
+SpanningForest.h
+/Users/lei/CLionProjects/CT/SpanningForest.h
+
+/Users/lei/CLionProjects/CT/SpanningForest.h
 Linked_List_Builder.h
-/Users/leiliu/ClionBackup/CT/Linked_List_Builder.h
+/Users/lei/CLionProjects/CT/Linked_List_Builder.h
 HDT_Structure.h
-/Users/leiliu/ClionBackup/CT/HDT_Structure.h
+/Users/lei/CLionProjects/CT/HDT_Structure.h
 iostream
 -
 set
@@ -138,7 +200,11 @@ unordered_map
 stack
 -
 
-/Users/leiliu/ClionBackup/CT/SparseTable.h
+/Users/lei/CLionProjects/CT/SparseTable.cpp
+SparseTable.h
+/Users/lei/CLionProjects/CT/SparseTable.h
+
+/Users/lei/CLionProjects/CT/SparseTable.h
 iostream
 -
 unordered_set
@@ -150,11 +216,17 @@ set
 vector
 -
 TreeStructure.h
-/Users/leiliu/ClionBackup/CT/TreeStructure.h
+/Users/lei/CLionProjects/CT/TreeStructure.h
 
-/Users/leiliu/ClionBackup/CT/Treap.h
+/Users/lei/CLionProjects/CT/Treap.cpp
+Treap.h
+/Users/lei/CLionProjects/CT/Treap.h
+random
+-
+
+/Users/lei/CLionProjects/CT/Treap.h
 HDT_Structure.h
-/Users/leiliu/ClionBackup/CT/HDT_Structure.h
+/Users/lei/CLionProjects/CT/HDT_Structure.h
 map
 -
 set
@@ -168,7 +240,7 @@ unordered_map
 unordered_set
 -
 
-/Users/leiliu/ClionBackup/CT/TreeStructure.h
+/Users/lei/CLionProjects/CT/TreeStructure.h
 iostream
 -
 set
@@ -176,17 +248,17 @@ set
 unordered_set
 -
 
-/Users/leiliu/ClionBackup/CT/main.cpp
+/Users/lei/CLionProjects/CT/main.cpp
 iostream
 -
 InputGenerator.h
-/Users/leiliu/ClionBackup/CT/InputGenerator.h
+/Users/lei/CLionProjects/CT/InputGenerator.h
 SpanningForest.h
-/Users/leiliu/ClionBackup/CT/SpanningForest.h
+/Users/lei/CLionProjects/CT/SpanningForest.h
 FastCompatibilityTest.h
-/Users/leiliu/ClionBackup/CT/FastCompatibilityTest.h
+/Users/lei/CLionProjects/CT/FastCompatibilityTest.h
 CompatibilityAnalyzer.h
-/Users/leiliu/ClionBackup/CT/CompatibilityAnalyzer.h
+/Users/lei/CLionProjects/CT/CompatibilityAnalyzer.h
 ctime
 -
 sstream
